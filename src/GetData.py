@@ -63,12 +63,6 @@ def get_channel_id(channelName):
 
     return id
 
-
-
-if __name__ == "__main__":
-
-    print(get_channel_stats("CreatedTechOfficial"))
-   
    
     
    
