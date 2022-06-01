@@ -16,5 +16,7 @@ channel_id = get_channel_id(channelName)
 
 if __name__ == "__main__":
     yt = YoutubeStats(api_key, channel_id)
-    data = yt.get_channel_statistics()
-    yt.dump()
+    #data = yt.get_channel_statistics()
+    #yt.dump()
+
+    yt.get_channel_video_data()
