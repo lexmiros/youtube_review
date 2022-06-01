@@ -2,7 +2,7 @@ import os
 import requests
 from dotenv import load_dotenv
 from googleapiclient.discovery import build
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 
 load_dotenv()
 
@@ -27,7 +27,7 @@ def get_channel_stats(channelName):
     """
     channel_id = get_channel_id(channelName)   
     request = youtube.channels().list( 
-        part='statistics',
+        part=['statistics', 'contentDetails'],
         id = channel_id
     )
 
