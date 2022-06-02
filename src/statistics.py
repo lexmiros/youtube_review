@@ -66,7 +66,7 @@ class YoutubeStats:
                     #Get the video ID, and stats, and add to data dictionary on ID
                     new_id = entry["id"]
                     new_data = entry["statistics"]
-                    data[new_id] = new_data
+                    data[new_id]["statistics"] = new_data
                 
                 #Reset list
                 video_id_subset = []
@@ -95,7 +95,8 @@ class YoutubeStats:
                 kind = item['id']['kind']
                 if kind == "youtube#video":
                     video_id = item['id']['videoId']
-                    videos[video_id] = dict()
+                    videos[video_id] = {"statistics":{}, "snippet":{}}
+                    videos[video_id]["snippet"] = item["snippet"]
             except KeyError:
                 print("No video IDs found")
         return videos, nextPageToken
@@ -103,11 +104,11 @@ class YoutubeStats:
 
 
     def _get_channel_videos(self, limit=None):
-        url = f'https://www.googleapis.com/youtube/v3/search/?key={self.api_search}&channelId={self.channel_id}&part=id&order=date'
+        url = f'https://www.googleapis.com/youtube/v3/search/?key={self.api_search}&channelId={self.channel_id}&part=snippet&order=date'
         
         if limit is not None and isinstance(limit, int):
             url += f"&maxResults={str(limit)}"
-        print(url)
+      
         vid, npt = self._get_channel_videos_per_page(url)
 
         i = 0
