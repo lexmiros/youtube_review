@@ -4,8 +4,9 @@ import json
 
 class YoutubeStats:
 
-    def __init__(self, api_key, channel_id):
+    def __init__(self, api_key, api_search ,channel_id):
         self.api_key = api_key
+        self.api_search = api_search
         self.channel_id = channel_id
         self.channel_statistics = None
         self.video_data = None
@@ -26,7 +27,11 @@ class YoutubeStats:
 
     def get_channel_video_data(self):
         video = self._get_channel_videos(limit=50)
-        print(video)
+
+        return video
+        
+
+
 
     def _get_channel_videos_per_page(self, url):
         json_url = requests.get(url)
@@ -52,10 +57,11 @@ class YoutubeStats:
 
 
     def _get_channel_videos(self, limit=None):
-        url = f'https://www.googleapis.com/youtube/v3/search/?key={self.api_key}&channelId={self.channel_id}&part=id&order=date'
+        url = f'https://www.googleapis.com/youtube/v3/search/?key={self.api_search}&channelId={self.channel_id}&part=id&order=date'
+        
         if limit is not None and isinstance(limit, int):
             url += f"&maxResults={str(limit)}"
-
+        print(url)
         vid, npt = self._get_channel_videos_per_page(url)
 
         i = 0
