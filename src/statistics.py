@@ -4,10 +4,11 @@ import json
 
 class YoutubeStats:
 
-    def __init__(self, api_key, api_search ,channel_id):
+    def __init__(self, api_key, api_search ,channel_id, channel_name):
         self.api_key = api_key
         self.api_search = api_search
         self.channel_id = channel_id
+        self.channel_name = channel_name
         self.channel_statistics = None
         self.video_data = None
 
@@ -26,12 +27,45 @@ class YoutubeStats:
     
 
     def get_channel_video_data(self):
-        video = self._get_channel_videos(limit=50)
 
-        return video
+        #Get a dictionary with video IDs as the keys
+        data = self._get_channel_videos(limit=50)
+
+        #Create empty lists
+        video_id_list = []
+        video_id_subset = []
+    
+        #Get each id and add to list
+        for id in data:
+            video_id_list.append(id)
+
+        #For every 50 IDs, add to a list, convert to a single comma seperated string
+        #Request statistics for the 50 Ids, and append to data dictionary based on key
+        #Reset the list after 50 ids, or at end of Ids
+
+        for number, id in enumerate(video_id_list):
+            if (number + 1) % 50 == 0 or (number+1) == len(video_id_list):
+                video_id_subset.append(id)
+                video_id_string = ','.join(str(e) for e in video_id_subset)
+                url = f"https://www.googleapis.com/youtube/v3/videos?key={self.api_key}&part=statistics&id={video_id_string}"
+                json_url = requests.get(url)
+                data_video = json.loads(json_url.text)
+                data_video_items = data_video["items"]
+
+                for entry in data_video_items:
+                    new_id = entry["id"]
+                    new_data = entry["statistics"]
+                    data[new_id] = new_data
+                
+                video_id_subset = []
+
+            else: 
+                video_id_subset.append(id)
+
+        self.video_data = data
+                       
+        return data
         
-
-
 
     def _get_channel_videos_per_page(self, url):
         json_url = requests.get(url)
@@ -75,14 +109,15 @@ class YoutubeStats:
         return vid
 
     def dump(self):
-        if self.channel_statistics is None:
+        if self.channel_statistics is None or self.video_data is None:
             return
+
         channel_title = "TODO" #TODO get channel name from data
         channel_title = channel_title.replace(" ", "_").lower()
-        file_name = f"{channel_title}.json"
+        file_name = f"{self.channel_name}.json"
 
         with open(file_name, "w") as f:
-            json.dump(self.channel_statistics, f, indent=4)
+            json.dump([self.channel_statistics,self.video_data], f, indent=4)
         print('file dumped')
         
 
