@@ -68,7 +68,18 @@ class YoutubeStats:
                     new_id = entry["id"]
                     new_data = entry["statistics"]
                     data[new_id]["statistics"] = new_data
-                
+
+                url_duration = f"https://www.googleapis.com/youtube/v3/videos?key={self.api_key}&part=contentDetails&id={video_id_string}"
+                json_url_dur = requests.get(url_duration)
+                data_video_dur = json.loads(json_url_dur.text)
+                #Get into items list from query results from video statistics
+                data_video_items_dur = data_video_dur["items"]
+                for entry in data_video_items_dur:
+                    #Get the video ID, and stats, and add to data dictionary on ID
+                    new_id = entry["id"]
+                    new_data = entry["contentDetails"]["duration"]
+                    data[new_id]["duration"] = new_data
+
                 #Reset list
                 video_id_subset = []
 
@@ -96,7 +107,7 @@ class YoutubeStats:
                 kind = item['id']['kind']
                 if kind == "youtube#video":
                     video_id = item['id']['videoId']
-                    videos[video_id] = {"statistics":{}, "snippet":{}}
+                    videos[video_id] = {"statistics":{}, "duration":[] ,"snippet":{}}
                     videos[video_id]["snippet"] = item["snippet"]
             except KeyError:
                 print("No video IDs found")
@@ -121,6 +132,10 @@ class YoutubeStats:
 
             i +=1
         return vid
+    
+    def get_channel_comments(self):
+        """"""
+
 
     def dump(self):
         if self.channel_statistics is None or self.video_data is None:
