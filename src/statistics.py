@@ -11,6 +11,7 @@ class YoutubeStats:
         self.channel_name = channel_name
         self.channel_statistics = None
         self.video_data = None
+        self.comments = None
 
     def get_channel_statistics(self):
         url = f'https://www.googleapis.com/youtube/v3/channels?part=statistics&id={self.channel_id}&key={self.api_key}'
@@ -124,13 +125,13 @@ class YoutubeStats:
     def dump(self):
         if self.channel_statistics is None or self.video_data is None:
             return
-
-        channel_title = "TODO" #TODO get channel name from data
-        channel_title = channel_title.replace(" ", "_").lower()
         file_name = f"{self.channel_name}.json"
-
+        x = {
+            "channel_stats" : self.channel_statistics,
+            "Videos" : self.video_data
+        }
         with open(file_name, "w") as f:
-            json.dump([self.channel_statistics,self.video_data], f, indent=4)
+            json.dump(x, f, indent=4)
         print('file dumped')
         
 

@@ -1,15 +1,15 @@
-[
-    {
+{
+    "channel_stats": {
         "viewCount": "33994809",
         "subscriberCount": "167000",
         "hiddenSubscriberCount": false,
         "videoCount": "183"
     },
-    {
+    "Videos": {
         "h2akY1oOEf4": {
             "statistics": {
-                "viewCount": "7340",
-                "likeCount": "359",
+                "viewCount": "7381",
+                "likeCount": "362",
                 "favoriteCount": "0",
                 "commentCount": "40"
             },
@@ -42,7 +42,7 @@
         },
         "bkfaYXphCOo": {
             "statistics": {
-                "viewCount": "7685",
+                "viewCount": "7693",
                 "likeCount": "442",
                 "favoriteCount": "0",
                 "commentCount": "31"
@@ -76,7 +76,7 @@
         },
         "UHUxKoZ4s04": {
             "statistics": {
-                "viewCount": "20251",
+                "viewCount": "20257",
                 "likeCount": "723",
                 "favoriteCount": "0",
                 "commentCount": "104"
@@ -110,7 +110,7 @@
         },
         "Pjj9MrOKOic": {
             "statistics": {
-                "viewCount": "9750",
+                "viewCount": "9751",
                 "likeCount": "331",
                 "favoriteCount": "0",
                 "commentCount": "75"
@@ -144,7 +144,7 @@
         },
         "RGaSYgaclKE": {
             "statistics": {
-                "viewCount": "25406",
+                "viewCount": "25411",
                 "likeCount": "804",
                 "favoriteCount": "0",
                 "commentCount": "159"
@@ -314,7 +314,7 @@
         },
         "OFVVUl5jbcE": {
             "statistics": {
-                "viewCount": "24952",
+                "viewCount": "24954",
                 "likeCount": "663",
                 "favoriteCount": "0",
                 "commentCount": "171"
@@ -348,7 +348,7 @@
         },
         "g1UE4lsweG4": {
             "statistics": {
-                "viewCount": "25822",
+                "viewCount": "25823",
                 "likeCount": "782",
                 "favoriteCount": "0",
                 "commentCount": "90"
@@ -416,7 +416,7 @@
         },
         "0gPUUfnqNhg": {
             "statistics": {
-                "viewCount": "47145",
+                "viewCount": "47147",
                 "likeCount": "1373",
                 "favoriteCount": "0",
                 "commentCount": "340"
@@ -484,7 +484,7 @@
         },
         "oAFBB3dt1ys": {
             "statistics": {
-                "viewCount": "77184",
+                "viewCount": "77185",
                 "likeCount": "1636",
                 "favoriteCount": "0",
                 "commentCount": "273"
@@ -518,7 +518,7 @@
         },
         "_bA1f0215SI": {
             "statistics": {
-                "viewCount": "36478",
+                "viewCount": "36481",
                 "likeCount": "913",
                 "favoriteCount": "0",
                 "commentCount": "115"
@@ -552,7 +552,7 @@
         },
         "yna5iPyDLg4": {
             "statistics": {
-                "viewCount": "68502",
+                "viewCount": "68504",
                 "likeCount": "2013",
                 "favoriteCount": "0",
                 "commentCount": "258"
@@ -654,7 +654,7 @@
         },
         "_MWt7XLt5B4": {
             "statistics": {
-                "viewCount": "81027",
+                "viewCount": "81030",
                 "likeCount": "1559",
                 "favoriteCount": "0",
                 "commentCount": "192"
@@ -722,7 +722,7 @@
         },
         "xvVCerV61_c": {
             "statistics": {
-                "viewCount": "378536",
+                "viewCount": "378540",
                 "likeCount": "6663",
                 "favoriteCount": "0",
                 "commentCount": "263"
@@ -858,8 +858,8 @@
         },
         "z9PAiaKRM5U": {
             "statistics": {
-                "viewCount": "499430",
-                "likeCount": "9389",
+                "viewCount": "499511",
+                "likeCount": "9390",
                 "favoriteCount": "0",
                 "commentCount": "756"
             },
@@ -892,7 +892,7 @@
         },
         "c2vJ7cS3Sh8": {
             "statistics": {
-                "viewCount": "56867",
+                "viewCount": "56870",
                 "likeCount": "1285",
                 "favoriteCount": "0",
                 "commentCount": "191"
@@ -926,7 +926,7 @@
         },
         "Ko65NgiZmas": {
             "statistics": {
-                "viewCount": "215228",
+                "viewCount": "215230",
                 "likeCount": "3548",
                 "favoriteCount": "0",
                 "commentCount": "293"
@@ -960,7 +960,7 @@
         },
         "iS_uPukPuo4": {
             "statistics": {
-                "viewCount": "67151",
+                "viewCount": "67154",
                 "likeCount": "1132",
                 "favoriteCount": "0",
                 "commentCount": "217"
@@ -1062,7 +1062,7 @@
         },
         "weQRgzkcECk": {
             "statistics": {
-                "viewCount": "169118",
+                "viewCount": "169121",
                 "likeCount": "2857",
                 "favoriteCount": "0",
                 "commentCount": "392"
@@ -1096,7 +1096,7 @@
         },
         "T6qQ7cM--B4": {
             "statistics": {
-                "viewCount": "81264",
+                "viewCount": "81267",
                 "likeCount": "1257",
                 "favoriteCount": "0",
                 "commentCount": "176"
@@ -1198,8 +1198,8 @@
         },
         "DHlI101WOhI": {
             "statistics": {
-                "viewCount": "134198",
-                "likeCount": "2360",
+                "viewCount": "134199",
+                "likeCount": "2361",
                 "favoriteCount": "0",
                 "commentCount": "417"
             },
@@ -1266,7 +1266,7 @@
         },
         "nL6j7AovGNI": {
             "statistics": {
-                "viewCount": "83942",
+                "viewCount": "83944",
                 "likeCount": "1087",
                 "favoriteCount": "0",
                 "commentCount": "185"
@@ -1300,7 +1300,7 @@
         },
         "rZfflHtRYQo": {
             "statistics": {
-                "viewCount": "89214",
+                "viewCount": "89216",
                 "likeCount": "2243",
                 "favoriteCount": "0",
                 "commentCount": "322"
@@ -1402,7 +1402,7 @@
         },
         "GexZsG0HdL8": {
             "statistics": {
-                "viewCount": "139743",
+                "viewCount": "139745",
                 "likeCount": "2135",
                 "favoriteCount": "0",
                 "commentCount": "441"
@@ -1606,7 +1606,7 @@
         },
         "Jyp55jmxQew": {
             "statistics": {
-                "viewCount": "71393",
+                "viewCount": "71394",
                 "likeCount": "1863",
                 "favoriteCount": "0",
                 "commentCount": "362"
@@ -1742,7 +1742,7 @@
         },
         "i9WozXCv07M": {
             "statistics": {
-                "viewCount": "699274",
+                "viewCount": "699286",
                 "likeCount": "8465",
                 "favoriteCount": "0",
                 "commentCount": "214"
@@ -1810,7 +1810,7 @@
         },
         "sNkhlPqv0Cg": {
             "statistics": {
-                "viewCount": "235251",
+                "viewCount": "235259",
                 "likeCount": "3716",
                 "favoriteCount": "0",
                 "commentCount": "328"
@@ -1844,7 +1844,7 @@
         },
         "UFbEz7ZUTGc": {
             "statistics": {
-                "viewCount": "28619",
+                "viewCount": "28620",
                 "likeCount": "486",
                 "favoriteCount": "0",
                 "commentCount": "52"
@@ -1946,7 +1946,7 @@
         },
         "3wMHKSo8mhk": {
             "statistics": {
-                "viewCount": "58457",
+                "viewCount": "58458",
                 "likeCount": "1701",
                 "favoriteCount": "0",
                 "commentCount": "278"
@@ -2014,7 +2014,7 @@
         },
         "e7vTwU_--qk": {
             "statistics": {
-                "viewCount": "460800",
+                "viewCount": "460805",
                 "likeCount": "14851",
                 "favoriteCount": "0",
                 "commentCount": "693"
@@ -2082,7 +2082,7 @@
         },
         "8eqCdi-KwcU": {
             "statistics": {
-                "viewCount": "185008",
+                "viewCount": "185010",
                 "likeCount": "5331",
                 "favoriteCount": "0",
                 "commentCount": "461"
@@ -2150,7 +2150,7 @@
         },
         "_E452MQTeYY": {
             "statistics": {
-                "viewCount": "436057",
+                "viewCount": "436064",
                 "likeCount": "11285",
                 "favoriteCount": "0",
                 "commentCount": "775"
@@ -2184,7 +2184,7 @@
         },
         "mNa6yj3tHsA": {
             "statistics": {
-                "viewCount": "195596",
+                "viewCount": "195597",
                 "likeCount": "4690",
                 "favoriteCount": "0",
                 "commentCount": "199"
@@ -2218,7 +2218,7 @@
         },
         "XT4MPpIIcY8": {
             "statistics": {
-                "viewCount": "32401",
+                "viewCount": "32402",
                 "likeCount": "1016",
                 "favoriteCount": "0",
                 "commentCount": "158"
@@ -2354,7 +2354,7 @@
         },
         "r0kLL2kqbi4": {
             "statistics": {
-                "viewCount": "276206",
+                "viewCount": "276207",
                 "likeCount": "9505",
                 "favoriteCount": "0",
                 "commentCount": "218"
@@ -2388,7 +2388,7 @@
         },
         "2dwuNv36vhM": {
             "statistics": {
-                "viewCount": "63483",
+                "viewCount": "63484",
                 "likeCount": "1639",
                 "favoriteCount": "0",
                 "commentCount": "201"
@@ -2422,7 +2422,7 @@
         },
         "n2cvhKZ8Kco": {
             "statistics": {
-                "viewCount": "310880",
+                "viewCount": "310886",
                 "likeCount": "7396",
                 "favoriteCount": "0",
                 "commentCount": "360"
@@ -2524,7 +2524,7 @@
         },
         "pNKN07gLQUs": {
             "statistics": {
-                "viewCount": "100751",
+                "viewCount": "100756",
                 "likeCount": "1345",
                 "favoriteCount": "0",
                 "commentCount": "126"
@@ -2796,7 +2796,7 @@
         },
         "yy8-wfNlyRg": {
             "statistics": {
-                "viewCount": "29651",
+                "viewCount": "29653",
                 "likeCount": "915",
                 "favoriteCount": "0",
                 "commentCount": "80"
@@ -2830,7 +2830,7 @@
         },
         "1c7EK27Z_wU": {
             "statistics": {
-                "viewCount": "39727",
+                "viewCount": "39729",
                 "likeCount": "1302",
                 "favoriteCount": "0",
                 "commentCount": "131"
@@ -2864,7 +2864,7 @@
         },
         "-syvkEqqs3Y": {
             "statistics": {
-                "viewCount": "348913",
+                "viewCount": "348916",
                 "likeCount": "8006",
                 "favoriteCount": "0",
                 "commentCount": "706"
@@ -2898,7 +2898,7 @@
         },
         "iBtbaV6Glxs": {
             "statistics": {
-                "viewCount": "35790",
+                "viewCount": "35791",
                 "likeCount": "967",
                 "favoriteCount": "0",
                 "commentCount": "135"
@@ -3136,7 +3136,7 @@
         },
         "PxsSJGPgpfI": {
             "statistics": {
-                "viewCount": "16882",
+                "viewCount": "16883",
                 "likeCount": "500",
                 "favoriteCount": "0",
                 "commentCount": "79"
@@ -3204,7 +3204,7 @@
         },
         "lnF4aIDzvCE": {
             "statistics": {
-                "viewCount": "196489",
+                "viewCount": "196491",
                 "likeCount": "6482",
                 "favoriteCount": "0",
                 "commentCount": "292"
@@ -3238,7 +3238,7 @@
         },
         "d34p7ULZbzU": {
             "statistics": {
-                "viewCount": "1738704",
+                "viewCount": "1738720",
                 "likeCount": "40555",
                 "favoriteCount": "0",
                 "commentCount": "1735"
@@ -3306,7 +3306,7 @@
         },
         "uHtnMmL7VGA": {
             "statistics": {
-                "viewCount": "1563107",
+                "viewCount": "1563118",
                 "likeCount": "32276",
                 "favoriteCount": "0",
                 "commentCount": "1795"
@@ -3340,8 +3340,8 @@
         },
         "nxTHQfOG52o": {
             "statistics": {
-                "viewCount": "918264",
-                "likeCount": "17945",
+                "viewCount": "918279",
+                "likeCount": "17946",
                 "favoriteCount": "0",
                 "commentCount": "473"
             },
@@ -3408,7 +3408,7 @@
         },
         "FyMCoQmsv-I": {
             "statistics": {
-                "viewCount": "272137",
+                "viewCount": "272138",
                 "likeCount": "6287",
                 "favoriteCount": "0",
                 "commentCount": "710"
@@ -3476,7 +3476,7 @@
         },
         "TYvBPWyJ5Mo": {
             "statistics": {
-                "viewCount": "68495",
+                "viewCount": "68496",
                 "likeCount": "1354",
                 "favoriteCount": "0",
                 "commentCount": "176"
@@ -3578,7 +3578,7 @@
         },
         "9xteWOI4JVc": {
             "statistics": {
-                "viewCount": "724748",
+                "viewCount": "724749",
                 "likeCount": "9268",
                 "favoriteCount": "0",
                 "commentCount": "861"
@@ -3646,7 +3646,7 @@
         },
         "MuK6OKS5d80": {
             "statistics": {
-                "viewCount": "308901",
+                "viewCount": "308904",
                 "likeCount": "6579",
                 "favoriteCount": "0",
                 "commentCount": "329"
@@ -3748,7 +3748,7 @@
         },
         "6CYyt8Tn1Xg": {
             "statistics": {
-                "viewCount": "239884",
+                "viewCount": "239885",
                 "likeCount": "6322",
                 "favoriteCount": "0",
                 "commentCount": "177"
@@ -3782,7 +3782,7 @@
         },
         "FGkN7QCVmrI": {
             "statistics": {
-                "viewCount": "742984",
+                "viewCount": "742985",
                 "likeCount": "14288",
                 "favoriteCount": "0",
                 "commentCount": "643"
@@ -3884,7 +3884,7 @@
         },
         "ObeDKc4DqNE": {
             "statistics": {
-                "viewCount": "210348",
+                "viewCount": "210349",
                 "likeCount": "4734",
                 "favoriteCount": "0",
                 "commentCount": "534"
@@ -3986,7 +3986,7 @@
         },
         "fpXPzj61K_8": {
             "statistics": {
-                "viewCount": "97715",
+                "viewCount": "97716",
                 "likeCount": "1269",
                 "favoriteCount": "0",
                 "commentCount": "249"
@@ -4020,7 +4020,7 @@
         },
         "-Ub6LIma7bw": {
             "statistics": {
-                "viewCount": "121599",
+                "viewCount": "121600",
                 "likeCount": "1881",
                 "favoriteCount": "0",
                 "commentCount": "366"
@@ -4088,7 +4088,7 @@
         },
         "HfMhFTGq0tM": {
             "statistics": {
-                "viewCount": "193914",
+                "viewCount": "193916",
                 "likeCount": "4325",
                 "favoriteCount": "0",
                 "commentCount": "767"
@@ -4122,7 +4122,7 @@
         },
         "KfbiX7JFKsE": {
             "statistics": {
-                "viewCount": "614621",
+                "viewCount": "614626",
                 "likeCount": "7343",
                 "favoriteCount": "0",
                 "commentCount": "748"
@@ -4190,7 +4190,7 @@
         },
         "bmuFl-SlV20": {
             "statistics": {
-                "viewCount": "415002",
+                "viewCount": "415005",
                 "likeCount": "4842",
                 "favoriteCount": "0",
                 "commentCount": "617"
@@ -4258,7 +4258,7 @@
         },
         "snZpO8rDq7U": {
             "statistics": {
-                "viewCount": "1364932",
+                "viewCount": "1364957",
                 "likeCount": "32644",
                 "favoriteCount": "0",
                 "commentCount": "1498"
@@ -4530,7 +4530,7 @@
         },
         "qsqgklrVm0o": {
             "statistics": {
-                "viewCount": "166302",
+                "viewCount": "166303",
                 "likeCount": "3049",
                 "favoriteCount": "0",
                 "commentCount": "448"
@@ -4564,7 +4564,7 @@
         },
         "fRh8W2v0ogg": {
             "statistics": {
-                "viewCount": "92811",
+                "viewCount": "92812",
                 "likeCount": "1802",
                 "favoriteCount": "0",
                 "commentCount": "442"
@@ -4734,7 +4734,7 @@
         },
         "YMt_dUaBRvY": {
             "statistics": {
-                "viewCount": "152313",
+                "viewCount": "152317",
                 "likeCount": "3196",
                 "favoriteCount": "0",
                 "commentCount": "563"
@@ -4768,7 +4768,7 @@
         },
         "sIs3-AEXl9E": {
             "statistics": {
-                "viewCount": "73322",
+                "viewCount": "73324",
                 "likeCount": "1681",
                 "favoriteCount": "0",
                 "commentCount": "364"
@@ -4870,7 +4870,7 @@
         },
         "Br9SMzTerF8": {
             "statistics": {
-                "viewCount": "62155",
+                "viewCount": "62156",
                 "likeCount": "1579",
                 "favoriteCount": "0",
                 "commentCount": "336"
@@ -4904,7 +4904,7 @@
         },
         "JQtORKwzS1A": {
             "statistics": {
-                "viewCount": "308871",
+                "viewCount": "308872",
                 "likeCount": "5969",
                 "favoriteCount": "0",
                 "commentCount": "589"
@@ -4938,7 +4938,7 @@
         },
         "s3nmVu8bUxE": {
             "statistics": {
-                "viewCount": "146552",
+                "viewCount": "146553",
                 "likeCount": "3150",
                 "favoriteCount": "0",
                 "commentCount": "513"
@@ -4972,7 +4972,7 @@
         },
         "aTfK4unVz-I": {
             "statistics": {
-                "viewCount": "485555",
+                "viewCount": "485556",
                 "likeCount": "6253",
                 "favoriteCount": "0",
                 "commentCount": "752"
@@ -5210,7 +5210,7 @@
         },
         "y04uPXDElt4": {
             "statistics": {
-                "viewCount": "347638",
+                "viewCount": "347639",
                 "likeCount": "6545",
                 "favoriteCount": "0",
                 "commentCount": "828"
@@ -5278,7 +5278,7 @@
         },
         "5ftHdsmf2C0": {
             "statistics": {
-                "viewCount": "1626488",
+                "viewCount": "1626501",
                 "likeCount": "32856",
                 "favoriteCount": "0",
                 "commentCount": "1987"
@@ -5312,7 +5312,7 @@
         },
         "ibsEaue3se8": {
             "statistics": {
-                "viewCount": "92856",
+                "viewCount": "92857",
                 "likeCount": "1718",
                 "favoriteCount": "0",
                 "commentCount": "383"
@@ -5414,7 +5414,7 @@
         },
         "-gW9lESmkA8": {
             "statistics": {
-                "viewCount": "457429",
+                "viewCount": "457431",
                 "likeCount": "9669",
                 "favoriteCount": "0",
                 "commentCount": "1006"
@@ -5550,7 +5550,7 @@
         },
         "zLV8XpUdRSg": {
             "statistics": {
-                "viewCount": "346039",
+                "viewCount": "346043",
                 "likeCount": "3885",
                 "favoriteCount": "0",
                 "commentCount": "518"
@@ -5584,7 +5584,7 @@
         },
         "k0Dfoq01TyQ": {
             "statistics": {
-                "viewCount": "84128",
+                "viewCount": "84130",
                 "likeCount": "2004",
                 "favoriteCount": "0",
                 "commentCount": "565"
@@ -5720,7 +5720,7 @@
         },
         "CbGyG1VBtzo": {
             "statistics": {
-                "viewCount": "395454",
+                "viewCount": "395455",
                 "likeCount": "8340",
                 "favoriteCount": "0",
                 "commentCount": "892"
@@ -5788,7 +5788,7 @@
         },
         "TQIBjGOou8U": {
             "statistics": {
-                "viewCount": "624244",
+                "viewCount": "624250",
                 "likeCount": "8174",
                 "favoriteCount": "0",
                 "commentCount": "1029"
@@ -6060,7 +6060,7 @@
         },
         "_M42Ri3dqoc": {
             "statistics": {
-                "viewCount": "2338700",
+                "viewCount": "2338712",
                 "likeCount": "61695",
                 "favoriteCount": "0",
                 "commentCount": "2166"
@@ -6128,7 +6128,7 @@
         },
         "w5BV_p7fDPk": {
             "statistics": {
-                "viewCount": "117960",
+                "viewCount": "117968",
                 "likeCount": "890",
                 "favoriteCount": "0",
                 "commentCount": "184"
@@ -6162,7 +6162,7 @@
         },
         "EpKlEGXPk5g": {
             "statistics": {
-                "viewCount": "1048309",
+                "viewCount": "1048310",
                 "likeCount": "12548",
                 "favoriteCount": "0",
                 "commentCount": "1216"
@@ -6229,4 +6229,4 @@
             }
         }
     }
-]
+}
