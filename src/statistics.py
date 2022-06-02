@@ -43,20 +43,32 @@ class YoutubeStats:
         #Request statistics for the 50 Ids, and append to data dictionary based on key
         #Reset the list after 50 ids, or at end of Ids
 
+        #For all ids in the video ID list
         for number, id in enumerate(video_id_list):
+
+            #If its a multiple of 50 or the end
             if (number + 1) % 50 == 0 or (number+1) == len(video_id_list):
+
+                #Append entr to the subset list
                 video_id_subset.append(id)
+                #Convert from list to a single string
                 video_id_string = ','.join(str(e) for e in video_id_subset)
+                #Create query URL for video statistics
                 url = f"https://www.googleapis.com/youtube/v3/videos?key={self.api_key}&part=statistics&id={video_id_string}"
+                #Get query 
                 json_url = requests.get(url)
                 data_video = json.loads(json_url.text)
+                #Get into items list from query results from video statistics
                 data_video_items = data_video["items"]
 
+                #For each entry in items list query result from video statistics
                 for entry in data_video_items:
+                    #Get the video ID, and stats, and add to data dictionary on ID
                     new_id = entry["id"]
                     new_data = entry["statistics"]
                     data[new_id] = new_data
                 
+                #Reset list
                 video_id_subset = []
 
             else: 
