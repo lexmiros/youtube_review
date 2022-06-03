@@ -1,22 +1,20 @@
 
-from src.GetData import *
-import os
+from src.CleanData import *
+from src import CWD
 from dotenv import load_dotenv
 from src.YouTube import YoutubeStats
 import pandas as pd
-from src import CWD
+import json
+from datetime import datetime, timedelta
+
 
 
 
 if __name__ == "__main__":
-    channelName = "CreatedTechOfficial"
+    channel_name = "CreatedTechOfficial"
     
-    
-    #data_loc = f"{CWD}\json\{channelName}.json"
-    #df = pd.read_json(data_loc)
-
-    #df = pd.DataFrame(df)
-    #print(df)
+    df = set_date_time(channel_name)
+    print(df)
 
 
 
@@ -25,6 +23,13 @@ if __name__ == "__main__":
 
 
 
+    """
+
+    example = df["Published"]
+    example = example[0]
+    print(example)
+    example = example + timedelta(hours = 10)
+    print(example)
 
 
     load_dotenv()
@@ -37,6 +42,6 @@ if __name__ == "__main__":
     yt.get_channel_statistics()
     yt.get_channel_video_data()
     yt.dump()
-    
+    """
    
 
