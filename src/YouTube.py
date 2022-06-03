@@ -156,17 +156,15 @@ class YoutubeStats:
         vid, npt = self._get_channel_videos_per_page(url)
 
         i = 0
-        while(npt is not None and i < 10):
-
+        while(npt is not None and i < 20):
+            print(i)
             nextUrl = url + f"&pageToken={npt}"
             next_vid, npt = self._get_channel_videos_per_page(nextUrl)
             vid.update(next_vid)
 
             i +=1
         return vid
-    
-    def get_channel_comments(self):
-        """"""
+
 
 
     def dump(self):
