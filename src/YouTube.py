@@ -1,17 +1,49 @@
 import requests
 import json
+from bs4 import BeautifulSoup
 from src import CWD
 
 class YoutubeStats:
 
-    def __init__(self, api_key, api_search ,channel_id, channel_name):
+    def __init__(self, api_key, api_search , channel_name):
         self.api_key = api_key
         self.api_search = api_search
-        self.channel_id = channel_id
+        self.channel_id = None
         self.channel_name = channel_name
         self.channel_statistics = None
         self.video_data = None
         self.comments = None
+
+    def get_channel_id(self):
+        """
+        Scrapes a YouTube channels main-page for their ID
+
+        Parameters
+        ----------
+        channleName : str
+            The YouTube channels username
+        Returns:
+        ----------
+        str:
+            The ID
+        """
+
+        headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.19582"
+        }
+        user = self.channel_name
+        url = f'http://www.youtube.com/c/{user}'
+
+        results = requests.get(url,headers=headers)
+        doc = BeautifulSoup(results.text, "html.parser")
+        
+        tags = doc.find('meta', itemprop="channelId")
+        id = tags['content']
+
+        self.channel_id = id
+
+        return id
+
 
     def get_channel_statistics(self):
         url = f'https://www.googleapis.com/youtube/v3/channels?part=statistics&id={self.channel_id}&key={self.api_key}'
