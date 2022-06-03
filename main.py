@@ -7,13 +7,24 @@ import pandas as pd
 import json
 from datetime import datetime, timedelta
 import os
+import re
 
 
 
 
 if __name__ == "__main__":
-    #channel_name = "CreatedTechOfficial"
     channel_name = "TYLER1LOL"
+
+    df = add_cumulative_cols(channel_name)
+    print(df)
+
+
+
+
+
+    """
+    #channel_name = "CreatedTechOfficial"
+    #channel_name = "TYLER1LOL"
     load_dotenv()
     api_key = os.getenv("API_KEY")
     api_search = os.getenv("API_SEARCH")
@@ -22,21 +33,6 @@ if __name__ == "__main__":
     yt.get_channel_statistics()
     yt.get_channel_video_data()
     yt.dump()
-  
-
-    df = set_date_time(channel_name)
-    df["cum Views"] = df["Views"].cumsum()
-
-
-
-    print(df)
-    print(get_stats(channel_name))
-
-
-
-
-    """
-
 
     """
    

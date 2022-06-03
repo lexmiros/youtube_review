@@ -1,7 +1,9 @@
+from numpy import add
 import pandas as pd
 import json
 from src import CWD
 from datetime import datetime, timedelta
+import re
 
 
 def get_stats(channel_name):
@@ -95,6 +97,23 @@ def _build_time_bucket(row):
     
     return row
 
+def _duration_convert(row):
+    try:
+        mins = re.findall("(\d*)(?=M)", row)
+        mins = mins[0]
+    except:
+        mins = 0
+    try:
+        secs = re.findall("(\d*)(?=S)", row)
+        secs = secs[0]
+    except:
+        secs = 0
+
+
+    time = int(mins) + (int(secs)/60)
+
+    return time
+
 def set_date_time(channel_name):
     """
     """
@@ -109,17 +128,22 @@ def set_date_time(channel_name):
     df["Month"] = df["Published"].apply(lambda row: row.month)
     df["Hour"] = df["Published"].apply(lambda row: row.hour)
     df["Time Bucket"] = df["Hour"].apply(_build_time_bucket)
+    df["Duration"] = df["Duration"].apply(_duration_convert)
 
     return df
 
 def add_cumulative_cols(channel_name):
 
     df = set_date_time(channel_name)
+    df["cum Views"] = df["Views"].cumsum()
+    df["cum Likes"] = df["Likes"].cumsum()
+    df["cum Comments"] = df["Comments"].cumsum()
 
-    n_rows = len(df)
+    return df
 
-    for i in range(n_rows):
-        print(i)
+
+
+
 
 
     
