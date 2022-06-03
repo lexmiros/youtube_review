@@ -17,42 +17,27 @@ if __name__ == "__main__":
     load_dotenv()
     api_key = os.getenv("API_KEY")
     api_search = os.getenv("API_SEARCH")
-  
     yt = YoutubeStats(api_key, api_search, channel_name)
     yt.get_channel_id()
     yt.get_channel_statistics()
     yt.get_channel_video_data()
     yt.dump()
-    
+  
+
     df = set_date_time(channel_name)
+    df["cum Views"] = df["Views"].cumsum()
+
+
+
     print(df)
-
-
-
-
+    print(get_stats(channel_name))
 
 
 
 
     """
 
-    example = df["Published"]
-    example = example[0]
-    print(example)
-    example = example + timedelta(hours = 10)
-    print(example)
 
-
-    load_dotenv()
-    api_key = os.getenv("API_KEY")
-    api_search = os.getenv("API_SEARCH")
-    channelName = "CreatedTechOfficial"
-    channel_id = get_channel_id(channelName)
-    yt = YoutubeStats(api_key, api_search, channelName)
-    yt.get_channel_id()
-    yt.get_channel_statistics()
-    yt.get_channel_video_data()
-    yt.dump()
     """
    
 
