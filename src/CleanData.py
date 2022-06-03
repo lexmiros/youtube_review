@@ -3,6 +3,7 @@ import json
 from src import CWD
 from datetime import datetime, timedelta
 
+
 def get_stats(channel_name):
     """
     Gets the total view count for a channel
