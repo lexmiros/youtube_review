@@ -70,8 +70,11 @@ def build_df(channel_name):
   
     df = pd.DataFrame()
     df["Views"] = video_data[0]
+    df["Views"] = df["Views"].astype(int)
     df["Likes"] = video_data[1]
+    df["Likes"] = df["Likes"].astype(int)
     df["Comments"] = video_data[2]
+    df["Comments"] = df["Comments"].astype(int)
     df["Duration"] = video_data[3]
     df["Published"] = video_data[4]
     df["Title"] = video_data[5]
@@ -108,5 +111,16 @@ def set_date_time(channel_name):
     df["Time Bucket"] = df["Hour"].apply(_build_time_bucket)
 
     return df
+
+def add_cumulative_cols(channel_name):
+
+    df = set_date_time(channel_name)
+
+    n_rows = len(df)
+
+    for i in range(n_rows):
+        print(i)
+
+
     
 
