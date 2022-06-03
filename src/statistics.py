@@ -1,6 +1,6 @@
-import re
 import requests
 import json
+from src import CWD
 
 class YoutubeStats:
 
@@ -140,7 +140,7 @@ class YoutubeStats:
     def dump(self):
         if self.channel_statistics is None or self.video_data is None:
             return
-        file_name = f"{self.channel_name}.json"
+        file_name = f"{CWD}\json\{self.channel_name}.json"
         x = {
             "channel_stats" : self.channel_statistics,
             "Videos" : self.video_data
