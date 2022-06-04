@@ -142,7 +142,11 @@ def add_cumulative_cols(channel_name):
     return df
 
 
+def build_df_clean(channel_name):
 
+    df = add_cumulative_cols(channel_name)
+
+    return df
 
 
 
