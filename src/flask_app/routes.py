@@ -1,4 +1,4 @@
-from src.CleanData import build_df, build_df_clean
+from src.CleanData import build_df, build_df_clean, get_stats
 from src.flask_app import app
 from flask import redirect, render_template, url_for
 from src.flask_app.forms import LandingForm
@@ -49,9 +49,14 @@ def loading(user, test):
 def overview(user, test):
 
     df = build_df_clean(user)
+    view_count, subscriber_count, video_count = get_stats(user)
+    total_found = len(df)
 
-    total = len(df)
+    view_count = (format(view_count, ',d'))
+    subscriber_count = (format(subscriber_count, ',d'))
+    video_count = (format(video_count, ',d'))
 
     
     
-    return render_template("overview.html", user = user, total = total)
+    return render_template("overview.html", 
+    user = user, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count)

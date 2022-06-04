@@ -16,9 +16,37 @@
 
 </head>
 <body class="body">
-
-
+    
+    <div class="container-dropdown">
+        <div class="dropdown">
+            <button class="dropbtn">
+                <div class="div-x"></div>
+                <div class="div-x"></div>
+                <div class="div-x"></div>
+            <div class="dropdown-content">
+              <a href="#">Home</a>
+              <a href="#">Views</a>
+              <a href="#">About</a>
+              <a href="#">New search</a>
+            </div>
+          </div>
+          
+    </div>
+    <div class="container-title">
+        
+        <h1 class="neonText pulsate">
+             {{user}}
+        </h1> 
+        <h5 class="neonText pulsate">
+            Videos : {{video_count}}  Views : {{view_count}} Subscribers: {{subscriber_count}} 
+        </h5>
+        <h5 class="neonText pulsate">
+            Videos found : {{total_found}}
+        </h5>
+     </div>
     {%block content%}
+    
+    
 
     {%endblock content%}
 
