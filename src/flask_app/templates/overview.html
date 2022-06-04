@@ -44,10 +44,11 @@
         data: {
             labels: {{freq_labels | safe }},
             datasets: [{
+                
                 label: "",
                 data: {{ freq_posts | safe }},
                 backgroundColor: [                  
-                    "#E1EFD2",
+                    "WHITE",
           
                     
                 ],
@@ -107,7 +108,7 @@
                     color : 'white',
                     scaleLabel: {
                         display: true,
-                        labelString: "Games played",    
+                          
                     },
                     ticks: {
                         color: 'white',
@@ -115,12 +116,13 @@
                     }
                 }],
                 xAxes: [{
+                    
                     grid:{
                         borderColor : 'white',
                     },
                     scaleLabel: {
                         display: true,
-                        labelString: "Champion"
+                        
                     }      
                 }]
             },
