@@ -126,6 +126,7 @@ def set_date_time(channel_name):
     df["Published"] = df["Published"].apply(lambda row: row + timedelta(hours = offset))
     df["Year"] = df["Published"].apply(lambda row: row.year)
     df["Month"] = df["Published"].apply(lambda row: row.month)
+    df["Day"] = df["Published"].apply(lambda row: row.day)
     df["Hour"] = df["Published"].apply(lambda row: row.hour)
     df["Time Bucket"] = df["Hour"].apply(_build_time_bucket)
     df["Duration"] = df["Duration"].apply(_duration_convert)
@@ -147,6 +148,8 @@ def build_df_clean(channel_name):
     df = add_cumulative_cols(channel_name)
 
     return df
+
+
 
 
 

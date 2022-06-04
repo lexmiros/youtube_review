@@ -20,30 +20,50 @@ body{
 
 h2{
   margin-top: 10%;
-  margin-bottom: 5%;
+  margin-bottom: 10%;
   color: #fff;
   text-align: center;
   font-weight: bolder;
   text-decoration: underline;
 }
 
-.float-child-avg {
+.float-child-quarter {
   width: 25%;
-  
   float: left;
   padding: 20px;
+  margin-bottom: 10%;
 }
-.float-child-avg h3{
+.float-child-quarter h3{
   color: #fff;
   text-align: center; 
 }
 
-.float-child-avg img{
+.float-child-quarter img{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+
+.float-child-full {
+  width: 100%;
+  float: center;
+  padding: 20px;
+  margin-bottom: 10%;
+}
+.float-child-full h3{
+  color: #fff;
+  text-align: center; 
+}
+
+.float-child-full img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
 .content-buttons{
   position:absolute;
   top: 0;

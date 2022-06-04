@@ -1,4 +1,5 @@
-from src.CleanData import build_df, build_df_clean, get_stats
+from src.CleanData import build_df_clean, get_stats
+from src.analysis import get_avg_post_hours
 from src.flask_app import app
 from flask import redirect, render_template, url_for
 from src.flask_app.forms import LandingForm
@@ -71,11 +72,12 @@ def overview(user, test):
     avg_duration = round(df["Duration"].mean())
     avg_duration = (format(avg_duration, ',d'))
     
+    average_post = get_avg_post_hours(df)
 
 
     
     
     return render_template("overview.html", 
     user = user, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
-    avg_likes = avg_likes, avg_comments = avg_comments, avg_views = avg_views, avg_duration = avg_duration
+    avg_likes = avg_likes, avg_comments = avg_comments, avg_views = avg_views, avg_duration = avg_duration, average_post = average_post
     )
