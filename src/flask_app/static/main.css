@@ -1,12 +1,10 @@
 body{
     background-image: url("/static/videoplayback.mp4");
-    background-image: url("/static/back.png");
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), #b90000);
     background-repeat:no-repeat;
     background-size: 100%;
     height:  100%;
 }     
-
-
 
 
 .float-child {
@@ -152,4 +150,79 @@ body{
   margin: auto;
   margin-top: 5%;
   
+}
+
+/* NEON HEADINGS*/
+.neonText {
+  color: #000;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 10px #fff,
+    0 0 21px #fff,
+    0 0 42px rgba(156, 11, 59, 0),
+    0 0 82px rgba(156, 11, 59, 0),
+    0 0 92px rgba(156, 11, 59, 0),
+    0 0 102px rgba(156, 11, 59, 0),
+    0 0 151px rgba(156, 11, 59, 0);
+}
+
+
+/* Additional styling */
+
+body {
+font-size: 18px;
+font-family: "Helvetica Neue", sans-serif;
+background-color: #010a01;
+}  
+
+h1, h2 {
+text-align: center;
+text-transform: uppercase;
+font-weight: 400;
+}
+
+h1 {
+  font-size: 4.2rem;
+}
+
+.pulsate {
+   animation: pulsate 1.5s infinite alternate;     
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+.container {
+margin-top: 20vh;
+}
+
+@keyframes pulsate {
+  
+100% {
+
+    text-shadow:
+    0 0 4px #fff,
+    0 0 11px #fff,
+    0 0 19px #fff,
+    0 0 40px rgba(156, 11, 59, 0),
+    0 0 80px rgba(156, 11, 59, 0),
+    0 0 90px rgba(156, 11, 59, 0),
+    0 0 100px rgba(156, 11, 59, 0),
+    0 0 150px rgba(156, 11, 59, 0);
+
+}
+
+0% {
+
+  text-shadow:
+  0 0 2px #fff,
+  0 0 4px #fff,
+  0 0 6px #fff,
+  0 0 10px rgba(156, 11, 59, 0),
+  0 0 45px rgba(156, 11, 59, 0),
+  0 0 55px rgba(156, 11, 59, 0),
+  0 0 70px rgba(156, 11, 59, 0),
+  0 0 80px rgba(156, 11, 59, 0);
+
 }
