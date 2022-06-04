@@ -51,6 +51,14 @@ h2{
   padding: 20px;
   margin-bottom: 10%;
 }
+.float-child-bar-freq {
+  width: 75%;
+
+  float: right;
+  padding: 20px;
+  margin-bottom: 10%;
+  margin-right: 10%;
+}
 .float-child-full h3{
   color: #fff;
   text-align: center; 

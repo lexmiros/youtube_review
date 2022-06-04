@@ -19,15 +19,8 @@ if __name__ == "__main__":
     channel_name = "TYLER1LOL"
 
 
-    #app.run(debug=True)
-
-    df = build_df_clean(channel_name)
-    
-    labels, posts = get_post_timeline(df)
-    print(labels, posts)
-    
-
-
+    app.run(debug=True)
+ 
 
 
 

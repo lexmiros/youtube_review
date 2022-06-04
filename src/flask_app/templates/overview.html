@@ -30,7 +30,114 @@
     <h3> On average {{user}} posts every {{average_post}}  hours</h3>  
 </div>
 
+<div class="float-child-bar-freq">
+    <canvas class="chart" id="freqChart" width="550" height="450"></canvas>
+    <h3> </h3>  
+</div>
 
 
+<script>
+    var ctx = document.getElementById("freqChart").getContext("2d");
+    var lineChart = new Chart(ctx, {
+        type: "bar",
+        scaleFontColor : "white",
+        data: {
+            labels: {{freq_labels | safe }},
+            datasets: [{
+                label: "",
+                data: {{ freq_posts | safe }},
+                backgroundColor: [                  
+                    "#E1EFD2",
+          
+                    
+                ],
+                fill: false,
+                borderColor: "rgb(75, 192, 192)",
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    max:54,
+                    grid:{
+                        color:'rgba(255,255,255,0.0)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Year-Month",
+                        font: {   
+                            weight : 'bold',
+                            size : 20, 
+                        }
+                    },
+                },
+                y: {
+                    max:{{highest_post}} + 5,
+                    min:0,
+                    grid:{
+                        color:'rgba(255,255,255,0.3)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Number of videos posted",
+                        font: {   
+                            weight : 'bold',
+                            size : 20,   
+                        }
+                    },
+                },
+                yAxes: [{
+                    color : 'white',
+                    scaleLabel: {
+                        display: true,
+                        labelString: "Games played",    
+                    },
+                    ticks: {
+                        color: 'white',
+                        beginAtZero: true
+                    }
+                }],
+                xAxes: [{
+                    grid:{
+                        borderColor : 'white',
+                    },
+                    scaleLabel: {
+                        display: true,
+                        labelString: "Champion"
+                    }      
+                }]
+            },
+            plugins:{
+                legend:{
+                    display:false,
+                    labels:{
+                        color: 'white'
+                    },
+                    title:{
+                        display:false,
+                    },
+                },
+            },
+        }     
+    });
+
+</script>
 
 {%endblock content%}

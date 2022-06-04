@@ -52,5 +52,8 @@ def get_post_timeline(df):
         else:
             break
     
+    #Trims labels to match posts
+    labels = labels[0:len(total_posts)]
+
     return (labels, total_posts)
 
