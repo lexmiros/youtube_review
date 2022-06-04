@@ -48,15 +48,34 @@ def loading(user, test):
 @app.route("/overview/<user>/<test>", methods = ["POST", "GET"])
 def overview(user, test):
 
+    #Get data
     df = build_df_clean(user)
     view_count, subscriber_count, video_count = get_stats(user)
+    
+    #Overview numbers
     total_found = len(df)
-
     view_count = (format(view_count, ',d'))
     subscriber_count = (format(subscriber_count, ',d'))
     video_count = (format(video_count, ',d'))
 
+    #Averages
+    avg_likes = round(df["Likes"].mean())
+    avg_likes = (format(avg_likes, ',d'))
+
+    avg_comments = round(df["Comments"].mean())
+    avg_comments = (format(avg_comments, ',d'))
+
+    avg_views = round(df["Views"].mean())
+    avg_views = (format(avg_views, ',d'))
+
+    avg_duration = round(df["Duration"].mean())
+    avg_duration = (format(avg_duration, ',d'))
+    
+
+
     
     
     return render_template("overview.html", 
-    user = user, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count)
+    user = user, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    avg_likes = avg_likes, avg_comments = avg_comments, avg_views = avg_views, avg_duration = avg_duration
+    )

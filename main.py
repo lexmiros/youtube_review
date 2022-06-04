@@ -17,8 +17,6 @@ from src.flask_app import app, routes
 if __name__ == "__main__":
     channel_name = "TYLER1LOL"
 
-    #df = add_cumulative_cols(channel_name)
-    #print(df)
 
     app.run(debug=True)
 
