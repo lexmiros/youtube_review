@@ -2,26 +2,29 @@
 {%block content%}
 
 
+
 <h2>Video Averages</h2>
 
 <div class="float-child-avg">
     <img src="/static/thumb.png" alt="Italian Trulli" style="width: 400px;height: 200px;">
-    <h3> Likes : </h3>  
+    <h3> Likes: {{avg_likes}}</h3>  
 </div>
 <div class="float-child-avg"> 
     <img src="/static/comment.png" alt="Italian Trulli" style="width: 200px;height: 200px;">
-    <h3> Comments : </h3> 
+    <h3> Comments: {{avg_comments}}</h3> 
 </div>
 
 <div class="float-child-avg">
     <img src="/static/views.png" alt="Italian Trulli" style="width: 200px;height: 200px;">
-    <h3> Views: </h3>  
+    <h3> Views: {{avg_views}}</h3>  
 </div>
 
 <div class="float-child-avg">
     <img src="/static/duration.png" alt="Italian Trulli" style="width: 200px;height: 200px;">
-    <h3> Duration: </h3>  
+    <h3> Duration: {{avg_duration}} mins</h3>  
 </div>
+
+<h2>Publish Frequency</h2>
 
 
 {%endblock content%}

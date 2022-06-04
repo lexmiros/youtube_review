@@ -38,17 +38,20 @@
              {{user}}
         </h1> 
         <h5 class="neonText pulsate">
-            Videos : {{video_count}}  Views : {{view_count}} Subscribers: {{subscriber_count}} 
+            Videos : {{video_count}} &emsp; Views : {{view_count}} &emsp; Subscribers: {{subscriber_count}} 
         </h5>
         <h5 class="neonText pulsate">
-            Videos found : {{total_found}}
+            Videos analyzed : {{total_found}}
         </h5>
      </div>
-    {%block content%}
-    
-    
+    <div class="float-container">
+        {%block content%}
+        
+        
 
-    {%endblock content%}
+        {%endblock content%}
+    </div>
+</div>
 
         
 

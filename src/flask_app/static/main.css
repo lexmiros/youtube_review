@@ -10,7 +10,7 @@ body{
 }     
 
 
-.float-child {
+.float-container {
   width: 100%;
   height: 100vh;
   padding: 20px;
@@ -29,7 +29,7 @@ h2{
 
 .float-child-avg {
   width: 25%;
-  height: 100vh;
+  
   float: left;
   padding: 20px;
 }
