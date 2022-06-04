@@ -9,8 +9,7 @@ import json
 from datetime import datetime, timedelta
 import os
 import re
-from src.analysis import get_avg_post_hours
-
+from src.analysis import *
 from src.flask_app import app, routes
 
 
@@ -20,11 +19,15 @@ if __name__ == "__main__":
     channel_name = "TYLER1LOL"
 
 
-    app.run(debug=True)
+    #app.run(debug=True)
 
-    #df = build_df_clean(channel_name)
+    df = build_df_clean(channel_name)
     
-    #print(get_avg_post_hours(df))
+    labels, posts = get_post_timeline(df)
+    print(labels, posts)
+    
+
+
 
 
 

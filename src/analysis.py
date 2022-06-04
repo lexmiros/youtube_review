@@ -20,5 +20,37 @@ def get_avg_post_hours(df):
     return posts_per_days
 
 
+def get_post_timeline(df):
+    
+    total_years = df["Year"].sort_values().unique()
+    
+    total_months = []
 
+    for i in range(1,13):
+        total_months.append(i)
+
+    x = df[(df["Year"] == 2022) & (df["Month"] == 6)]
+    x = len(x)
+
+    labels = []
+    total_posts = []
+
+    #Builds a list of year-date months and the count of posts during them
+    for year in total_years:
+        for month in total_months:
+            labels.append(f"{year}-{month}")
+
+            x = df[(df["Year"] == year) & (df["Month"] == month)]
+            x = len(x)
+
+            total_posts.append(x)
+
+    #Removes trailing zeros due to dates not yet occured
+    for i in range(len(total_posts) -1 ,0,-1):
+        if total_posts[i] == 0:
+            total_posts.pop(i)
+        else:
+            break
+    
+    return (labels, total_posts)
 
