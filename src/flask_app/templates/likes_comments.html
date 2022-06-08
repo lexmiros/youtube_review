@@ -2,4 +2,243 @@
 {% block content %}
 
 
+<div class="float-child-half">
+    <h2>Ratio Likes : Views</h2>  
+    <canvas class="chart" id="likesChart" width="550" height="450"></canvas>
+    <h3> </h3>  
+</div>
+
+<div class="float-child-half">
+    <h2>Ratio Comments : Views</h2>  
+    <canvas class="chart" id="commentsChart" width="550" height="450"></canvas>
+    <h3> </h3>  
+</div>
+
+
+<script>
+
+    <!--------------------LIKES--------------->
+    var ctx = document.getElementById("likesChart").getContext("2d");
+    var lineChart = new Chart(ctx, {
+        type: "line",
+        scaleFontColor : "white",
+        data: {
+            labels: {{like_dates | safe }},
+            datasets: [{
+                
+                label: "",
+                data: {{ like_data | safe }},
+                backgroundColor: [                  
+                    "WHITE",
+          
+                    
+                ],
+                fill: false,
+                borderColor: "rgb(75, 192, 192)",
+            }]
+        },
+        options: {
+            elements:{
+                point:{
+                    borderWidth: 0,
+                    radius: 0,
+                    backgroundColor: 'rgba(0,0,0,0)'
+                }
+            },
+            responsive: true,
+            scales: {
+                x: {
+                    
+                    grid:{
+                        color:'rgba(255,255,255,0.0)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Year-Month",
+                        font: {   
+                            weight : 'bold',
+                            size : 20, 
+                        }
+                    },
+                },
+                y: {
+                
+                    min:0,
+                    grid:{
+                        color:'rgba(255,255,255,0.3)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Likes per view",
+                        font: {   
+                            weight : 'bold',
+                            size : 20,   
+                        }
+                    },
+                },
+                yAxes: [{
+                    color : 'white',
+                    scaleLabel: {
+                        display: true,
+                          
+                    },
+                    ticks: {
+                        color: 'white',
+                        beginAtZero: true
+                    }
+                }],
+                xAxes: [{
+                    
+                    grid:{
+                        borderColor : 'white',
+                    },
+                    scaleLabel: {
+                        display: true,
+                        
+                    }      
+                }]
+            },
+            plugins:{
+                legend:{
+                    display:false,
+                    labels:{
+                        color: 'white'
+                    },
+                    title:{
+                        display:false,
+                    },
+                },
+            },
+        }     
+    });
+
+    <!--------------------COMMENTS--------------->
+    var ctx = document.getElementById("commentsChart").getContext("2d");
+    var lineChart = new Chart(ctx, {
+        type: "line",
+        scaleFontColor : "white",
+        data: {
+            labels: {{comment_dates | safe }},
+            datasets: [{
+                
+                label: "",
+                data: {{ comment_data | safe }},
+                backgroundColor: [                  
+                    "WHITE",
+          
+                    
+                ],
+                fill: false,
+                borderColor: "rgb(75, 192, 192)",
+            }]
+        },
+        options: {
+            elements:{
+                point:{
+                    borderWidth: 0,
+                    radius: 0,
+                    backgroundColor: 'rgba(0,0,0,0)'
+                }
+            },
+            responsive: true,
+            scales: {
+                x: {
+                    
+                    grid:{
+                        color:'rgba(255,255,255,0.0)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Year-Month",
+                        font: {   
+                            weight : 'bold',
+                            size : 20, 
+                        }
+                    },
+                },
+                y: {
+                
+                    min:0,
+                    grid:{
+                        color:'rgba(255,255,255,0.3)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Likes per view",
+                        font: {   
+                            weight : 'bold',
+                            size : 20,   
+                        }
+                    },
+                },
+                yAxes: [{
+                    color : 'white',
+                    scaleLabel: {
+                        display: true,
+                          
+                    },
+                    ticks: {
+                        color: 'white',
+                        beginAtZero: true
+                    }
+                }],
+                xAxes: [{
+                    
+                    grid:{
+                        borderColor : 'white',
+                    },
+                    scaleLabel: {
+                        display: true,
+                        
+                    }      
+                }]
+            },
+            plugins:{
+                legend:{
+                    display:false,
+                    labels:{
+                        color: 'white'
+                    },
+                    title:{
+                        display:false,
+                    },
+                },
+            },
+        }     
+    });
+
+</script>
+
 {% endblock content %}

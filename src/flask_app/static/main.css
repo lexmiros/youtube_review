@@ -71,6 +71,11 @@ h2{
   text-align: center; 
 }
 
+.float-child-half h3{
+  color: #fff;
+  text-align: center; 
+}
+
 .float-child-full img{
   display: block;
   margin-left: auto;

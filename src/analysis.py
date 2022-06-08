@@ -166,3 +166,87 @@ def get_views_duration(df):
         j = j + bin_incremenet
         
     return (labels, values)
+
+def corr_duration(df):
+    """"""
+    dur_corr = df["Views"].corr(df["Duration"])
+    dur_corr = round(dur_corr, 4)
+    dur_rating = _corr_rating(dur_corr)
+    
+    return (dur_corr, dur_rating)
+    
+    
+
+def corr_title(df):
+    title_corr = df["Views"].corr(df["Title length"])
+    title_corr = round(title_corr, 4)
+    title_rating = _corr_rating(title_corr)
+    
+    return (title_corr, title_rating)
+
+    
+def _corr_rating(corr):
+    if corr >= 0:
+        suffix = "positive correlation"
+    else:
+        suffix = "negative correlation"
+    corr = abs(corr)
+    if corr <= 0.19:
+        rating = "Very low"
+    elif corr < 0.2 and corr <= 0.39:
+        rating = "Low"
+    elif corr < 0.4 and corr <= 0.59:
+        rating = "Moderate"
+    elif corr < 0.6 and corr <= 0.79:
+        rating = "High"
+    elif corr < 0.8 and corr <= 1:
+        rating = "Very high"
+    
+    return f"{rating} {suffix}"
+   
+    
+    
+
+def get_like_ratio_date(df):
+    
+    data = df["Like Ratio"].to_list()
+    date_list = []
+    days = df["Day"].to_list()
+    months = df["Month"].to_list()
+    years = df["Year"].to_list()
+    
+    z = zip(days, months, years)
+    
+    for value in z:
+        date = f"{value[2]}-{value[1]}"
+        date_list.append(date)
+        
+   
+        
+    return (date_list, data)
+
+
+def get_comment_ratio_date(df):
+    
+    data = df["Comment Ratio"].to_list()
+    date_list = []
+    days = df["Day"].to_list()
+    months = df["Month"].to_list()
+    years = df["Year"].to_list()
+    
+    z = zip(days, months, years)
+    
+    for value in z:
+        date = f"{value[2]}-{value[1]}"
+        date_list.append(date)
+        
+   
+        
+    return (date_list, data)
+  
+    
+    
+    
+
+ 
+    
