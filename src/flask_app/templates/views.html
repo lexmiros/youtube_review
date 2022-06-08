@@ -2,18 +2,25 @@
 {%block content%}
 
 <div class="float-child-half">
-    <h2>Views timeline</h2>  
+    <h2>Mean Views timeline</h2>  
     <canvas class="chart" id="viewChart" width="550" height="450"></canvas>
     <h3> </h3>  
 </div>
 <div class="float-child-half">
-    <h2>Views by post time</h2>  
+    <h2>Mean Views by post time</h2>  
     <canvas class="chart" id="timeChart" width="550" height="450"></canvas>
+    <h3> </h3>  
+</div>
+
+<div class="float-child-half">
+    <h2>Mean Views by title length</h2>  
+    <canvas class="chart" id="titleChart" width="550" height="450"></canvas>
     <h3> </h3>  
 </div>
 
 
 <script>
+
     var ctx = document.getElementById("viewChart").getContext("2d");
     var lineChart = new Chart(ctx, {
         type: "line",
@@ -155,6 +162,109 @@
                         color: 'white',
                         display: true,
                         text: "Video post time (24 hour - AEST)",
+                        font: {   
+                            weight : 'bold',
+                            size : 20, 
+                        }
+                    },
+                },
+                y: {
+                    
+                    min:0,
+                    grid:{
+                        color:'rgba(255,255,255,0.3)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Mean views per video",
+                        font: {   
+                            weight : 'bold',
+                            size : 20,   
+                        }
+                    },
+                },
+                yAxes: [{
+                    color : 'white',
+                    scaleLabel: {
+                        display: true,
+                          
+                    },
+                    ticks: {
+                        color: 'white',
+                        beginAtZero: true
+                    }
+                }],
+                xAxes: [{
+                    
+                    grid:{
+                        borderColor : 'white',
+                    },
+                    scaleLabel: {
+                        display: true,
+                        
+                    }      
+                }]
+            },
+            plugins:{
+                legend:{
+                    display:false,
+                    labels:{
+                        color: 'white'
+                    },
+                    title:{
+                        display:false,
+                    },
+                },
+            },
+        }     
+    });
+
+    var ctx = document.getElementById("titleChart").getContext("2d");
+    var lineChart = new Chart(ctx, {
+        type: "line",
+        scaleFontColor : "white",
+        data: {
+            labels: {{title_labels | safe }},
+            datasets: [{
+                
+                label: "",
+                data: {{ title_views | safe }},
+                backgroundColor: [                  
+                    "WHITE",
+          
+                    
+                ],
+                fill: false,
+                borderColor: "rgb(75, 192, 192)",
+            }]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                x: {
+                    max:54,
+                    grid:{
+                        color:'rgba(255,255,255,0.0)',
+                    },
+                    ticks:{
+                        color:"white",
+                        font: {   
+                            weight : 'bold',
+                            size : 16,       
+                        }
+                    },
+                    title:{
+                        color: 'white',
+                        display: true,
+                        text: "Title length (Characters)",
                         font: {   
                             weight : 'bold',
                             size : 20, 

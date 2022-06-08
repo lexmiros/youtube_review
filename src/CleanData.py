@@ -138,6 +138,7 @@ def set_date_time(channel_name):
     df["Hour"] = df["Published"].apply(lambda row: row.hour)
     df["Time Bucket"] = df["Hour"].apply(_build_time_bucket)
     df["Duration"] = df["Duration"].apply(_duration_convert)
+    
 
     return df
 
@@ -147,8 +148,11 @@ def add_cumulative_cols(channel_name):
     df["cum Views"] = df["Views"].cumsum()
     df["cum Likes"] = df["Likes"].cumsum()
     df["cum Comments"] = df["Comments"].cumsum()
+    df["Title length"] = df["Title"].apply(lambda row: len(row))
+    df["Title length"] = df["Title length"].astype(int)
 
     return df
+
 
 
 def build_df_clean(channel_name):

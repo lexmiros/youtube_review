@@ -18,11 +18,14 @@ import math
 
 
 if __name__ == "__main__":
-    channel_name = "TYLER1LOL"
+    channel_name = "CREATEDTECHOFFICIAL"
+    app.run(debug=True)
+    
 
     
-  
-    app.run(debug=True)
+
+    
+    
 
 
 

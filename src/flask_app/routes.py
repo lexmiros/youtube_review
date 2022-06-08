@@ -1,5 +1,5 @@
 from src.CleanData import build_df_clean, get_stats
-from src.analysis import get_avg_post_hours, get_post_timeline, get_views_post_time, get_views_timeline
+from src.analysis import get_avg_post_hours, get_post_timeline, get_views_post_time, get_views_timeline, get_views_title_len
 from src.flask_app import app
 from flask import redirect, render_template, url_for
 from src.flask_app.forms import LandingForm
@@ -107,6 +107,10 @@ def views(user, test):
     #Views by post time
     post_labels, view_post = get_views_post_time(df)
     
+    #Views by title length
+    
+    title_labels, title_views = get_views_title_len(df)
+    
     
     
     
@@ -115,4 +119,5 @@ def views(user, test):
     return render_template("views.html", 
     user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
     view_labels = views_labels, view_avg = view_avg, highest_view = highest_view, post_labels = post_labels, view_post = view_post,
+    title_labels = title_labels, title_views = title_views
     )
