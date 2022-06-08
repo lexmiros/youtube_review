@@ -142,7 +142,7 @@ def set_date_time(channel_name):
 
     return df
 
-def add_cumulative_cols(channel_name):
+def impute_cols(channel_name):
 
     df = set_date_time(channel_name)
     df["cum Views"] = df["Views"].cumsum()
@@ -150,6 +150,8 @@ def add_cumulative_cols(channel_name):
     df["cum Comments"] = df["Comments"].cumsum()
     df["Title length"] = df["Title"].apply(lambda row: len(row))
     df["Title length"] = df["Title length"].astype(int)
+    df["Like Ratio"] = df.apply(lambda row: row["Likes"] / row["Views"], axis=1)
+    df["Comment Ratio"] = df.apply(lambda row: row["Comments"] / row["Views"], axis=1)
 
     return df
 
@@ -157,7 +159,7 @@ def add_cumulative_cols(channel_name):
 
 def build_df_clean(channel_name):
 
-    df = add_cumulative_cols(channel_name)
+    df = impute_cols(channel_name)
 
     return df
 
