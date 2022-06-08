@@ -43,16 +43,18 @@ def get_post_timeline(df):
             x = len(x)
 
             total_posts.append(x)
-
-    #Removes trailing zeros due to dates not yet occured
-    for i in range(len(total_posts) -1 ,0,-1):
-        if total_posts[i] == 0:
-            total_posts.pop(i)
-        else:
-            break
+    #combine labels, posts for combined iteration        
+    z = zip(labels, total_posts)
     
-    #Trims labels to match posts
-    labels = labels[0:len(total_posts)]
+    #Reset values now saved in z
+    labels = []
+    total_posts = []
+    
+    #Remove dates with 0 posts
+    for values in z:
+        if values[1] != 0:
+            labels.append(values[0])
+            total_posts.append(values[1])
 
     return (labels, total_posts)
 
@@ -84,15 +86,18 @@ def get_views_timeline(df):
 
             total_views.append(avg_views)
 
-    #Removes trailing zeros due to dates not yet occured
-    for i in range(len(total_views) -1 ,0,-1):
-        if total_views[i] == 0:
-            total_views.pop(i)
-        else:
-            break
+    #combine labels, posts for combined iteration        
+    z = zip(labels, total_views)
     
-    #Trims labels to match posts
-    labels = labels[0:len(total_views)]
+    #Reset values now saved in z
+    labels = []
+    total_views = []
+    
+    #Remove dates with 0 posts
+    for values in z:
+        if values[1] != 0:
+            labels.append(values[0])
+            total_views.append(values[1])
 
     return (labels, total_views)
 

@@ -124,3 +124,21 @@ def views(user, test):
     view_labels = views_labels, view_avg = view_avg, highest_view = highest_view, post_labels = post_labels, view_post = view_post,
     title_labels = title_labels, title_views = title_views, dur_labels = dur_labels, dur_views = dur_views
     )
+    
+@app.route("/likes_comments/<user>/<test>")
+def likes_comments(user, test):
+    """"""
+    #Get data
+    df = build_df_clean(user)
+    view_count, subscriber_count, video_count = get_stats(user)
+    
+    #Overview numbers
+    total_found = len(df)
+    view_count = (format(view_count, ',d'))
+    subscriber_count = (format(subscriber_count, ',d'))
+    video_count = (format(video_count, ',d'))
+    
+    
+    return render_template("likes_comments.html", 
+    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+                           )
