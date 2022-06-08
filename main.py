@@ -19,9 +19,12 @@ import math
 
 if __name__ == "__main__":
     channel_name = "CREATEDTECHOFFICIAL"
-    app.run(debug=True)
+    #app.run(debug=True)
     
-    #df = build_df_clean(channel_name)
+    df = build_df_clean(channel_name)
+  
+    
+    print(df)
   
     
 
