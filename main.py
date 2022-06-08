@@ -1,4 +1,5 @@
 
+from audioop import avg
 from turtle import pos
 from src.CleanData import *
 from src import CWD
@@ -11,6 +12,7 @@ import os
 import re
 from src.analysis import *
 from src.flask_app import app, routes
+import math
 
 
 
@@ -18,9 +20,10 @@ from src.flask_app import app, routes
 if __name__ == "__main__":
     channel_name = "TYLER1LOL"
 
-
+    
+  
     app.run(debug=True)
- 
+
 
 
 

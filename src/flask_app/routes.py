@@ -1,5 +1,5 @@
 from src.CleanData import build_df_clean, get_stats
-from src.analysis import get_avg_post_hours, get_post_timeline
+from src.analysis import get_avg_post_hours, get_post_timeline, get_views_post_time, get_views_timeline
 from src.flask_app import app
 from flask import redirect, render_template, url_for
 from src.flask_app.forms import LandingForm
@@ -73,6 +73,7 @@ def overview(user, test):
     avg_duration = (format(avg_duration, ',d'))
     
     average_post = get_avg_post_hours(df)
+    
     freq_labels, freq_posts = get_post_timeline(df)
     highest_post = max(freq_posts)
 
@@ -80,7 +81,38 @@ def overview(user, test):
     
     
     return render_template("overview.html", 
-    user = user, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
     avg_likes = avg_likes, avg_comments = avg_comments, avg_views = avg_views, avg_duration = avg_duration, average_post = average_post,
     freq_labels = freq_labels, freq_posts = freq_posts, highest_post = highest_post
+    )
+    
+    
+@app.route("/views/<user>/<test>")
+def views(user, test):
+    
+    #Get data
+    df = build_df_clean(user)
+    view_count, subscriber_count, video_count = get_stats(user)
+    
+    #Overview numbers
+    total_found = len(df)
+    view_count = (format(view_count, ',d'))
+    subscriber_count = (format(subscriber_count, ',d'))
+    video_count = (format(video_count, ',d'))
+    
+    #Views over time
+    views_labels, view_avg = get_views_timeline(df)
+    highest_view = max(view_avg)
+    
+    #Views by post time
+    post_labels, view_post = get_views_post_time(df)
+    
+    
+    
+    
+
+
+    return render_template("views.html", 
+    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    view_labels = views_labels, view_avg = view_avg, highest_view = highest_view, post_labels = post_labels, view_post = view_post,
     )

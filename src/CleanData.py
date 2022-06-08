@@ -86,14 +86,22 @@ def build_df(channel_name):
 
 def _build_time_bucket(row):
     
-    if (row >= 0) and (row < 6):
-        row = "[0-6)"
-    elif (row >= 6) and (row < 12):
-        row = "[6-12)"
-    elif (row >= 12) and (row < 18):
-        row = "[12-18)"
+    if (row >= 0) and (row < 3):
+        row = "0-3"
+    elif (row >= 3) and (row < 6):
+        row = "3-6"
+    elif (row >= 6) and (row < 9):
+        row = "6-9"
+    elif (row >= 9) and (row < 12):
+        row = "9-12"
+    elif (row >= 12) and (row < 15):
+        row = "12-15"
+    elif (row >= 15) and (row < 18):
+        row = "15-18"
+    elif (row >= 18) and (row < 21):
+        row = "18-21"
     else:
-        row = "[18,24)"
+        row = "21-24"
     
     return row
 
