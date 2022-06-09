@@ -13,15 +13,30 @@ import re
 from src.analysis import *
 from src.flask_app import app, routes
 import math
+import requests
+from bs4 import BeautifulSoup
 
 
 
 if __name__ == "__main__":
-    channel_name = "CREATEDTECHOFFICIAL"
+    channel_name = "PEWDIEPIE"
     app.run(debug=True)
     
+    
+    
 
-        
+    
+   
+
+    
+
+
+   
+
+
+
+
+    
         
     
 

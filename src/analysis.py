@@ -298,7 +298,8 @@ def get_title_count(df):
         words_str = words_str + words
     
     #Remove word formatting
-    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S"]
+    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S",
+                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/" ]
     for format in words_formatting:
         words_str = words_str.replace(format, ' ')
 
@@ -321,7 +322,8 @@ def get_description_count(df):
         words_str = words_str + words
         
     #Remove word formatting
-    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S"]
+    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S",
+                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/" ]
     for format in words_formatting:
         words_str = words_str.replace(format, ' ')
     en = spacy.load('en_core_web_sm')

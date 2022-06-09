@@ -54,18 +54,36 @@ def get_video_stats(channel_name):
 
 
     for key in contents["Videos"]:
-       
-        video_view_list.append(contents["Videos"][key]["statistics"]["viewCount"])
-        video_like_list.append(contents["Videos"][key]["statistics"]["likeCount"])
+        try:
+            video_view_list.append(contents["Videos"][key]["statistics"]["viewCount"])
+        except:
+            video_view_list.append(0)
+            
+        try:    
+            video_like_list.append(contents["Videos"][key]["statistics"]["likeCount"])
+        except:
+            video_like_list.append(0)
         
         try:
             video_comment_list.append(contents["Videos"][key]["statistics"]["commentCount"])
         except:
             video_comment_list.append(0)
-        video_duration_list.append(contents["Videos"][key]["duration"])
-        video_published_list.append(contents["Videos"][key]["snippet"]["publishedAt"])
-        video_title_list.append(contents["Videos"][key]["snippet"]["title"])
-        video_description_list.append(contents["Videos"][key]["snippet"]["description"])
+        try:    
+            video_duration_list.append(contents["Videos"][key]["duration"])
+        except:
+            video_duration_list.append(0)
+        try:    
+            video_published_list.append(contents["Videos"][key]["snippet"]["publishedAt"])
+        except:
+            video_published_list.append(0)
+        try:    
+            video_title_list.append(contents["Videos"][key]["snippet"]["title"])
+        except:
+            video_title_list.append(0)
+        try:
+            video_description_list.append(contents["Videos"][key]["snippet"]["description"])
+        except:
+            video_description_list.append(0)
        
 
     return (video_view_list, video_like_list, video_comment_list, 
@@ -87,6 +105,8 @@ def build_df(channel_name):
     df["Published"] = video_data[4]
     df["Title"] = video_data[5]
     df["Description"] = video_data[6]
+    
+    df = df[ (df["Views"] != 0) | (df["Likes"] != 0) | df["Comments"] != 0]
 
     return df
 
@@ -147,6 +167,7 @@ def set_date_time(channel_name):
     
 
     return df
+
 
 def impute_cols(channel_name):
 

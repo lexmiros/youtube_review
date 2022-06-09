@@ -33,12 +33,27 @@ class YoutubeStats:
         }
         user = self.channel_name
         url = f'http://www.youtube.com/c/{user}'
+        
 
         results = requests.get(url,headers=headers)
         doc = BeautifulSoup(results.text, "html.parser")
         
         tags = doc.find('meta', itemprop="channelId")
-        id = tags['content']
+        
+        try:
+        
+            id = tags['content']
+            
+        except:
+
+            url = f'http://www.youtube.com/user/{user}'
+        
+            results = requests.get(url,headers=headers)
+            doc = BeautifulSoup(results.text, "html.parser")
+            
+            tags = doc.find('meta', itemprop="channelId")
+            
+            id = tags['content']
 
         self.channel_id = id
 
