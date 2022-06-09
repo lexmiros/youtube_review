@@ -142,7 +142,7 @@ def get_views_post_time(df):
 def get_views_title_len(df):
     
     max_num = max(df["Title length"])
-    bin_incremenet = math.ceil(max_num / 7) 
+    bin_incremenet = math.ceil(max_num / 10) 
     
     j = 0
     labels = []
@@ -161,13 +161,25 @@ def get_views_title_len(df):
         
         j = j + bin_incremenet
         
+    z = zip(labels, values)
+    
+    
+    labels = []
+    values = []
+    
+    #Remove dates with 0 posts
+    for value in z:
+        if value[1] != 0:
+            labels.append(value[0])
+            values.append(value[1])
+        
     return (labels, values)
 
 def get_views_duration(df):
     
     max_num = max(df["Duration"])
     max_num = math.ceil(max_num)
-    bin_incremenet = math.ceil(max_num / 7) 
+    bin_incremenet = math.ceil(max_num / 10) 
     
     
     j = 0
@@ -186,6 +198,18 @@ def get_views_duration(df):
         value = round(value)
         values.append(value)
         j = j + bin_incremenet
+    
+    z = zip(labels, values)
+    
+    
+    labels = []
+    values = []
+    
+    #Remove dates with 0 posts
+    for value in z:
+        if value[1] != 0:
+            labels.append(value[0])
+            values.append(value[1])
         
     return (labels, values)
 

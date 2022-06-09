@@ -1,6 +1,6 @@
 {
     "channel_stats": {
-        "viewCount": "5853747939",
+        "viewCount": "5856977834",
         "subscriberCount": "14600000",
         "hiddenSubscriberCount": false,
         "videoCount": "5782"
@@ -8,10 +8,10 @@
     "Videos": {
         "DwDWQyBF9II": {
             "statistics": {
-                "viewCount": "766087",
-                "likeCount": "43904",
+                "viewCount": "833707",
+                "likeCount": "46549",
                 "favoriteCount": "0",
-                "commentCount": "2473"
+                "commentCount": "2740"
             },
             "duration": "PT12M5S",
             "snippet": {
@@ -43,10 +43,10 @@
         },
         "NwXAIGmwC4I": {
             "statistics": {
-                "viewCount": "1312998",
-                "likeCount": "62984",
+                "viewCount": "1322594",
+                "likeCount": "63319",
                 "favoriteCount": "0",
-                "commentCount": "3296"
+                "commentCount": "3311"
             },
             "duration": "PT13M58S",
             "snippet": {
@@ -78,10 +78,10 @@
         },
         "SLqx8m6KOxg": {
             "statistics": {
-                "viewCount": "1322672",
-                "likeCount": "51030",
+                "viewCount": "1335219",
+                "likeCount": "51359",
                 "favoriteCount": "0",
-                "commentCount": "3153"
+                "commentCount": "3168"
             },
             "duration": "PT15M37S",
             "snippet": {
@@ -113,10 +113,10 @@
         },
         "Ti8scviDiYc": {
             "statistics": {
-                "viewCount": "1785120",
-                "likeCount": "90324",
+                "viewCount": "1787918",
+                "likeCount": "90438",
                 "favoriteCount": "0",
-                "commentCount": "6781"
+                "commentCount": "6782"
             },
             "duration": "PT23M55S",
             "snippet": {
@@ -148,10 +148,10 @@
         },
         "ooEfsWZo4-g": {
             "statistics": {
-                "viewCount": "1346039",
-                "likeCount": "57351",
+                "viewCount": "1347423",
+                "likeCount": "57391",
                 "favoriteCount": "0",
-                "commentCount": "2517"
+                "commentCount": "2520"
             },
             "duration": "PT16M47S",
             "snippet": {
@@ -181,45 +181,10 @@
                 "publishTime": "2022-06-04T16:59:45Z"
             }
         },
-        "td6zO4r2ogI": {
-            "statistics": {
-                "viewCount": "773785",
-                "likeCount": "20515",
-                "favoriteCount": "0",
-                "commentCount": "1958"
-            },
-            "duration": "PT1H43M58S",
-            "snippet": {
-                "publishedAt": "2022-06-04T01:58:10Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "The Lab is a Disaster - WAN Show June 3, 2022",
-                "description": "Visit https://www.squarespace.com/WAN and use offer code WAN for 10% off Get 50% off (up to $200) your annual Zoho Desk ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/td6zO4r2ogI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/td6zO4r2ogI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/td6zO4r2ogI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-06-04T01:58:10Z"
-            }
-        },
         "vggHcABvNws": {
             "statistics": {
-                "viewCount": "478311",
-                "likeCount": "22549",
+                "viewCount": "478995",
+                "likeCount": "22580",
                 "favoriteCount": "0",
                 "commentCount": "1534"
             },
@@ -253,10 +218,10 @@
         },
         "7H0IcioQYPk": {
             "statistics": {
-                "viewCount": "1311972",
-                "likeCount": "46900",
+                "viewCount": "1316936",
+                "likeCount": "46950",
                 "favoriteCount": "0",
-                "commentCount": "1926"
+                "commentCount": "1928"
             },
             "duration": "PT15M15S",
             "snippet": {
@@ -288,10 +253,10 @@
         },
         "M0Knct749io": {
             "statistics": {
-                "viewCount": "1812154",
-                "likeCount": "84221",
+                "viewCount": "1813780",
+                "likeCount": "84261",
                 "favoriteCount": "0",
-                "commentCount": "3164"
+                "commentCount": "3167"
             },
             "duration": "PT29M13S",
             "snippet": {
@@ -323,10 +288,10 @@
         },
         "gqEUFZgLw_Y": {
             "statistics": {
-                "viewCount": "1765067",
-                "likeCount": "70199",
+                "viewCount": "1767872",
+                "likeCount": "70275",
                 "favoriteCount": "0",
-                "commentCount": "4076"
+                "commentCount": "4079"
             },
             "duration": "PT19M32S",
             "snippet": {
@@ -358,10 +323,10 @@
         },
         "ZwPLhyUgm-g": {
             "statistics": {
-                "viewCount": "1105820",
-                "likeCount": "67094",
+                "viewCount": "1106201",
+                "likeCount": "67106",
                 "favoriteCount": "0",
-                "commentCount": "4075"
+                "commentCount": "4076"
             },
             "duration": "PT13M4S",
             "snippet": {
@@ -393,10 +358,10 @@
         },
         "zTZuD4fVutc": {
             "statistics": {
-                "viewCount": "1594759",
-                "likeCount": "76585",
+                "viewCount": "1595070",
+                "likeCount": "76599",
                 "favoriteCount": "0",
-                "commentCount": "4830"
+                "commentCount": "4831"
             },
             "duration": "PT10M16S",
             "snippet": {
@@ -428,10 +393,10 @@
         },
         "d2Qna_DPxgQ": {
             "statistics": {
-                "viewCount": "1416981",
-                "likeCount": "80222",
+                "viewCount": "1420642",
+                "likeCount": "80467",
                 "favoriteCount": "0",
-                "commentCount": "1085"
+                "commentCount": "1086"
             },
             "duration": "PT37S",
             "snippet": {
@@ -463,10 +428,10 @@
         },
         "Dbjb2spwQVg": {
             "statistics": {
-                "viewCount": "1653679",
-                "likeCount": "63643",
+                "viewCount": "1654349",
+                "likeCount": "63667",
                 "favoriteCount": "0",
-                "commentCount": "6294"
+                "commentCount": "6306"
             },
             "duration": "PT21M22S",
             "snippet": {
@@ -498,8 +463,8 @@
         },
         "AlKQPiGFFF8": {
             "statistics": {
-                "viewCount": "1920371",
-                "likeCount": "80128",
+                "viewCount": "1920565",
+                "likeCount": "80133",
                 "favoriteCount": "0",
                 "commentCount": "3610"
             },
@@ -533,10 +498,10 @@
         },
         "GsY96xFWeN0": {
             "statistics": {
-                "viewCount": "1147975",
-                "likeCount": "44302",
+                "viewCount": "1148036",
+                "likeCount": "44303",
                 "favoriteCount": "0",
-                "commentCount": "1868"
+                "commentCount": "1869"
             },
             "duration": "PT9M2S",
             "snippet": {
@@ -568,8 +533,8 @@
         },
         "enBoNuS2VjU": {
             "statistics": {
-                "viewCount": "1832210",
-                "likeCount": "71274",
+                "viewCount": "1832309",
+                "likeCount": "71281",
                 "favoriteCount": "0",
                 "commentCount": "4809"
             },
@@ -603,8 +568,8 @@
         },
         "kW5X4dU0gnY": {
             "statistics": {
-                "viewCount": "1590830",
-                "likeCount": "64753",
+                "viewCount": "1590944",
+                "likeCount": "64755",
                 "favoriteCount": "0",
                 "commentCount": "5219"
             },
@@ -638,8 +603,8 @@
         },
         "GoAHf3axis8": {
             "statistics": {
-                "viewCount": "886089",
-                "likeCount": "42076",
+                "viewCount": "886151",
+                "likeCount": "42079",
                 "favoriteCount": "0",
                 "commentCount": "1654"
             },
@@ -673,8 +638,8 @@
         },
         "185VQ_d2bYU": {
             "statistics": {
-                "viewCount": "1712411",
-                "likeCount": "74621",
+                "viewCount": "1712603",
+                "likeCount": "74622",
                 "favoriteCount": "0",
                 "commentCount": "3680"
             },
@@ -708,8 +673,8 @@
         },
         "na1hqx4Yi68": {
             "statistics": {
-                "viewCount": "1550765",
-                "likeCount": "62596",
+                "viewCount": "1550828",
+                "likeCount": "62595",
                 "favoriteCount": "0",
                 "commentCount": "3713"
             },
@@ -743,7 +708,7 @@
         },
         "qSGsMN9UGDY": {
             "statistics": {
-                "viewCount": "1499542",
+                "viewCount": "1499574",
                 "likeCount": "52597",
                 "favoriteCount": "0",
                 "commentCount": "1901"
@@ -778,8 +743,8 @@
         },
         "2ehSCWoaOqQ": {
             "statistics": {
-                "viewCount": "2676704",
-                "likeCount": "173532",
+                "viewCount": "2676833",
+                "likeCount": "173537",
                 "favoriteCount": "0",
                 "commentCount": "12634"
             },
@@ -813,7 +778,7 @@
         },
         "Il556YxkdhA": {
             "statistics": {
-                "viewCount": "1227284",
+                "viewCount": "1227364",
                 "likeCount": "29000",
                 "favoriteCount": "0",
                 "commentCount": "1658"
@@ -848,8 +813,8 @@
         },
         "8IHqntr8FjY": {
             "statistics": {
-                "viewCount": "3078372",
-                "likeCount": "124781",
+                "viewCount": "3078775",
+                "likeCount": "124791",
                 "favoriteCount": "0",
                 "commentCount": "9226"
             },
@@ -883,7 +848,7 @@
         },
         "mg-HAPDkXlk": {
             "statistics": {
-                "viewCount": "578690",
+                "viewCount": "578698",
                 "likeCount": "16603",
                 "favoriteCount": "0",
                 "commentCount": "1915"
@@ -918,8 +883,8 @@
         },
         "U2fnImmgWc0": {
             "statistics": {
-                "viewCount": "2307662",
-                "likeCount": "102773",
+                "viewCount": "2308219",
+                "likeCount": "102809",
                 "favoriteCount": "0",
                 "commentCount": "514"
             },
@@ -953,10 +918,10 @@
         },
         "Slwai2Jhy_A": {
             "statistics": {
-                "viewCount": "1420112",
-                "likeCount": "120372",
+                "viewCount": "1420151",
+                "likeCount": "120375",
                 "favoriteCount": "0",
-                "commentCount": "19834"
+                "commentCount": "19835"
             },
             "duration": "PT11M19S",
             "snippet": {
@@ -988,7 +953,7 @@
         },
         "c05GfTAJqjc": {
             "statistics": {
-                "viewCount": "530617",
+                "viewCount": "530659",
                 "likeCount": "17277",
                 "favoriteCount": "0",
                 "commentCount": "283"
@@ -1023,7 +988,7 @@
         },
         "DDcA0c-Ahq0": {
             "statistics": {
-                "viewCount": "1732622",
+                "viewCount": "1732658",
                 "likeCount": "68223",
                 "favoriteCount": "0",
                 "commentCount": "5475"
@@ -1058,8 +1023,8 @@
         },
         "ZQiqkzHNiRM": {
             "statistics": {
-                "viewCount": "656804",
-                "likeCount": "35408",
+                "viewCount": "656839",
+                "likeCount": "35417",
                 "favoriteCount": "0",
                 "commentCount": "652"
             },
@@ -1093,8 +1058,8 @@
         },
         "CEdAosuqAsM": {
             "statistics": {
-                "viewCount": "634049",
-                "likeCount": "16010",
+                "viewCount": "634056",
+                "likeCount": "16011",
                 "favoriteCount": "0",
                 "commentCount": "1937"
             },
@@ -1128,8 +1093,8 @@
         },
         "1oKkrnNaHnQ": {
             "statistics": {
-                "viewCount": "659926",
-                "likeCount": "33682",
+                "viewCount": "659956",
+                "likeCount": "33683",
                 "favoriteCount": "0",
                 "commentCount": "684"
             },
@@ -1163,7 +1128,7 @@
         },
         "12l326jQML8": {
             "statistics": {
-                "viewCount": "1999832",
+                "viewCount": "1999845",
                 "likeCount": "74050",
                 "favoriteCount": "0",
                 "commentCount": "2867"
@@ -1198,10 +1163,10 @@
         },
         "aHnd6PAd4C0": {
             "statistics": {
-                "viewCount": "2356880",
-                "likeCount": "80282",
+                "viewCount": "2357198",
+                "likeCount": "80290",
                 "favoriteCount": "0",
-                "commentCount": "3753"
+                "commentCount": "3754"
             },
             "duration": "PT27M1S",
             "snippet": {
@@ -1233,8 +1198,8 @@
         },
         "0YDy6ygIjfY": {
             "statistics": {
-                "viewCount": "1693782",
-                "likeCount": "72120",
+                "viewCount": "1693878",
+                "likeCount": "72121",
                 "favoriteCount": "0",
                 "commentCount": "4710"
             },
@@ -1268,8 +1233,8 @@
         },
         "hBYbodmCBUQ": {
             "statistics": {
-                "viewCount": "2000762",
-                "likeCount": "86505",
+                "viewCount": "2000881",
+                "likeCount": "86508",
                 "favoriteCount": "0",
                 "commentCount": "5323"
             },
@@ -1303,7 +1268,7 @@
         },
         "E75mtGjDRRI": {
             "statistics": {
-                "viewCount": "618073",
+                "viewCount": "618082",
                 "likeCount": "19183",
                 "favoriteCount": "0",
                 "commentCount": "2054"
@@ -1338,10 +1303,10 @@
         },
         "IZeOmEy-tE8": {
             "statistics": {
-                "viewCount": "3423056",
-                "likeCount": "105912",
+                "viewCount": "3423772",
+                "likeCount": "105927",
                 "favoriteCount": "0",
-                "commentCount": "4038"
+                "commentCount": "4040"
             },
             "duration": "PT28M20S",
             "snippet": {
@@ -1373,8 +1338,8 @@
         },
         "uNt_ReLwk40": {
             "statistics": {
-                "viewCount": "1775087",
-                "likeCount": "67648",
+                "viewCount": "1775163",
+                "likeCount": "67653",
                 "favoriteCount": "0",
                 "commentCount": "5682"
             },
@@ -1408,7 +1373,7 @@
         },
         "UGmGlaxf5tM": {
             "statistics": {
-                "viewCount": "1267039",
+                "viewCount": "1267090",
                 "likeCount": "46225",
                 "favoriteCount": "0",
                 "commentCount": "1613"
@@ -1443,8 +1408,8 @@
         },
         "-Ngh2S4ljsU": {
             "statistics": {
-                "viewCount": "2005956",
-                "likeCount": "100856",
+                "viewCount": "2006557",
+                "likeCount": "100882",
                 "favoriteCount": "0",
                 "commentCount": "1103"
             },
@@ -1478,8 +1443,8 @@
         },
         "k8RkyaSHFLM": {
             "statistics": {
-                "viewCount": "2406312",
-                "likeCount": "83479",
+                "viewCount": "2406337",
+                "likeCount": "83481",
                 "favoriteCount": "0",
                 "commentCount": "4750"
             },
@@ -1513,7 +1478,7 @@
         },
         "M0YRbYvzAQA": {
             "statistics": {
-                "viewCount": "1007374",
+                "viewCount": "1007381",
                 "likeCount": "45406",
                 "favoriteCount": "0",
                 "commentCount": "1651"
@@ -1548,10 +1513,10 @@
         },
         "0Q4WkWBjpvw": {
             "statistics": {
-                "viewCount": "1052470",
-                "likeCount": "49900",
+                "viewCount": "1052572",
+                "likeCount": "49908",
                 "favoriteCount": "0",
-                "commentCount": "2677"
+                "commentCount": "2678"
             },
             "duration": "PT13M29S",
             "snippet": {
@@ -1583,8 +1548,8 @@
         },
         "ir_GliLHuEg": {
             "statistics": {
-                "viewCount": "2711896",
-                "likeCount": "117498",
+                "viewCount": "2712248",
+                "likeCount": "117508",
                 "favoriteCount": "0",
                 "commentCount": "1046"
             },
@@ -1616,79 +1581,9 @@
                 "publishTime": "2022-02-09T19:47:14Z"
             }
         },
-        "HjZ4POvk14c": {
-            "statistics": {
-                "viewCount": "3316823",
-                "likeCount": "155991",
-                "favoriteCount": "0",
-                "commentCount": "9570"
-            },
-            "duration": "PT17M38S",
-            "snippet": {
-                "publishedAt": "2022-02-07T18:00:04Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Valve Left Me Unsupervised: Steam Deck Hardware Review",
-                "description": "Check out dbrand's project KILLSWITCH at https://dbrand.com/killswitch We're FINALLY hands-on with the Valve Steam Deck in ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HjZ4POvk14c/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HjZ4POvk14c/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HjZ4POvk14c/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-02-07T18:00:04Z"
-            }
-        },
-        "rZ72mj1WgS0": {
-            "statistics": {
-                "viewCount": "1453596",
-                "likeCount": "51973",
-                "favoriteCount": "0",
-                "commentCount": "2555"
-            },
-            "duration": "PT17M37S",
-            "snippet": {
-                "publishedAt": "2022-02-02T18:00:05Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Wait &#39;til you see the Bent Motherboard... - Streacom DB1 Max",
-                "description": "Try FreshBooks free, for 30 days, no credit card required at https://www.freshbooks.com/linus Get your custom pre-built PC with ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rZ72mj1WgS0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rZ72mj1WgS0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rZ72mj1WgS0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-02-02T18:00:05Z"
-            }
-        },
         "qwLtPuBni0I": {
             "statistics": {
-                "viewCount": "1059405",
+                "viewCount": "1059421",
                 "likeCount": "53679",
                 "favoriteCount": "0",
                 "commentCount": "3191"
@@ -1723,7 +1618,7 @@
         },
         "A4HtrqVWH-k": {
             "statistics": {
-                "viewCount": "1435012",
+                "viewCount": "1435031",
                 "likeCount": "56513",
                 "favoriteCount": "0",
                 "commentCount": "1991"
@@ -1758,7 +1653,7 @@
         },
         "4zXNMQCPv30": {
             "statistics": {
-                "viewCount": "1022878",
+                "viewCount": "1022897",
                 "likeCount": "40363",
                 "favoriteCount": "0",
                 "commentCount": "1955"
@@ -1793,7 +1688,7 @@
         },
         "ImN-p_S9fMU": {
             "statistics": {
-                "viewCount": "1547329",
+                "viewCount": "1547336",
                 "likeCount": "52008",
                 "favoriteCount": "0",
                 "commentCount": "2884"
@@ -1828,8 +1723,8 @@
         },
         "lOBaA9zg3XM": {
             "statistics": {
-                "viewCount": "1948634",
-                "likeCount": "46283",
+                "viewCount": "1948896",
+                "likeCount": "46285",
                 "favoriteCount": "0",
                 "commentCount": "3598"
             },
@@ -1863,8 +1758,8 @@
         },
         "KYp6pEDm4E8": {
             "statistics": {
-                "viewCount": "1418842",
-                "likeCount": "52207",
+                "viewCount": "1418882",
+                "likeCount": "52208",
                 "favoriteCount": "0",
                 "commentCount": "3868"
             },
@@ -1898,10 +1793,10 @@
         },
         "OkCX8d8WSOg": {
             "statistics": {
-                "viewCount": "3812050",
-                "likeCount": "150905",
+                "viewCount": "3812344",
+                "likeCount": "150910",
                 "favoriteCount": "0",
-                "commentCount": "8962"
+                "commentCount": "8961"
             },
             "duration": "PT26M56S",
             "snippet": {
@@ -1933,8 +1828,8 @@
         },
         "psW70MxBC3k": {
             "statistics": {
-                "viewCount": "1527158",
-                "likeCount": "75424",
+                "viewCount": "1527212",
+                "likeCount": "75433",
                 "favoriteCount": "0",
                 "commentCount": "780"
             },
@@ -1968,7 +1863,7 @@
         },
         "Nz9b0oJw69I": {
             "statistics": {
-                "viewCount": "2111591",
+                "viewCount": "2111606",
                 "likeCount": "189416",
                 "favoriteCount": "0",
                 "commentCount": "9911"
@@ -2003,8 +1898,8 @@
         },
         "tN7Bv_adHs0": {
             "statistics": {
-                "viewCount": "1346319",
-                "likeCount": "54658",
+                "viewCount": "1346360",
+                "likeCount": "54659",
                 "favoriteCount": "0",
                 "commentCount": "2912"
             },
@@ -2038,7 +1933,7 @@
         },
         "JmWfngXmST4": {
             "statistics": {
-                "viewCount": "590371",
+                "viewCount": "590378",
                 "likeCount": "16550",
                 "favoriteCount": "0",
                 "commentCount": "579"
@@ -2073,8 +1968,8 @@
         },
         "-wJOUAuKZm8": {
             "statistics": {
-                "viewCount": "2499991",
-                "likeCount": "67559",
+                "viewCount": "2500227",
+                "likeCount": "67560",
                 "favoriteCount": "0",
                 "commentCount": "2231"
             },
@@ -2108,8 +2003,8 @@
         },
         "4nJUuNx800U": {
             "statistics": {
-                "viewCount": "1162950",
-                "likeCount": "55475",
+                "viewCount": "1162979",
+                "likeCount": "55476",
                 "favoriteCount": "0",
                 "commentCount": "2689"
             },
@@ -2143,8 +2038,8 @@
         },
         "f76qQFjjHQ0": {
             "statistics": {
-                "viewCount": "2775883",
-                "likeCount": "147699",
+                "viewCount": "2776187",
+                "likeCount": "147724",
                 "favoriteCount": "0",
                 "commentCount": "1976"
             },
@@ -2178,7 +2073,7 @@
         },
         "IHPH27i6nJM": {
             "statistics": {
-                "viewCount": "608304",
+                "viewCount": "608325",
                 "likeCount": "23530",
                 "favoriteCount": "0",
                 "commentCount": "1534"
@@ -2213,8 +2108,8 @@
         },
         "gGHwYMwXX88": {
             "statistics": {
-                "viewCount": "1846891",
-                "likeCount": "61766",
+                "viewCount": "1846905",
+                "likeCount": "61767",
                 "favoriteCount": "0",
                 "commentCount": "3270"
             },
@@ -2248,7 +2143,7 @@
         },
         "lR0b8fROHNk": {
             "statistics": {
-                "viewCount": "972727",
+                "viewCount": "972730",
                 "likeCount": "35893",
                 "favoriteCount": "0",
                 "commentCount": "1598"
@@ -2283,7 +2178,7 @@
         },
         "3a4px8IkSzc": {
             "statistics": {
-                "viewCount": "635114",
+                "viewCount": "635122",
                 "likeCount": "13680",
                 "favoriteCount": "0",
                 "commentCount": "552"
@@ -2318,10 +2213,10 @@
         },
         "GvyQXkFUe3E": {
             "statistics": {
-                "viewCount": "1728414",
-                "likeCount": "67929",
+                "viewCount": "1728538",
+                "likeCount": "67931",
                 "favoriteCount": "0",
-                "commentCount": "2832"
+                "commentCount": "2834"
             },
             "duration": "PT11M11S",
             "snippet": {
@@ -2353,10 +2248,10 @@
         },
         "3E8IGy6I9Wo": {
             "statistics": {
-                "viewCount": "1703734",
+                "viewCount": "1703805",
                 "likeCount": "86916",
                 "favoriteCount": "0",
-                "commentCount": "10273"
+                "commentCount": "10274"
             },
             "duration": "PT14M45S",
             "snippet": {
@@ -2388,7 +2283,7 @@
         },
         "eidQgPn9iRM": {
             "statistics": {
-                "viewCount": "591601",
+                "viewCount": "591607",
                 "likeCount": "14268",
                 "favoriteCount": "0",
                 "commentCount": "1108"
@@ -2423,8 +2318,8 @@
         },
         "BPcrpFjw4X8": {
             "statistics": {
-                "viewCount": "1351493",
-                "likeCount": "56092",
+                "viewCount": "1351548",
+                "likeCount": "56096",
                 "favoriteCount": "0",
                 "commentCount": "2816"
             },
@@ -2458,8 +2353,8 @@
         },
         "LBUiS4YLYTs": {
             "statistics": {
-                "viewCount": "1037690",
-                "likeCount": "56272",
+                "viewCount": "1037701",
+                "likeCount": "56271",
                 "favoriteCount": "0",
                 "commentCount": "2947"
             },
@@ -2493,8 +2388,8 @@
         },
         "-EogHCFd7w0": {
             "statistics": {
-                "viewCount": "3095611",
-                "likeCount": "106969",
+                "viewCount": "3095695",
+                "likeCount": "106973",
                 "favoriteCount": "0",
                 "commentCount": "9309"
             },
@@ -2526,9 +2421,44 @@
                 "publishTime": "2021-11-04T13:00:01Z"
             }
         },
+        "75AhrTQWs70": {
+            "statistics": {
+                "viewCount": "1293309",
+                "likeCount": "49448",
+                "favoriteCount": "0",
+                "commentCount": "1790"
+            },
+            "duration": "PT10M54S",
+            "snippet": {
+                "publishedAt": "2021-11-01T17:00:11Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "We called out Tech Ingredients and they DELIVERED",
+                "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off Use code LINUS and get 25% off GlassWire at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/75AhrTQWs70/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/75AhrTQWs70/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/75AhrTQWs70/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-11-01T17:00:11Z"
+            }
+        },
         "ya3hZQgwHds": {
             "statistics": {
-                "viewCount": "1737679",
+                "viewCount": "1737703",
                 "likeCount": "108870",
                 "favoriteCount": "0",
                 "commentCount": "9138"
@@ -2563,7 +2493,7 @@
         },
         "9h08cMFwqRc": {
             "statistics": {
-                "viewCount": "2051757",
+                "viewCount": "2051776",
                 "likeCount": "70294",
                 "favoriteCount": "0",
                 "commentCount": "2385"
@@ -2598,7 +2528,7 @@
         },
         "VGnyrO4RxoA": {
             "statistics": {
-                "viewCount": "2426810",
+                "viewCount": "2426910",
                 "likeCount": "82397",
                 "favoriteCount": "0",
                 "commentCount": "3156"
@@ -2633,7 +2563,7 @@
         },
         "K2Y0gwEsw3E": {
             "statistics": {
-                "viewCount": "1947282",
+                "viewCount": "1947354",
                 "likeCount": "98943",
                 "favoriteCount": "0",
                 "commentCount": "5225"
@@ -2668,8 +2598,8 @@
         },
         "BbSjKyJopFw": {
             "statistics": {
-                "viewCount": "1611633",
-                "likeCount": "61596",
+                "viewCount": "1611705",
+                "likeCount": "61597",
                 "favoriteCount": "0",
                 "commentCount": "3482"
             },
@@ -2703,7 +2633,7 @@
         },
         "mvk5tVMZQ_U": {
             "statistics": {
-                "viewCount": "1219272",
+                "viewCount": "1219296",
                 "likeCount": "25947",
                 "favoriteCount": "0",
                 "commentCount": "3978"
@@ -2738,8 +2668,8 @@
         },
         "nnyqww4-76A": {
             "statistics": {
-                "viewCount": "3335902",
-                "likeCount": "134926",
+                "viewCount": "3335921",
+                "likeCount": "134927",
                 "favoriteCount": "0",
                 "commentCount": "7165"
             },
@@ -2773,7 +2703,7 @@
         },
         "5xIg9tOR8II": {
             "statistics": {
-                "viewCount": "1549488",
+                "viewCount": "1549489",
                 "likeCount": "70670",
                 "favoriteCount": "0",
                 "commentCount": "3799"
@@ -2808,7 +2738,7 @@
         },
         "p5GAJOSEGPQ": {
             "statistics": {
-                "viewCount": "1000158",
+                "viewCount": "1000161",
                 "likeCount": "41721",
                 "favoriteCount": "0",
                 "commentCount": "3499"
@@ -2843,7 +2773,7 @@
         },
         "PvTCc0iXGcQ": {
             "statistics": {
-                "viewCount": "614291",
+                "viewCount": "614292",
                 "likeCount": "16516",
                 "favoriteCount": "0",
                 "commentCount": "2443"
@@ -2878,10 +2808,10 @@
         },
         "hWrFEU_605g": {
             "statistics": {
-                "viewCount": "3215498",
-                "likeCount": "105083",
+                "viewCount": "3215610",
+                "likeCount": "105086",
                 "favoriteCount": "0",
-                "commentCount": "9244"
+                "commentCount": "9245"
             },
             "duration": "PT14M30S",
             "snippet": {
@@ -2913,8 +2843,8 @@
         },
         "C3xeBlEuufw": {
             "statistics": {
-                "viewCount": "3559142",
-                "likeCount": "108630",
+                "viewCount": "3559347",
+                "likeCount": "108633",
                 "favoriteCount": "0",
                 "commentCount": "5735"
             },
@@ -2948,8 +2878,8 @@
         },
         "8QOoQWvrQ-Y": {
             "statistics": {
-                "viewCount": "2565865",
-                "likeCount": "101219",
+                "viewCount": "2565893",
+                "likeCount": "101220",
                 "favoriteCount": "0",
                 "commentCount": "4028"
             },
@@ -2983,8 +2913,8 @@
         },
         "1pDpl9Zkmtc": {
             "statistics": {
-                "viewCount": "1787997",
-                "likeCount": "41637",
+                "viewCount": "1788183",
+                "likeCount": "41640",
                 "favoriteCount": "0",
                 "commentCount": "3906"
             },
@@ -3018,8 +2948,8 @@
         },
         "LoLhXekf17E": {
             "statistics": {
-                "viewCount": "3844830",
-                "likeCount": "151549",
+                "viewCount": "3845303",
+                "likeCount": "151556",
                 "favoriteCount": "0",
                 "commentCount": "7454"
             },
@@ -3053,8 +2983,8 @@
         },
         "LSxbc1IN9Gg": {
             "statistics": {
-                "viewCount": "2890481",
-                "likeCount": "196131",
+                "viewCount": "2890530",
+                "likeCount": "196133",
                 "favoriteCount": "0",
                 "commentCount": "11073"
             },
@@ -3088,7 +3018,7 @@
         },
         "p2vOKrHzqcg": {
             "statistics": {
-                "viewCount": "2237504",
+                "viewCount": "2237511",
                 "likeCount": "99914",
                 "favoriteCount": "0",
                 "commentCount": "6880"
@@ -3123,8 +3053,8 @@
         },
         "_jYB-RpkmUc": {
             "statistics": {
-                "viewCount": "3580116",
-                "likeCount": "112636",
+                "viewCount": "3580269",
+                "likeCount": "112640",
                 "favoriteCount": "0",
                 "commentCount": "4887"
             },
@@ -3158,7 +3088,7 @@
         },
         "IXir0Y86N84": {
             "statistics": {
-                "viewCount": "1576340",
+                "viewCount": "1576342",
                 "likeCount": "59328",
                 "favoriteCount": "0",
                 "commentCount": "2606"
@@ -3228,7 +3158,7 @@
         },
         "5_LOB-_WhJI": {
             "statistics": {
-                "viewCount": "1478145",
+                "viewCount": "1478156",
                 "likeCount": "54365",
                 "favoriteCount": "0",
                 "commentCount": "3085"
@@ -3263,8 +3193,8 @@
         },
         "-rwoPiM-8Qk": {
             "statistics": {
-                "viewCount": "4418219",
-                "likeCount": "156325",
+                "viewCount": "4418250",
+                "likeCount": "156327",
                 "favoriteCount": "0",
                 "commentCount": "18775"
             },
@@ -3298,7 +3228,7 @@
         },
         "Lzz4wMlDZ6c": {
             "statistics": {
-                "viewCount": "838651",
+                "viewCount": "838657",
                 "likeCount": "42310",
                 "favoriteCount": "0",
                 "commentCount": "2270"
@@ -3333,8 +3263,8 @@
         },
         "6oIlGhTgaKo": {
             "statistics": {
-                "viewCount": "3641827",
-                "likeCount": "130279",
+                "viewCount": "3642041",
+                "likeCount": "130285",
                 "favoriteCount": "0",
                 "commentCount": "5239"
             },
@@ -3368,8 +3298,8 @@
         },
         "tURZaUyUoOM": {
             "statistics": {
-                "viewCount": "1543448",
-                "likeCount": "58833",
+                "viewCount": "1543520",
+                "likeCount": "58834",
                 "favoriteCount": "0",
                 "commentCount": "3638"
             },
@@ -3403,8 +3333,8 @@
         },
         "ZSowePnsWXI": {
             "statistics": {
-                "viewCount": "2449805",
-                "likeCount": "79895",
+                "viewCount": "2449913",
+                "likeCount": "79897",
                 "favoriteCount": "0",
                 "commentCount": "5295"
             },
@@ -3436,79 +3366,44 @@
                 "publishTime": "2021-08-11T13:59:59Z"
             }
         },
-        "v0HcvMoMjy8": {
+        "8T3SLSfauAI": {
             "statistics": {
-                "viewCount": "1030543",
-                "likeCount": "51103",
+                "viewCount": "1283142",
+                "likeCount": "56990",
                 "favoriteCount": "0",
-                "commentCount": "3686"
+                "commentCount": "3835"
             },
-            "duration": "PT9M23S",
+            "duration": "PT14M30S",
             "snippet": {
-                "publishedAt": "2021-08-10T13:00:00Z",
+                "publishedAt": "2021-08-05T17:00:07Z",
                 "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "AMD wants HOW MUCH for 1080p Gaming?? - Radeon RX 6600 XT Review",
-                "description": "Check out the Essential Electronics toolkit at: https://www.iFixit.com/LTT It's been tough to find a GPU in 2021, but AMD's hoping to ...",
+                "title": "Trying Halo Infinite with Different GPUs!",
+                "description": "Learn through problem solving and the first 200 people can save 20% today on Brilliant at https://brilliant.org/LinusTechTips/ Buy ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/v0HcvMoMjy8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/8T3SLSfauAI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/v0HcvMoMjy8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8T3SLSfauAI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/v0HcvMoMjy8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/8T3SLSfauAI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-08-10T13:00:00Z"
-            }
-        },
-        "8PcMlblQS-k": {
-            "statistics": {
-                "viewCount": "752193",
-                "likeCount": "31040",
-                "favoriteCount": "0",
-                "commentCount": "1315"
-            },
-            "duration": "PT9M37S",
-            "snippet": {
-                "publishedAt": "2021-08-07T17:00:43Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Intel&#39;s Beast Canyon NUC is Crazy Powerful!",
-                "description": "Get $25 off each pair with offer code LinusTechTips at https://www.vessi.com/linustechtips Use code LINUS and get 25% off ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/8PcMlblQS-k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/8PcMlblQS-k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/8PcMlblQS-k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-08-07T17:00:43Z"
+                "publishTime": "2021-08-05T17:00:07Z"
             }
         },
         "nLgXeIaK0U0": {
             "statistics": {
-                "viewCount": "1044180",
+                "viewCount": "1044190",
                 "likeCount": "60994",
                 "favoriteCount": "0",
                 "commentCount": "3277"
@@ -3543,7 +3438,7 @@
         },
         "Ij8bRn7ZH3w": {
             "statistics": {
-                "viewCount": "1383548",
+                "viewCount": "1383551",
                 "likeCount": "63984",
                 "favoriteCount": "0",
                 "commentCount": "4229"
@@ -3576,45 +3471,10 @@
                 "publishTime": "2021-08-03T16:59:59Z"
             }
         },
-        "KrhzKOiRzV8": {
-            "statistics": {
-                "viewCount": "836458",
-                "likeCount": "39817",
-                "favoriteCount": "0",
-                "commentCount": "2022"
-            },
-            "duration": "PT10M26S",
-            "snippet": {
-                "publishedAt": "2021-08-01T17:00:25Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "We Might Need a Wi-Fi Upgrade - Juniper Networks Showcase",
-                "description": "Thanks to Juniper Networks for sponsoring this video! Learn more here: https://juni.pr/3eGR3sF and dig into the Marvis ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KrhzKOiRzV8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KrhzKOiRzV8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KrhzKOiRzV8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2021-08-01T17:00:25Z"
-            }
-        },
         "uRwubdL-URY": {
             "statistics": {
-                "viewCount": "1640566",
-                "likeCount": "70627",
+                "viewCount": "1640622",
+                "likeCount": "70628",
                 "favoriteCount": "0",
                 "commentCount": "4101"
             },
@@ -3648,8 +3508,8 @@
         },
         "qZCj3I8j9IU": {
             "statistics": {
-                "viewCount": "486494",
-                "likeCount": "14276",
+                "viewCount": "486524",
+                "likeCount": "14277",
                 "favoriteCount": "0",
                 "commentCount": "2023"
             },
@@ -3683,7 +3543,7 @@
         },
         "ZsSTR7fLpDg": {
             "statistics": {
-                "viewCount": "956506",
+                "viewCount": "956509",
                 "likeCount": "51880",
                 "favoriteCount": "0",
                 "commentCount": "2658"
@@ -3718,8 +3578,8 @@
         },
         "SKtEH_7lGJg": {
             "statistics": {
-                "viewCount": "2213551",
-                "likeCount": "79728",
+                "viewCount": "2213610",
+                "likeCount": "79729",
                 "favoriteCount": "0",
                 "commentCount": "6950"
             },
@@ -3753,8 +3613,8 @@
         },
         "LXj5A9ZhPSE": {
             "statistics": {
-                "viewCount": "1371272",
-                "likeCount": "55275",
+                "viewCount": "1371372",
+                "likeCount": "55277",
                 "favoriteCount": "0",
                 "commentCount": "3600"
             },
@@ -3788,8 +3648,8 @@
         },
         "5SkJdPp35pM": {
             "statistics": {
-                "viewCount": "1663289",
-                "likeCount": "82389",
+                "viewCount": "1663353",
+                "likeCount": "82391",
                 "favoriteCount": "0",
                 "commentCount": "10715"
             },
@@ -3823,7 +3683,7 @@
         },
         "7yR_tGnFyhY": {
             "statistics": {
-                "viewCount": "1579670",
+                "viewCount": "1579698",
                 "likeCount": "59376",
                 "favoriteCount": "0",
                 "commentCount": "3118"
@@ -3858,8 +3718,8 @@
         },
         "9E2kZqsXp4A": {
             "statistics": {
-                "viewCount": "1420215",
-                "likeCount": "56637",
+                "viewCount": "1420218",
+                "likeCount": "56638",
                 "favoriteCount": "0",
                 "commentCount": "4422"
             },
@@ -3893,7 +3753,7 @@
         },
         "LBX7n3NcESk": {
             "statistics": {
-                "viewCount": "501582",
+                "viewCount": "501591",
                 "likeCount": "25087",
                 "favoriteCount": "0",
                 "commentCount": "1504"
@@ -3928,7 +3788,7 @@
         },
         "8ZNUd-iCUJI": {
             "statistics": {
-                "viewCount": "1358573",
+                "viewCount": "1358597",
                 "likeCount": "56801",
                 "favoriteCount": "0",
                 "commentCount": "2888"
@@ -3963,8 +3823,8 @@
         },
         "cATjlaTS7uI": {
             "statistics": {
-                "viewCount": "1477256",
-                "likeCount": "63649",
+                "viewCount": "1477276",
+                "likeCount": "63650",
                 "favoriteCount": "0",
                 "commentCount": "4327"
             },
@@ -3998,7 +3858,7 @@
         },
         "XEyHiU6djE0": {
             "statistics": {
-                "viewCount": "492703",
+                "viewCount": "492704",
                 "likeCount": "15136",
                 "favoriteCount": "0",
                 "commentCount": "2134"
@@ -4033,7 +3893,7 @@
         },
         "2hOhccTqOhs": {
             "statistics": {
-                "viewCount": "1591870",
+                "viewCount": "1591931",
                 "likeCount": "62939",
                 "favoriteCount": "0",
                 "commentCount": "4062"
@@ -4068,10 +3928,10 @@
         },
         "AYPkU9yFyJs": {
             "statistics": {
-                "viewCount": "1913163",
-                "likeCount": "79093",
+                "viewCount": "1913229",
+                "likeCount": "79095",
                 "favoriteCount": "0",
-                "commentCount": "5535"
+                "commentCount": "5536"
             },
             "duration": "PT11M30S",
             "snippet": {
@@ -4103,8 +3963,8 @@
         },
         "i9ZnaA8DZDs": {
             "statistics": {
-                "viewCount": "1217190",
-                "likeCount": "70012",
+                "viewCount": "1217201",
+                "likeCount": "70013",
                 "favoriteCount": "0",
                 "commentCount": "4105"
             },
@@ -4138,7 +3998,7 @@
         },
         "ye_gE9MfuY4": {
             "statistics": {
-                "viewCount": "653437",
+                "viewCount": "653447",
                 "likeCount": "20267",
                 "favoriteCount": "0",
                 "commentCount": "769"
@@ -4171,10 +4031,45 @@
                 "publishTime": "2021-06-09T01:02:31Z"
             }
         },
+        "yqJ6J6UiZTk": {
+            "statistics": {
+                "viewCount": "1392923",
+                "likeCount": "55839",
+                "favoriteCount": "0",
+                "commentCount": "2891"
+            },
+            "duration": "PT14M50S",
+            "snippet": {
+                "publishedAt": "2021-05-27T17:02:00Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "I Swear this is NOT a TV.... - Epson EpiqVision Ultra LS500",
+                "description": "Get a new virtual desktop with Shells at https://lmg.gg/ShellsLTT1 Save 10% and Free Worldwide Shipping at Ridge Wallets by ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yqJ6J6UiZTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yqJ6J6UiZTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yqJ6J6UiZTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-05-27T17:02:00Z"
+            }
+        },
         "jM-ED97_vKo": {
             "statistics": {
-                "viewCount": "1912046",
-                "likeCount": "74268",
+                "viewCount": "1912104",
+                "likeCount": "74270",
                 "favoriteCount": "0",
                 "commentCount": "4369"
             },
@@ -4243,8 +4138,8 @@
         },
         "52vo1g4VBbc": {
             "statistics": {
-                "viewCount": "2592519",
-                "likeCount": "90471",
+                "viewCount": "2592542",
+                "likeCount": "90472",
                 "favoriteCount": "0",
                 "commentCount": "7673"
             },
@@ -4278,7 +4173,7 @@
         },
         "hqfUo4MZvZo": {
             "statistics": {
-                "viewCount": "910926",
+                "viewCount": "910942",
                 "likeCount": "47316",
                 "favoriteCount": "0",
                 "commentCount": "2337"
@@ -4313,8 +4208,8 @@
         },
         "Akqx0F5-gs4": {
             "statistics": {
-                "viewCount": "1646757",
-                "likeCount": "65733",
+                "viewCount": "1646783",
+                "likeCount": "65734",
                 "favoriteCount": "0",
                 "commentCount": "2167"
             },
@@ -4348,8 +4243,8 @@
         },
         "RUI1k-KHXNk": {
             "statistics": {
-                "viewCount": "3603677",
-                "likeCount": "136651",
+                "viewCount": "3603890",
+                "likeCount": "136655",
                 "favoriteCount": "0",
                 "commentCount": "6732"
             },
@@ -4418,7 +4313,7 @@
         },
         "9-Xvthp9l-8": {
             "statistics": {
-                "viewCount": "1544073",
+                "viewCount": "1544080",
                 "likeCount": "76264",
                 "favoriteCount": "0",
                 "commentCount": "4042"
@@ -4453,7 +4348,7 @@
         },
         "8S-usumuaWo": {
             "statistics": {
-                "viewCount": "1208571",
+                "viewCount": "1208584",
                 "likeCount": "64016",
                 "favoriteCount": "0",
                 "commentCount": "4241"
@@ -4488,8 +4383,8 @@
         },
         "JGvrXXonoqM": {
             "statistics": {
-                "viewCount": "1414677",
-                "likeCount": "64200",
+                "viewCount": "1414679",
+                "likeCount": "64201",
                 "favoriteCount": "0",
                 "commentCount": "2419"
             },
@@ -4523,10 +4418,10 @@
         },
         "J1z4XqEkSEU": {
             "statistics": {
-                "viewCount": "2788862",
-                "likeCount": "105644",
+                "viewCount": "2788882",
+                "likeCount": "105645",
                 "favoriteCount": "0",
-                "commentCount": "9978"
+                "commentCount": "9977"
             },
             "duration": "PT19M32S",
             "snippet": {
@@ -4558,8 +4453,8 @@
         },
         "tbRe1k2k0ow": {
             "statistics": {
-                "viewCount": "1850567",
-                "likeCount": "90581",
+                "viewCount": "1850658",
+                "likeCount": "90584",
                 "favoriteCount": "0",
                 "commentCount": "12309"
             },
@@ -4593,7 +4488,7 @@
         },
         "RqlDIyZvgNo": {
             "statistics": {
-                "viewCount": "1654270",
+                "viewCount": "1654281",
                 "likeCount": "56794",
                 "favoriteCount": "0",
                 "commentCount": "4132"
@@ -4628,8 +4523,8 @@
         },
         "dTh-7JYsp5k": {
             "statistics": {
-                "viewCount": "4628670",
-                "likeCount": "186146",
+                "viewCount": "4628787",
+                "likeCount": "186147",
                 "favoriteCount": "0",
                 "commentCount": "21871"
             },
@@ -4663,7 +4558,7 @@
         },
         "bs2mLHcnP8U": {
             "statistics": {
-                "viewCount": "918155",
+                "viewCount": "918181",
                 "likeCount": "41409",
                 "favoriteCount": "0",
                 "commentCount": "4855"
@@ -4696,10 +4591,45 @@
                 "publishTime": "2021-03-29T16:59:40Z"
             }
         },
+        "_6zGlk8y1Ks": {
+            "statistics": {
+                "viewCount": "2350728",
+                "likeCount": "115953",
+                "favoriteCount": "0",
+                "commentCount": "8525"
+            },
+            "duration": "PT11M5S",
+            "snippet": {
+                "publishedAt": "2021-03-22T17:00:36Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Your Gaming PC Has A Bottleneck!",
+                "description": "Thanks to Seasonic for sponsoring this video! Buy Seasonic PSU's On Amazon (PAID LINK): https://geni.us/cBo1Y On Newegg ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6zGlk8y1Ks/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6zGlk8y1Ks/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6zGlk8y1Ks/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-22T17:00:36Z"
+            }
+        },
         "5wO2vUZv4zw": {
             "statistics": {
-                "viewCount": "1972494",
-                "likeCount": "88438",
+                "viewCount": "1972553",
+                "likeCount": "88440",
                 "favoriteCount": "0",
                 "commentCount": "5398"
             },
@@ -4733,7 +4663,7 @@
         },
         "xKj5sMVsMf8": {
             "statistics": {
-                "viewCount": "1205718",
+                "viewCount": "1205719",
                 "likeCount": "65547",
                 "favoriteCount": "0",
                 "commentCount": "3389"
@@ -4768,7 +4698,7 @@
         },
         "MH6fSbJP9RQ": {
             "statistics": {
-                "viewCount": "757906",
+                "viewCount": "757914",
                 "likeCount": "21903",
                 "favoriteCount": "0",
                 "commentCount": "1753"
@@ -4803,7 +4733,7 @@
         },
         "VOWPt56iZoE": {
             "statistics": {
-                "viewCount": "1614660",
+                "viewCount": "1614661",
                 "likeCount": "80318",
                 "favoriteCount": "0",
                 "commentCount": "4994"
@@ -4838,8 +4768,8 @@
         },
         "TQ3I9aRHBPw": {
             "statistics": {
-                "viewCount": "2512462",
-                "likeCount": "142752",
+                "viewCount": "2512474",
+                "likeCount": "142753",
                 "favoriteCount": "0",
                 "commentCount": "14696"
             },
@@ -4873,7 +4803,7 @@
         },
         "A0WzLguGLOo": {
             "statistics": {
-                "viewCount": "2491325",
+                "viewCount": "2491380",
                 "likeCount": "158110",
                 "favoriteCount": "0",
                 "commentCount": "12442"
@@ -4908,7 +4838,7 @@
         },
         "ukwPX7kJMSo": {
             "statistics": {
-                "viewCount": "2277418",
+                "viewCount": "2277468",
                 "likeCount": "85343",
                 "favoriteCount": "0",
                 "commentCount": "6124"
@@ -4943,7 +4873,7 @@
         },
         "OfdQF3T2WKU": {
             "statistics": {
-                "viewCount": "1786604",
+                "viewCount": "1786613",
                 "likeCount": "81608",
                 "favoriteCount": "0",
                 "commentCount": "6117"
@@ -4978,7 +4908,7 @@
         },
         "Ic7NhQ62njg": {
             "statistics": {
-                "viewCount": "698559",
+                "viewCount": "698560",
                 "likeCount": "31494",
                 "favoriteCount": "0",
                 "commentCount": "4243"
@@ -5013,7 +4943,7 @@
         },
         "5y0A83_J57w": {
             "statistics": {
-                "viewCount": "3201367",
+                "viewCount": "3201447",
                 "likeCount": "104439",
                 "favoriteCount": "0",
                 "commentCount": "14891"
@@ -5048,7 +4978,7 @@
         },
         "Bw_Lp_QKGFc": {
             "statistics": {
-                "viewCount": "1517871",
+                "viewCount": "1517874",
                 "likeCount": "63190",
                 "favoriteCount": "0",
                 "commentCount": "3449"
@@ -5083,8 +5013,8 @@
         },
         "2X-ZayiWAKo": {
             "statistics": {
-                "viewCount": "8344175",
-                "likeCount": "315105",
+                "viewCount": "8344533",
+                "likeCount": "315111",
                 "favoriteCount": "0",
                 "commentCount": "25144"
             },
@@ -5118,7 +5048,7 @@
         },
         "jGnp-cSOKXw": {
             "statistics": {
-                "viewCount": "1225312",
+                "viewCount": "1225313",
                 "likeCount": "62164",
                 "favoriteCount": "0",
                 "commentCount": "6747"
@@ -5153,8 +5083,8 @@
         },
         "CP0pR1M0-vo": {
             "statistics": {
-                "viewCount": "2575916",
-                "likeCount": "146068",
+                "viewCount": "2575996",
+                "likeCount": "146073",
                 "favoriteCount": "0",
                 "commentCount": "12770"
             },
@@ -5188,7 +5118,7 @@
         },
         "9MXhGABtuCA": {
             "statistics": {
-                "viewCount": "1505450",
+                "viewCount": "1505469",
                 "likeCount": "70245",
                 "favoriteCount": "0",
                 "commentCount": "3921"
@@ -5223,7 +5153,7 @@
         },
         "HV29d0Qdjfo": {
             "statistics": {
-                "viewCount": "511902",
+                "viewCount": "511906",
                 "likeCount": "18661",
                 "favoriteCount": "0",
                 "commentCount": "1561"
@@ -5258,7 +5188,7 @@
         },
         "Gh_a0lWJJVo": {
             "statistics": {
-                "viewCount": "735175",
+                "viewCount": "735177",
                 "likeCount": "41500",
                 "favoriteCount": "0",
                 "commentCount": "4288"
@@ -5291,79 +5221,9 @@
                 "publishTime": "2020-12-17T18:04:00Z"
             }
         },
-        "zWjmcWg1j2U": {
-            "statistics": {
-                "viewCount": "2579020",
-                "likeCount": "105387",
-                "favoriteCount": "0",
-                "commentCount": "7774"
-            },
-            "duration": "PT15M12S",
-            "snippet": {
-                "publishedAt": "2020-12-14T18:00:36Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "It&#39;s time to break up. - Stream setup cable management",
-                "description": "Thanks to Logitech G for sponsoring today's video! Find out how you can break up with wires at https://lmg.gg/jsSwP The cable ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/zWjmcWg1j2U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/zWjmcWg1j2U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/zWjmcWg1j2U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-12-14T18:00:36Z"
-            }
-        },
-        "hW6_nX0g3to": {
-            "statistics": {
-                "viewCount": "1262093",
-                "likeCount": "61796",
-                "favoriteCount": "0",
-                "commentCount": "4624"
-            },
-            "duration": "PT10M8S",
-            "snippet": {
-                "publishedAt": "2020-12-13T18:01:44Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "How to build a PC without getting RIPPED OFF!",
-                "description": "Get a Free 32GB Flash Drive and 32GB Micro SD Card at Micro Center: https://rebrand.ly/t1xff Get the best prices and best ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/hW6_nX0g3to/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/hW6_nX0g3to/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/hW6_nX0g3to/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-12-13T18:01:44Z"
-            }
-        },
         "LeQeVC-8NUQ": {
             "statistics": {
-                "viewCount": "1575672",
+                "viewCount": "1575685",
                 "likeCount": "77703",
                 "favoriteCount": "0",
                 "commentCount": "7097"
@@ -5398,8 +5258,8 @@
         },
         "pocfGBQZUSI": {
             "statistics": {
-                "viewCount": "1720622",
-                "likeCount": "77093",
+                "viewCount": "1720644",
+                "likeCount": "77094",
                 "favoriteCount": "0",
                 "commentCount": "5922"
             },
@@ -5433,8 +5293,8 @@
         },
         "kK45BxjSLCs": {
             "statistics": {
-                "viewCount": "5858633",
-                "likeCount": "186580",
+                "viewCount": "5858720",
+                "likeCount": "186583",
                 "favoriteCount": "0",
                 "commentCount": "17914"
             },
@@ -5468,8 +5328,8 @@
         },
         "uHAfTty9UWY": {
             "statistics": {
-                "viewCount": "2494284",
-                "likeCount": "101408",
+                "viewCount": "2494303",
+                "likeCount": "101409",
                 "favoriteCount": "0",
                 "commentCount": "7145"
             },
@@ -5501,10 +5361,45 @@
                 "publishTime": "2020-12-07T18:36:48Z"
             }
         },
+        "wt9y6v7FNAY": {
+            "statistics": {
+                "viewCount": "1265037",
+                "likeCount": "61100",
+                "favoriteCount": "0",
+                "commentCount": "4714"
+            },
+            "duration": "PT16M3S",
+            "snippet": {
+                "publishedAt": "2020-11-25T19:17:07Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Smell-O-Vision is REAL",
+                "description": "Receive a $25 credit for Ting today when you sign up at https://linus.ting.com/ SmartDeploy: Claim your free IT software (worth ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wt9y6v7FNAY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wt9y6v7FNAY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wt9y6v7FNAY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-25T19:17:07Z"
+            }
+        },
         "aZg9ED04zIY": {
             "statistics": {
-                "viewCount": "3581879",
-                "likeCount": "125541",
+                "viewCount": "3582014",
+                "likeCount": "125544",
                 "favoriteCount": "0",
                 "commentCount": "7439"
             },
@@ -5538,7 +5433,7 @@
         },
         "QonFAjANnxU": {
             "statistics": {
-                "viewCount": "1104200",
+                "viewCount": "1104205",
                 "likeCount": "53913",
                 "favoriteCount": "0",
                 "commentCount": "4180"
@@ -5608,8 +5503,8 @@
         },
         "e295NaVldZs": {
             "statistics": {
-                "viewCount": "4235116",
-                "likeCount": "118865",
+                "viewCount": "4235117",
+                "likeCount": "118866",
                 "favoriteCount": "0",
                 "commentCount": "11548"
             },
@@ -5643,8 +5538,8 @@
         },
         "Gz7WMF4wWko": {
             "statistics": {
-                "viewCount": "5124039",
-                "likeCount": "194276",
+                "viewCount": "5124174",
+                "likeCount": "194280",
                 "favoriteCount": "0",
                 "commentCount": "18538"
             },
@@ -5678,7 +5573,7 @@
         },
         "eS7VqGBofVo": {
             "statistics": {
-                "viewCount": "1125312",
+                "viewCount": "1125313",
                 "likeCount": "44900",
                 "favoriteCount": "0",
                 "commentCount": "2151"
@@ -5713,7 +5608,7 @@
         },
         "aS9OgLifVjQ": {
             "statistics": {
-                "viewCount": "629323",
+                "viewCount": "629324",
                 "likeCount": "19336",
                 "favoriteCount": "0",
                 "commentCount": "2075"
@@ -5748,7 +5643,7 @@
         },
         "Wje1z63OS10": {
             "statistics": {
-                "viewCount": "2336199",
+                "viewCount": "2336209",
                 "likeCount": "85659",
                 "favoriteCount": "0",
                 "commentCount": "4906"
@@ -5783,7 +5678,7 @@
         },
         "0xUioPsLRKA": {
             "statistics": {
-                "viewCount": "4780635",
+                "viewCount": "4780649",
                 "likeCount": "201828",
                 "favoriteCount": "0",
                 "commentCount": "15185"
@@ -5818,8 +5713,8 @@
         },
         "x9n8Hz_RLqw": {
             "statistics": {
-                "viewCount": "3190477",
-                "likeCount": "88795",
+                "viewCount": "3190521",
+                "likeCount": "88796",
                 "favoriteCount": "0",
                 "commentCount": "7354"
             },
@@ -5853,8 +5748,8 @@
         },
         "oPOhKULOL4o": {
             "statistics": {
-                "viewCount": "6517974",
-                "likeCount": "259371",
+                "viewCount": "6518267",
+                "likeCount": "259378",
                 "favoriteCount": "0",
                 "commentCount": "16939"
             },
@@ -5888,8 +5783,8 @@
         },
         "aL5YTWRpzoA": {
             "statistics": {
-                "viewCount": "1140921",
-                "likeCount": "48873",
+                "viewCount": "1140932",
+                "likeCount": "48874",
                 "favoriteCount": "0",
                 "commentCount": "2496"
             },
@@ -5923,7 +5818,7 @@
         },
         "9wJn6nOEr7Q": {
             "statistics": {
-                "viewCount": "2379889",
+                "viewCount": "2379892",
                 "likeCount": "100737",
                 "favoriteCount": "0",
                 "commentCount": "8555"
@@ -5958,7 +5853,7 @@
         },
         "l8gcCn_AVfg": {
             "statistics": {
-                "viewCount": "2823790",
+                "viewCount": "2823792",
                 "likeCount": "138947",
                 "favoriteCount": "0",
                 "commentCount": "6250"
@@ -5993,8 +5888,8 @@
         },
         "V0JuW6x8lsw": {
             "statistics": {
-                "viewCount": "7464258",
-                "likeCount": "235710",
+                "viewCount": "7464520",
+                "likeCount": "235720",
                 "favoriteCount": "0",
                 "commentCount": "9362"
             },
@@ -6028,8 +5923,8 @@
         },
         "fuRg8_qJ7U0": {
             "statistics": {
-                "viewCount": "2431711",
-                "likeCount": "126896",
+                "viewCount": "2431716",
+                "likeCount": "126897",
                 "favoriteCount": "0",
                 "commentCount": "10550"
             },
@@ -6063,7 +5958,7 @@
         },
         "8rbZvQaljBk": {
             "statistics": {
-                "viewCount": "649578",
+                "viewCount": "649582",
                 "likeCount": "18787",
                 "favoriteCount": "0",
                 "commentCount": "1927"
@@ -6098,8 +5993,8 @@
         },
         "2pXrfHUjzmM": {
             "statistics": {
-                "viewCount": "1505837",
-                "likeCount": "69882",
+                "viewCount": "1505849",
+                "likeCount": "69883",
                 "favoriteCount": "0",
                 "commentCount": "6227"
             },
@@ -6133,8 +6028,8 @@
         },
         "zVrHDXbXjhM": {
             "statistics": {
-                "viewCount": "3494522",
-                "likeCount": "113910",
+                "viewCount": "3494563",
+                "likeCount": "113912",
                 "favoriteCount": "0",
                 "commentCount": "4729"
             },
@@ -6168,7 +6063,7 @@
         },
         "zAxsIUBGHL4": {
             "statistics": {
-                "viewCount": "768886",
+                "viewCount": "768887",
                 "likeCount": "47942",
                 "favoriteCount": "0",
                 "commentCount": "12637"
@@ -6203,7 +6098,7 @@
         },
         "nwkiU6GG-YU": {
             "statistics": {
-                "viewCount": "3518314",
+                "viewCount": "3518355",
                 "likeCount": "134130",
                 "favoriteCount": "0",
                 "commentCount": "12823"
@@ -6238,7 +6133,7 @@
         },
         "1TZzIqiwisY": {
             "statistics": {
-                "viewCount": "2292339",
+                "viewCount": "2292358",
                 "likeCount": "82276",
                 "favoriteCount": "0",
                 "commentCount": "6312"
@@ -6273,8 +6168,8 @@
         },
         "ucutmH2KvSQ": {
             "statistics": {
-                "viewCount": "5144524",
-                "likeCount": "237063",
+                "viewCount": "5144536",
+                "likeCount": "237064",
                 "favoriteCount": "0",
                 "commentCount": "34358"
             },
@@ -6308,8 +6203,8 @@
         },
         "3iY0figLAwo": {
             "statistics": {
-                "viewCount": "3082937",
-                "likeCount": "112304",
+                "viewCount": "3083084",
+                "likeCount": "112310",
                 "favoriteCount": "0",
                 "commentCount": "7265"
             },
@@ -6343,8 +6238,8 @@
         },
         "Gnhv3WFnmH8": {
             "statistics": {
-                "viewCount": "1241459",
-                "likeCount": "44421",
+                "viewCount": "1241482",
+                "likeCount": "44422",
                 "favoriteCount": "0",
                 "commentCount": "2348"
             },
@@ -6378,7 +6273,7 @@
         },
         "-pBPb15ykCI": {
             "statistics": {
-                "viewCount": "1680046",
+                "viewCount": "1680081",
                 "likeCount": "66743",
                 "favoriteCount": "0",
                 "commentCount": "3063"
@@ -6413,7 +6308,7 @@
         },
         "kn-o4WqIhAg": {
             "statistics": {
-                "viewCount": "1905015",
+                "viewCount": "1905032",
                 "likeCount": "70576",
                 "favoriteCount": "0",
                 "commentCount": "3704"
@@ -6448,7 +6343,7 @@
         },
         "jQda7atOB6I": {
             "statistics": {
-                "viewCount": "2517298",
+                "viewCount": "2517336",
                 "likeCount": "83130",
                 "favoriteCount": "0",
                 "commentCount": "9285"
@@ -6483,7 +6378,7 @@
         },
         "TCMKqA3lCJg": {
             "statistics": {
-                "viewCount": "1686559",
+                "viewCount": "1686576",
                 "likeCount": "78442",
                 "favoriteCount": "0",
                 "commentCount": "7180"
@@ -6553,8 +6448,8 @@
         },
         "jyjMlLmlRV8": {
             "statistics": {
-                "viewCount": "1589882",
-                "likeCount": "58154",
+                "viewCount": "1589919",
+                "likeCount": "58156",
                 "favoriteCount": "0",
                 "commentCount": "5212"
             },
@@ -6588,8 +6483,8 @@
         },
         "H8GptHQ0W2U": {
             "statistics": {
-                "viewCount": "1209383",
-                "likeCount": "56782",
+                "viewCount": "1209545",
+                "likeCount": "56794",
                 "favoriteCount": "0",
                 "commentCount": "3729"
             },
@@ -6658,8 +6553,8 @@
         },
         "L6ZJaKqALgM": {
             "statistics": {
-                "viewCount": "2167615",
-                "likeCount": "86027",
+                "viewCount": "2167669",
+                "likeCount": "86028",
                 "favoriteCount": "0",
                 "commentCount": "2841"
             },
@@ -6693,7 +6588,7 @@
         },
         "YcZfBeFmWOE": {
             "statistics": {
-                "viewCount": "536556",
+                "viewCount": "536557",
                 "likeCount": "13072",
                 "favoriteCount": "0",
                 "commentCount": "1285"
@@ -6728,8 +6623,8 @@
         },
         "6T_-HMkgxt0": {
             "statistics": {
-                "viewCount": "3154024",
-                "likeCount": "126284",
+                "viewCount": "3154090",
+                "likeCount": "126288",
                 "favoriteCount": "0",
                 "commentCount": "11637"
             },
@@ -6763,8 +6658,8 @@
         },
         "Xh0bdzeAZ1w": {
             "statistics": {
-                "viewCount": "2266098",
-                "likeCount": "87702",
+                "viewCount": "2266105",
+                "likeCount": "87703",
                 "favoriteCount": "0",
                 "commentCount": "4180"
             },
@@ -6796,10 +6691,45 @@
                 "publishTime": "2020-06-13T19:00:08Z"
             }
         },
+        "ZHrPWyMfr-8": {
+            "statistics": {
+                "viewCount": "1275511",
+                "likeCount": "46889",
+                "favoriteCount": "0",
+                "commentCount": "2746"
+            },
+            "duration": "PT10M11S",
+            "snippet": {
+                "publishedAt": "2020-06-09T19:00:52Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "The Tiniest Gaming Laptop!",
+                "description": "Sign up for Private Internet Access VPN at https://lmg.gg/pialinus2 Use code LINUS and get 25% off GlassWire at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZHrPWyMfr-8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZHrPWyMfr-8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZHrPWyMfr-8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-09T19:00:52Z"
+            }
+        },
         "WJnrMNCahxc": {
             "statistics": {
-                "viewCount": "2694400",
-                "likeCount": "76721",
+                "viewCount": "2694449",
+                "likeCount": "76723",
                 "favoriteCount": "0",
                 "commentCount": "5186"
             },
@@ -6833,7 +6763,7 @@
         },
         "NkjD4xIhfTw": {
             "statistics": {
-                "viewCount": "2405488",
+                "viewCount": "2405509",
                 "likeCount": "78242",
                 "favoriteCount": "0",
                 "commentCount": "6269"
@@ -6868,7 +6798,7 @@
         },
         "Y5bSxcec-KE": {
             "statistics": {
-                "viewCount": "2415373",
+                "viewCount": "2415375",
                 "likeCount": "85900",
                 "favoriteCount": "0",
                 "commentCount": "3814"
@@ -6903,8 +6833,8 @@
         },
         "HGHQ5R3NwrA": {
             "statistics": {
-                "viewCount": "3065531",
-                "likeCount": "113604",
+                "viewCount": "3065612",
+                "likeCount": "113605",
                 "favoriteCount": "0",
                 "commentCount": "8998"
             },
@@ -6938,8 +6868,8 @@
         },
         "l06PlYNShpQ": {
             "statistics": {
-                "viewCount": "3365087",
-                "likeCount": "136710",
+                "viewCount": "3365175",
+                "likeCount": "136712",
                 "favoriteCount": "0",
                 "commentCount": "7886"
             },
@@ -6971,9 +6901,44 @@
                 "publishTime": "2020-05-27T19:10:24Z"
             }
         },
+        "pReT94WMMHQ": {
+            "statistics": {
+                "viewCount": "2377535",
+                "likeCount": "61459",
+                "favoriteCount": "0",
+                "commentCount": "4306"
+            },
+            "duration": "PT9M45S",
+            "snippet": {
+                "publishedAt": "2020-05-26T19:02:38Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "FINE. The iPad Pro is a laptop. - Magic Keyboard Review",
+                "description": "Sign up for Private Internet Access VPN at https://lmg.gg/pialinus2 Save 15% today with offer code LTT on Displate at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pReT94WMMHQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pReT94WMMHQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pReT94WMMHQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-26T19:02:38Z"
+            }
+        },
         "uAAuNjNXaIM": {
             "statistics": {
-                "viewCount": "1859687",
+                "viewCount": "1859700",
                 "likeCount": "57682",
                 "favoriteCount": "0",
                 "commentCount": "3436"
@@ -7008,8 +6973,8 @@
         },
         "HFuLvGf0g0c": {
             "statistics": {
-                "viewCount": "3015780",
-                "likeCount": "96231",
+                "viewCount": "3015784",
+                "likeCount": "96230",
                 "favoriteCount": "0",
                 "commentCount": "7463"
             },
@@ -7043,8 +7008,8 @@
         },
         "EmTQXtdi1XM": {
             "statistics": {
-                "viewCount": "3913857",
-                "likeCount": "111351",
+                "viewCount": "3913889",
+                "likeCount": "111354",
                 "favoriteCount": "0",
                 "commentCount": "7338"
             },
@@ -7078,8 +7043,8 @@
         },
         "NYfmxb1OqzE": {
             "statistics": {
-                "viewCount": "2788775",
-                "likeCount": "69140",
+                "viewCount": "2788798",
+                "likeCount": "69141",
                 "favoriteCount": "0",
                 "commentCount": "5634"
             },
@@ -7111,9 +7076,44 @@
                 "publishTime": "2020-05-05T19:15:18Z"
             }
         },
+        "cwPOtPDUlU8": {
+            "statistics": {
+                "viewCount": "536396",
+                "likeCount": "14940",
+                "favoriteCount": "0",
+                "commentCount": "1601"
+            },
+            "duration": "PT1H18M6S",
+            "snippet": {
+                "publishedAt": "2020-05-02T01:41:19Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Watch Out, Losers! AMD is Making Video Cards for PHONES - WAN Show May 1, 2020",
+                "description": "Save 10% at Ridge Wallet with offer code LINUS at https://www.ridge.com/Linus Use code LTT at MechanicalKeyboards at ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cwPOtPDUlU8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cwPOtPDUlU8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cwPOtPDUlU8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-02T01:41:19Z"
+            }
+        },
         "uuNaaar6C5g": {
             "statistics": {
-                "viewCount": "1748217",
+                "viewCount": "1748220",
                 "likeCount": "51715",
                 "favoriteCount": "0",
                 "commentCount": "3623"
@@ -7148,7 +7148,7 @@
         },
         "HgPj6e3jtz0": {
             "statistics": {
-                "viewCount": "1866396",
+                "viewCount": "1866405",
                 "likeCount": "83855",
                 "favoriteCount": "0",
                 "commentCount": "4750"
@@ -7181,115 +7181,10 @@
                 "publishTime": "2020-04-08T19:01:17Z"
             }
         },
-        "K37gF3xqAs0": {
-            "statistics": {
-                "viewCount": "3253003",
-                "likeCount": "101103",
-                "favoriteCount": "0",
-                "commentCount": "12480"
-            },
-            "duration": "PT11M57S",
-            "snippet": {
-                "publishedAt": "2020-04-07T18:46:54Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Please don&#39;t buy a Galaxy S20 Ultra.",
-                "description": "Check out the Dbrand Grip at https://dbrand.com/LinusDropTips Get iFixit's NEW Mahi Driver Kit today for only $34.99 USD at ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/K37gF3xqAs0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/K37gF3xqAs0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/K37gF3xqAs0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-04-07T18:46:54Z"
-            }
-        },
-        "OmDAIeWDqt0": {
-            "statistics": {
-                "viewCount": "3350674",
-                "likeCount": "140193",
-                "favoriteCount": "0",
-                "commentCount": "12185"
-            },
-            "duration": "PT10M43S",
-            "snippet": {
-                "publishedAt": "2020-04-02T19:00:04Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "I threw a party and no one came...",
-                "description": "Thanks to Soundcore by Anker for sponsoring our review of Flare 2! The Soundcore Flare 2 features 360\u00b0 sound and you can ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/OmDAIeWDqt0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/OmDAIeWDqt0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/OmDAIeWDqt0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-04-02T19:00:04Z"
-            }
-        },
-        "IbYG7q9OO18": {
-            "statistics": {
-                "viewCount": "2040882",
-                "likeCount": "67491",
-                "favoriteCount": "0",
-                "commentCount": "3154"
-            },
-            "duration": "PT9M38S",
-            "snippet": {
-                "publishedAt": "2020-03-17T18:58:20Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "The TINY 1TB SSD",
-                "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off Save 10% and Free Worldwide Shipping at Ridge ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IbYG7q9OO18/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IbYG7q9OO18/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IbYG7q9OO18/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-03-17T18:58:20Z"
-            }
-        },
         "mnk6gnOBYIo": {
             "statistics": {
-                "viewCount": "3900383",
-                "likeCount": "107862",
+                "viewCount": "3900414",
+                "likeCount": "107864",
                 "favoriteCount": "0",
                 "commentCount": "7106"
             },
@@ -7358,7 +7253,7 @@
         },
         "0hMdQAjy43A": {
             "statistics": {
-                "viewCount": "3272339",
+                "viewCount": "3272361",
                 "likeCount": "100746",
                 "favoriteCount": "0",
                 "commentCount": "6278"
@@ -7393,8 +7288,8 @@
         },
         "D_xftS6ydXQ": {
             "statistics": {
-                "viewCount": "5155716",
-                "likeCount": "239272",
+                "viewCount": "5155781",
+                "likeCount": "239274",
                 "favoriteCount": "0",
                 "commentCount": "28768"
             },
@@ -7428,8 +7323,8 @@
         },
         "4DKLA7w9eeA": {
             "statistics": {
-                "viewCount": "4087903",
-                "likeCount": "125113",
+                "viewCount": "4087951",
+                "likeCount": "125114",
                 "favoriteCount": "0",
                 "commentCount": "8521"
             },
@@ -7498,8 +7393,8 @@
         },
         "jOH5T-HfqXE": {
             "statistics": {
-                "viewCount": "5271173",
-                "likeCount": "145595",
+                "viewCount": "5271189",
+                "likeCount": "145596",
                 "favoriteCount": "0",
                 "commentCount": "8073"
             },
@@ -7533,8 +7428,8 @@
         },
         "GCw9uG56foo": {
             "statistics": {
-                "viewCount": "1939254",
-                "likeCount": "72386",
+                "viewCount": "1939266",
+                "likeCount": "72387",
                 "favoriteCount": "0",
                 "commentCount": "3068"
             },
@@ -7568,7 +7463,7 @@
         },
         "_VotJ1IZPSw": {
             "statistics": {
-                "viewCount": "3469361",
+                "viewCount": "3469369",
                 "likeCount": "96759",
                 "favoriteCount": "0",
                 "commentCount": "9487"
@@ -7603,8 +7498,8 @@
         },
         "zcLbSCinX3U": {
             "statistics": {
-                "viewCount": "6576284",
-                "likeCount": "148558",
+                "viewCount": "6576545",
+                "likeCount": "148560",
                 "favoriteCount": "0",
                 "commentCount": "10249"
             },
@@ -7638,7 +7533,7 @@
         },
         "OEUCNh5g-2I": {
             "statistics": {
-                "viewCount": "1826601",
+                "viewCount": "1826620",
                 "likeCount": "58712",
                 "favoriteCount": "0",
                 "commentCount": "3317"
@@ -7673,7 +7568,7 @@
         },
         "cxjhTVR_dJw": {
             "statistics": {
-                "viewCount": "846722",
+                "viewCount": "846727",
                 "likeCount": "22312",
                 "favoriteCount": "0",
                 "commentCount": "2183"
@@ -7708,7 +7603,7 @@
         },
         "imJ9QgOJHzY": {
             "statistics": {
-                "viewCount": "1749895",
+                "viewCount": "1749917",
                 "likeCount": "56039",
                 "favoriteCount": "0",
                 "commentCount": "4446"
@@ -7778,7 +7673,7 @@
         },
         "ICs0a5sooag": {
             "statistics": {
-                "viewCount": "560814",
+                "viewCount": "560815",
                 "likeCount": "19937",
                 "favoriteCount": "0",
                 "commentCount": "1763"
@@ -7918,7 +7813,7 @@
         },
         "pgnF42ZoRSw": {
             "statistics": {
-                "viewCount": "3118777",
+                "viewCount": "3118800",
                 "likeCount": "87138",
                 "favoriteCount": "0",
                 "commentCount": "7685"
@@ -7953,8 +7848,8 @@
         },
         "uY_jeaxVgIE": {
             "statistics": {
-                "viewCount": "2117838",
-                "likeCount": "65922",
+                "viewCount": "2117841",
+                "likeCount": "65923",
                 "favoriteCount": "0",
                 "commentCount": "9532"
             },
@@ -7988,8 +7883,8 @@
         },
         "y-eIhBThlrY": {
             "statistics": {
-                "viewCount": "6031603",
-                "likeCount": "204018",
+                "viewCount": "6031729",
+                "likeCount": "204021",
                 "favoriteCount": "0",
                 "commentCount": "14896"
             },
@@ -8019,6 +7914,41 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2019-12-24T20:00:03Z"
+            }
+        },
+        "S6M85rboYy0": {
+            "statistics": {
+                "viewCount": "1591202",
+                "likeCount": "41767",
+                "favoriteCount": "0",
+                "commentCount": "3877"
+            },
+            "duration": "PT11M26S",
+            "snippet": {
+                "publishedAt": "2019-12-22T19:44:57Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "My End-Game Gaming TV - LG C9 OLED",
+                "description": "Check out the Drop.com DEALS OF THE DECADE at https://dro.ps/ltt-deal-of-the-decade Save 10% and Free Worldwide Shipping ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S6M85rboYy0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S6M85rboYy0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S6M85rboYy0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-12-22T19:44:57Z"
             }
         },
         "DoSBtwywius": {
@@ -8058,7 +7988,7 @@
         },
         "Lfcschg9uwU": {
             "statistics": {
-                "viewCount": "2405061",
+                "viewCount": "2405063",
                 "likeCount": "64920",
                 "favoriteCount": "0",
                 "commentCount": "4043"
@@ -8163,8 +8093,8 @@
         },
         "gV1y4av1GAo": {
             "statistics": {
-                "viewCount": "1796785",
-                "likeCount": "57606",
+                "viewCount": "1796830",
+                "likeCount": "57608",
                 "favoriteCount": "0",
                 "commentCount": "3743"
             },
@@ -8198,8 +8128,8 @@
         },
         "mpxBmxj5mP0": {
             "statistics": {
-                "viewCount": "2072178",
-                "likeCount": "55008",
+                "viewCount": "2072231",
+                "likeCount": "55009",
                 "favoriteCount": "0",
                 "commentCount": "3422"
             },
@@ -8233,7 +8163,7 @@
         },
         "xgr4qibTVCQ": {
             "statistics": {
-                "viewCount": "3604489",
+                "viewCount": "3604520",
                 "likeCount": "98469",
                 "favoriteCount": "0",
                 "commentCount": "4730"
@@ -8303,7 +8233,7 @@
         },
         "MmrKp8C85LU": {
             "statistics": {
-                "viewCount": "2811111",
+                "viewCount": "2811114",
                 "likeCount": "93883",
                 "favoriteCount": "0",
                 "commentCount": "5812"
@@ -8338,7 +8268,7 @@
         },
         "vuaiqcjf0bs": {
             "statistics": {
-                "viewCount": "4193118",
+                "viewCount": "4193124",
                 "likeCount": "166982",
                 "favoriteCount": "0",
                 "commentCount": "12140"
@@ -8373,7 +8303,7 @@
         },
         "PwyYYFKWEAg": {
             "statistics": {
-                "viewCount": "1230215",
+                "viewCount": "1230217",
                 "likeCount": "33818",
                 "favoriteCount": "0",
                 "commentCount": "2810"
@@ -8408,7 +8338,7 @@
         },
         "s6UeBoV3g7Y": {
             "statistics": {
-                "viewCount": "2102063",
+                "viewCount": "2102109",
                 "likeCount": "53365",
                 "favoriteCount": "0",
                 "commentCount": "3389"
@@ -8443,8 +8373,8 @@
         },
         "OX31kZbAXsA": {
             "statistics": {
-                "viewCount": "9954486",
-                "likeCount": "288268",
+                "viewCount": "9954655",
+                "likeCount": "288270",
                 "favoriteCount": "0",
                 "commentCount": "20882"
             },
@@ -8478,7 +8408,7 @@
         },
         "kn4AR7CbluE": {
             "statistics": {
-                "viewCount": "1908919",
+                "viewCount": "1908932",
                 "likeCount": "51111",
                 "favoriteCount": "0",
                 "commentCount": "3119"
@@ -8511,45 +8441,10 @@
                 "publishTime": "2019-11-19T19:40:03Z"
             }
         },
-        "4ByKe3PCVGs": {
-            "statistics": {
-                "viewCount": "1979077",
-                "likeCount": "56349",
-                "favoriteCount": "0",
-                "commentCount": "3582"
-            },
-            "duration": "PT23M20S",
-            "snippet": {
-                "publishedAt": "2019-11-17T20:01:26Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "We Built His Dream Family Gaming Rig - ROG Rig Reboot 2019",
-                "description": "Thanks to the ASUS Republic of Gamers for sponsoring this video! Check out the complete line of ASUS ROG Gaming PC ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4ByKe3PCVGs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4ByKe3PCVGs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4ByKe3PCVGs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-11-17T20:01:26Z"
-            }
-        },
         "XziVC8YUE5M": {
             "statistics": {
-                "viewCount": "3840446",
-                "likeCount": "107718",
+                "viewCount": "3840491",
+                "likeCount": "107720",
                 "favoriteCount": "0",
                 "commentCount": "5274"
             },
@@ -8583,7 +8478,7 @@
         },
         "b4Wp4SzdNj4": {
             "statistics": {
-                "viewCount": "2577673",
+                "viewCount": "2577725",
                 "likeCount": "53871",
                 "favoriteCount": "0",
                 "commentCount": "3852"
@@ -8653,7 +8548,7 @@
         },
         "w_HKRUPN1Mk": {
             "statistics": {
-                "viewCount": "2858536",
+                "viewCount": "2858561",
                 "likeCount": "69723",
                 "favoriteCount": "0",
                 "commentCount": "3913"
@@ -8688,7 +8583,7 @@
         },
         "IUB7r-Omy48": {
             "statistics": {
-                "viewCount": "1480499",
+                "viewCount": "1480505",
                 "likeCount": "43298",
                 "favoriteCount": "0",
                 "commentCount": "3911"
@@ -8721,44 +8616,9 @@
                 "publishTime": "2019-10-26T18:55:37Z"
             }
         },
-        "uWtU8pGspj0": {
-            "statistics": {
-                "viewCount": "4221236",
-                "likeCount": "78687",
-                "favoriteCount": "0",
-                "commentCount": "3632"
-            },
-            "duration": "PT23M7S",
-            "snippet": {
-                "publishedAt": "2019-10-20T19:00:27Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Testing out Mystery Chinese CPUs",
-                "description": "Join the drop for the Massdrop x Beyerdynamic DT 177X Go Headphones at https://dro.ps/ltt-dt177x Buy CORSAIR's Hydro X on ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/uWtU8pGspj0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/uWtU8pGspj0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/uWtU8pGspj0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2019-10-20T19:00:27Z"
-            }
-        },
         "194aNoSSvS4": {
             "statistics": {
-                "viewCount": "1393096",
+                "viewCount": "1393098",
                 "likeCount": "44780",
                 "favoriteCount": "0",
                 "commentCount": "2448"
@@ -8793,8 +8653,8 @@
         },
         "x7rt6BZYscs": {
             "statistics": {
-                "viewCount": "3987951",
-                "likeCount": "117304",
+                "viewCount": "3987984",
+                "likeCount": "117305",
                 "favoriteCount": "0",
                 "commentCount": "9402"
             },
@@ -8828,7 +8688,7 @@
         },
         "ajJaYGnKpu4": {
             "statistics": {
-                "viewCount": "1257020",
+                "viewCount": "1257027",
                 "likeCount": "37065",
                 "favoriteCount": "0",
                 "commentCount": "4455"
@@ -8898,8 +8758,8 @@
         },
         "L3oqktdx2a8": {
             "statistics": {
-                "viewCount": "2807675",
-                "likeCount": "58874",
+                "viewCount": "2807684",
+                "likeCount": "58873",
                 "favoriteCount": "0",
                 "commentCount": "4797"
             },
@@ -8933,7 +8793,7 @@
         },
         "7ci7mFBuShQ": {
             "statistics": {
-                "viewCount": "2552688",
+                "viewCount": "2552694",
                 "likeCount": "55886",
                 "favoriteCount": "0",
                 "commentCount": "6647"
@@ -8968,7 +8828,7 @@
         },
         "ax1stHWzxKQ": {
             "statistics": {
-                "viewCount": "863278",
+                "viewCount": "863282",
                 "likeCount": "21086",
                 "favoriteCount": "0",
                 "commentCount": "2376"
@@ -9003,8 +8863,8 @@
         },
         "eQ_8F4nzyiw": {
             "statistics": {
-                "viewCount": "21797586",
-                "likeCount": "447932",
+                "viewCount": "21797968",
+                "likeCount": "447946",
                 "favoriteCount": "0",
                 "commentCount": "23362"
             },
@@ -9073,7 +8933,7 @@
         },
         "NXN6ejswSR8": {
             "statistics": {
-                "viewCount": "2227210",
+                "viewCount": "2227222",
                 "likeCount": "60969",
                 "favoriteCount": "0",
                 "commentCount": "6533"
@@ -9108,7 +8968,7 @@
         },
         "Luh2mUIXsYc": {
             "statistics": {
-                "viewCount": "2339582",
+                "viewCount": "2339583",
                 "likeCount": "52754",
                 "favoriteCount": "0",
                 "commentCount": "6031"
@@ -9178,7 +9038,7 @@
         },
         "76KPzzMccjM": {
             "statistics": {
-                "viewCount": "5785785",
+                "viewCount": "5785870",
                 "likeCount": "119955",
                 "favoriteCount": "0",
                 "commentCount": "7125"
@@ -9213,7 +9073,7 @@
         },
         "4sAeslM74U8": {
             "statistics": {
-                "viewCount": "826873",
+                "viewCount": "826875",
                 "likeCount": "22242",
                 "favoriteCount": "0",
                 "commentCount": "3386"
@@ -9248,8 +9108,8 @@
         },
         "qXUJSCZiU48": {
             "statistics": {
-                "viewCount": "8682366",
-                "likeCount": "186503",
+                "viewCount": "8682450",
+                "likeCount": "186505",
                 "favoriteCount": "0",
                 "commentCount": "13597"
             },
@@ -9283,7 +9143,7 @@
         },
         "NMD2UnIxSGw": {
             "statistics": {
-                "viewCount": "3060236",
+                "viewCount": "3060241",
                 "likeCount": "94627",
                 "favoriteCount": "0",
                 "commentCount": "4020"
@@ -9318,7 +9178,7 @@
         },
         "aaNYr5sLZiY": {
             "statistics": {
-                "viewCount": "1230840",
+                "viewCount": "1230842",
                 "likeCount": "39366",
                 "favoriteCount": "0",
                 "commentCount": "4368"
@@ -9388,8 +9248,8 @@
         },
         "Zr65jfIXpvw": {
             "statistics": {
-                "viewCount": "1593958",
-                "likeCount": "50730",
+                "viewCount": "1593973",
+                "likeCount": "50731",
                 "favoriteCount": "0",
                 "commentCount": "2463"
             },
@@ -9423,7 +9283,7 @@
         },
         "53BLkr3s69U": {
             "statistics": {
-                "viewCount": "891303",
+                "viewCount": "891305",
                 "likeCount": "34699",
                 "favoriteCount": "0",
                 "commentCount": "2436"
@@ -9458,7 +9318,7 @@
         },
         "IX2NQ1lq4ZM": {
             "statistics": {
-                "viewCount": "2462580",
+                "viewCount": "2462612",
                 "likeCount": "62954",
                 "favoriteCount": "0",
                 "commentCount": "4140"
@@ -9493,7 +9353,7 @@
         },
         "NgDykMvzoG8": {
             "statistics": {
-                "viewCount": "2075146",
+                "viewCount": "2075156",
                 "likeCount": "47046",
                 "favoriteCount": "0",
                 "commentCount": "4792"
@@ -9528,8 +9388,8 @@
         },
         "MsMJeghxWnQ": {
             "statistics": {
-                "viewCount": "3280162",
-                "likeCount": "105644",
+                "viewCount": "3280229",
+                "likeCount": "105648",
                 "favoriteCount": "0",
                 "commentCount": "13881"
             },
@@ -9563,8 +9423,8 @@
         },
         "a30Hnuzgr6s": {
             "statistics": {
-                "viewCount": "3834865",
-                "likeCount": "109807",
+                "viewCount": "3834943",
+                "likeCount": "109808",
                 "favoriteCount": "0",
                 "commentCount": "9410"
             },
@@ -9598,7 +9458,7 @@
         },
         "gpjrbHFv_dA": {
             "statistics": {
-                "viewCount": "1760641",
+                "viewCount": "1760642",
                 "likeCount": "49868",
                 "favoriteCount": "0",
                 "commentCount": "3987"
@@ -9633,7 +9493,7 @@
         },
         "O43IIVhb3ak": {
             "statistics": {
-                "viewCount": "1151652",
+                "viewCount": "1151660",
                 "likeCount": "36269",
                 "favoriteCount": "0",
                 "commentCount": "2756"
@@ -9668,7 +9528,7 @@
         },
         "upevcarRsMc": {
             "statistics": {
-                "viewCount": "2766880",
+                "viewCount": "2766893",
                 "likeCount": "103346",
                 "favoriteCount": "0",
                 "commentCount": "8814"
@@ -9703,8 +9563,8 @@
         },
         "QlR1LVMREf4": {
             "statistics": {
-                "viewCount": "2196545",
-                "likeCount": "50813",
+                "viewCount": "2196555",
+                "likeCount": "50814",
                 "favoriteCount": "0",
                 "commentCount": "5174"
             },
@@ -9738,7 +9598,7 @@
         },
         "RGKh0zKg28k": {
             "statistics": {
-                "viewCount": "2210876",
+                "viewCount": "2210879",
                 "likeCount": "53200",
                 "favoriteCount": "0",
                 "commentCount": "4410"
@@ -9808,7 +9668,7 @@
         },
         "HOHIxBGJo3I": {
             "statistics": {
-                "viewCount": "1086368",
+                "viewCount": "1086378",
                 "likeCount": "29204",
                 "favoriteCount": "0",
                 "commentCount": "2714"
@@ -9843,8 +9703,8 @@
         },
         "M68yTRNkgO0": {
             "statistics": {
-                "viewCount": "1662790",
-                "likeCount": "53789",
+                "viewCount": "1662793",
+                "likeCount": "53790",
                 "favoriteCount": "0",
                 "commentCount": "3907"
             },
@@ -9878,8 +9738,8 @@
         },
         "Stf8UmIaJuo": {
             "statistics": {
-                "viewCount": "2541882",
-                "likeCount": "73359",
+                "viewCount": "2541923",
+                "likeCount": "73362",
                 "favoriteCount": "0",
                 "commentCount": "4278"
             },
@@ -9948,7 +9808,7 @@
         },
         "iIXDx-_m2f0": {
             "statistics": {
-                "viewCount": "871908",
+                "viewCount": "871909",
                 "likeCount": "38610",
                 "favoriteCount": "0",
                 "commentCount": "2218"
@@ -10018,7 +9878,7 @@
         },
         "qNNj1MjicQU": {
             "statistics": {
-                "viewCount": "1043361",
+                "viewCount": "1043362",
                 "likeCount": "39715",
                 "favoriteCount": "0",
                 "commentCount": "2766"
@@ -10053,8 +9913,8 @@
         },
         "pt1jkv89Hws": {
             "statistics": {
-                "viewCount": "2702233",
-                "likeCount": "62359",
+                "viewCount": "2702251",
+                "likeCount": "62360",
                 "favoriteCount": "0",
                 "commentCount": "3109"
             },
@@ -10158,7 +10018,7 @@
         },
         "xnWCfchKYkQ": {
             "statistics": {
-                "viewCount": "1437910",
+                "viewCount": "1437911",
                 "likeCount": "39110",
                 "favoriteCount": "0",
                 "commentCount": "1956"
@@ -10193,8 +10053,8 @@
         },
         "u4EZrFBbUGk": {
             "statistics": {
-                "viewCount": "2465990",
-                "likeCount": "59752",
+                "viewCount": "2465994",
+                "likeCount": "59753",
                 "favoriteCount": "0",
                 "commentCount": "5823"
             },
@@ -10228,8 +10088,8 @@
         },
         "9xncum0d4Vk": {
             "statistics": {
-                "viewCount": "2270540",
-                "likeCount": "74013",
+                "viewCount": "2270555",
+                "likeCount": "74014",
                 "favoriteCount": "0",
                 "commentCount": "5956"
             },
@@ -10263,8 +10123,8 @@
         },
         "2-eMZzMjBR4": {
             "statistics": {
-                "viewCount": "1243804",
-                "likeCount": "42415",
+                "viewCount": "1243806",
+                "likeCount": "42416",
                 "favoriteCount": "0",
                 "commentCount": "3231"
             },
@@ -10298,7 +10158,7 @@
         },
         "VeT1LFVdUV0": {
             "statistics": {
-                "viewCount": "1957276",
+                "viewCount": "1957282",
                 "likeCount": "65062",
                 "favoriteCount": "0",
                 "commentCount": "8304"
@@ -10333,8 +10193,8 @@
         },
         "5Jp9kZNlb-Q": {
             "statistics": {
-                "viewCount": "6198200",
-                "likeCount": "155382",
+                "viewCount": "6198351",
+                "likeCount": "155384",
                 "favoriteCount": "0",
                 "commentCount": "16354"
             },
@@ -10368,7 +10228,7 @@
         },
         "zuQ2gczGfDM": {
             "statistics": {
-                "viewCount": "2154598",
+                "viewCount": "2154600",
                 "likeCount": "44629",
                 "favoriteCount": "0",
                 "commentCount": "3888"
@@ -10403,7 +10263,7 @@
         },
         "fDkWNgmKCcE": {
             "statistics": {
-                "viewCount": "6669132",
+                "viewCount": "6669236",
                 "likeCount": "47270",
                 "favoriteCount": "0",
                 "commentCount": "3493"
@@ -10438,7 +10298,7 @@
         },
         "LdcDLErhuH0": {
             "statistics": {
-                "viewCount": "1234865",
+                "viewCount": "1234867",
                 "likeCount": "33462",
                 "favoriteCount": "0",
                 "commentCount": "2305"
@@ -10471,9 +10331,79 @@
                 "publishTime": "2019-02-28T20:00:14Z"
             }
         },
+        "tkN3E9QgMnk": {
+            "statistics": {
+                "viewCount": "1139389",
+                "likeCount": "34533",
+                "favoriteCount": "0",
+                "commentCount": "2916"
+            },
+            "duration": "PT9M5S",
+            "snippet": {
+                "publishedAt": "2019-02-26T20:00:25Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "The Craziest 17 inch Laptop! - LG Gram 17 Review",
+                "description": "Visit https://www.squarespace.com/LTT and use offer code LTT for 10% off Use offer code TECHTIPS20 to get 20% off your next ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tkN3E9QgMnk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tkN3E9QgMnk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tkN3E9QgMnk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-26T20:00:25Z"
+            }
+        },
+        "xuDJtELq8QM": {
+            "statistics": {
+                "viewCount": "4591641",
+                "likeCount": "118779",
+                "favoriteCount": "0",
+                "commentCount": "8404"
+            },
+            "duration": "PT9M20S",
+            "snippet": {
+                "publishedAt": "2019-02-23T19:59:50Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Nvidia, I\u2019m Sorry. GTX 1660 Ti Review",
+                "description": "Check out the Thermaltake A500 mid-tower case on Amazon at https://lmg.gg/a500 Win a OnePlus 6T Smartphone through our ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xuDJtELq8QM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xuDJtELq8QM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xuDJtELq8QM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-23T19:59:50Z"
+            }
+        },
         "H3gVqSgoQak": {
             "statistics": {
-                "viewCount": "2157656",
+                "viewCount": "2157662",
                 "likeCount": "54008",
                 "favoriteCount": "0",
                 "commentCount": "4037"
@@ -10508,7 +10438,7 @@
         },
         "3aADeK-bSMU": {
             "statistics": {
-                "viewCount": "1317832",
+                "viewCount": "1317836",
                 "likeCount": "42472",
                 "favoriteCount": "0",
                 "commentCount": "7351"
@@ -10543,7 +10473,7 @@
         },
         "eY7E0OgMAIE": {
             "statistics": {
-                "viewCount": "350188",
+                "viewCount": "350190",
                 "likeCount": "7794",
                 "favoriteCount": "0",
                 "commentCount": "1207"
@@ -10578,7 +10508,7 @@
         },
         "alhEgNvzv50": {
             "statistics": {
-                "viewCount": "2172247",
+                "viewCount": "2172252",
                 "likeCount": "59045",
                 "favoriteCount": "0",
                 "commentCount": "6670"
@@ -10613,7 +10543,7 @@
         },
         "O1nok2VlF1M": {
             "statistics": {
-                "viewCount": "1720505",
+                "viewCount": "1720510",
                 "likeCount": "49460",
                 "favoriteCount": "0",
                 "commentCount": "4252"
@@ -10648,7 +10578,7 @@
         },
         "dLkWB-Iw3-s": {
             "statistics": {
-                "viewCount": "3312599",
+                "viewCount": "3312604",
                 "likeCount": "75958",
                 "favoriteCount": "0",
                 "commentCount": "6083"
@@ -10683,7 +10613,7 @@
         },
         "47WkAyjxESo": {
             "statistics": {
-                "viewCount": "3554184",
+                "viewCount": "3554190",
                 "likeCount": "68367",
                 "favoriteCount": "0",
                 "commentCount": "5438"
@@ -10753,7 +10683,7 @@
         },
         "TY4s35uULg4": {
             "statistics": {
-                "viewCount": "5892223",
+                "viewCount": "5892233",
                 "likeCount": "146867",
                 "favoriteCount": "0",
                 "commentCount": "12167"
@@ -10788,7 +10718,7 @@
         },
         "STdZ_kiHYEY": {
             "statistics": {
-                "viewCount": "881484",
+                "viewCount": "881485",
                 "likeCount": "33788",
                 "favoriteCount": "0",
                 "commentCount": "2813"
@@ -10823,7 +10753,7 @@
         },
         "_VsGhBSP7Z0": {
             "statistics": {
-                "viewCount": "2959144",
+                "viewCount": "2959145",
                 "likeCount": "55385",
                 "favoriteCount": "0",
                 "commentCount": "7098"
@@ -10858,7 +10788,7 @@
         },
         "zv69atwu5vc": {
             "statistics": {
-                "viewCount": "1222669",
+                "viewCount": "1222671",
                 "likeCount": "34128",
                 "favoriteCount": "0",
                 "commentCount": "2413"
@@ -10893,7 +10823,7 @@
         },
         "oUoO3Ik8aIk": {
             "statistics": {
-                "viewCount": "8133875",
+                "viewCount": "8133878",
                 "likeCount": "151448",
                 "favoriteCount": "0",
                 "commentCount": "14445"
@@ -10928,7 +10858,7 @@
         },
         "HcaHYFElfgY": {
             "statistics": {
-                "viewCount": "472510",
+                "viewCount": "472512",
                 "likeCount": "7068",
                 "favoriteCount": "0",
                 "commentCount": "1121"
@@ -10963,10 +10893,10 @@
         },
         "4IFexZ5apzw": {
             "statistics": {
-                "viewCount": "9595938",
-                "likeCount": "159475",
+                "viewCount": "9596026",
+                "likeCount": "159476",
                 "favoriteCount": "0",
-                "commentCount": "8990"
+                "commentCount": "8991"
             },
             "duration": "PT18M43S",
             "snippet": {
@@ -10998,7 +10928,7 @@
         },
         "bfrQ1_X6gS4": {
             "statistics": {
-                "viewCount": "2260452",
+                "viewCount": "2260454",
                 "likeCount": "51298",
                 "favoriteCount": "0",
                 "commentCount": "8040"
@@ -11031,44 +10961,9 @@
                 "publishTime": "2018-12-12T20:04:23Z"
             }
         },
-        "4EzC9J9xOHQ": {
-            "statistics": {
-                "viewCount": "1316542",
-                "likeCount": "44041",
-                "favoriteCount": "0",
-                "commentCount": "2475"
-            },
-            "duration": "PT11M7S",
-            "snippet": {
-                "publishedAt": "2018-12-08T20:03:27Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "The BEST Money We&#39;ve Ever Spent",
-                "description": "Get iFixit's NEW Manta Driver Kit now for only $59.99 USD at https://www.ifixit.com/linus Check out the Thermaltake A500 case on ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4EzC9J9xOHQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4EzC9J9xOHQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4EzC9J9xOHQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-12-08T20:03:27Z"
-            }
-        },
         "U5dJn7V_4Bk": {
             "statistics": {
-                "viewCount": "2032943",
+                "viewCount": "2032947",
                 "likeCount": "61270",
                 "favoriteCount": "0",
                 "commentCount": "5215"
@@ -11103,8 +10998,8 @@
         },
         "VWHlPH23P-w": {
             "statistics": {
-                "viewCount": "13929226",
-                "likeCount": "278785",
+                "viewCount": "13929456",
+                "likeCount": "278793",
                 "favoriteCount": "0",
                 "commentCount": "23046"
             },
@@ -11138,7 +11033,7 @@
         },
         "DEw-3vpqhbQ": {
             "statistics": {
-                "viewCount": "2418921",
+                "viewCount": "2418927",
                 "likeCount": "66210",
                 "favoriteCount": "0",
                 "commentCount": "6346"
@@ -11173,8 +11068,8 @@
         },
         "ehvz3iN8pp4": {
             "statistics": {
-                "viewCount": "5015865",
-                "likeCount": "132092",
+                "viewCount": "5015876",
+                "likeCount": "132095",
                 "favoriteCount": "0",
                 "commentCount": "20837"
             },
@@ -11243,7 +11138,7 @@
         },
         "OffzVc7ZB-o": {
             "statistics": {
-                "viewCount": "2061578",
+                "viewCount": "2061584",
                 "likeCount": "51775",
                 "favoriteCount": "0",
                 "commentCount": "4114"
@@ -11313,7 +11208,7 @@
         },
         "5CbqEKWGblE": {
             "statistics": {
-                "viewCount": "3969465",
+                "viewCount": "3969469",
                 "likeCount": "78463",
                 "favoriteCount": "0",
                 "commentCount": "6910"
@@ -11348,8 +11243,8 @@
         },
         "v7YBCynA-b0": {
             "statistics": {
-                "viewCount": "3275384",
-                "likeCount": "77686",
+                "viewCount": "3275399",
+                "likeCount": "77687",
                 "favoriteCount": "0",
                 "commentCount": "4270"
             },
@@ -11383,8 +11278,8 @@
         },
         "APyS-vGpyp8": {
             "statistics": {
-                "viewCount": "4686610",
-                "likeCount": "79031",
+                "viewCount": "4686628",
+                "likeCount": "79032",
                 "favoriteCount": "0",
                 "commentCount": "5385"
             },
@@ -11453,7 +11348,7 @@
         },
         "6xQo_ITmhNY": {
             "statistics": {
-                "viewCount": "738309",
+                "viewCount": "738310",
                 "likeCount": "26752",
                 "favoriteCount": "0",
                 "commentCount": "1974"
@@ -11591,44 +11486,9 @@
                 "publishTime": "2018-09-24T19:00:03Z"
             }
         },
-        "5BpCK0l6LXw": {
-            "statistics": {
-                "viewCount": "355456",
-                "likeCount": "6115",
-                "favoriteCount": "0",
-                "commentCount": "837"
-            },
-            "duration": "PT1H43S",
-            "snippet": {
-                "publishedAt": "2018-09-22T02:02:56Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "NCIX Data Breach - The WAN Show Sept 21, 2018",
-                "description": "Synergy: Share your mouse and keyboard between multiple computers with Synergy: https://symless.com/synergy/LinusTechTips ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5BpCK0l6LXw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5BpCK0l6LXw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5BpCK0l6LXw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-09-22T02:02:56Z"
-            }
-        },
         "kpkXPy_jXmU": {
             "statistics": {
-                "viewCount": "2757974",
+                "viewCount": "2757976",
                 "likeCount": "69676",
                 "favoriteCount": "0",
                 "commentCount": "7137"
@@ -11663,7 +11523,7 @@
         },
         "sK-wHrEpEgA": {
             "statistics": {
-                "viewCount": "1848866",
+                "viewCount": "1848867",
                 "likeCount": "46128",
                 "favoriteCount": "0",
                 "commentCount": "4883"
@@ -11733,7 +11593,7 @@
         },
         "Utsnt6GFrKo": {
             "statistics": {
-                "viewCount": "793820",
+                "viewCount": "793822",
                 "likeCount": "37009",
                 "favoriteCount": "0",
                 "commentCount": "2730"
@@ -11768,8 +11628,8 @@
         },
         "M3bezYerYxQ": {
             "statistics": {
-                "viewCount": "10526821",
-                "likeCount": "310468",
+                "viewCount": "10526917",
+                "likeCount": "310471",
                 "favoriteCount": "0",
                 "commentCount": "25626"
             },
@@ -11803,8 +11663,8 @@
         },
         "eyr14_B230o": {
             "statistics": {
-                "viewCount": "3656176",
-                "likeCount": "76668",
+                "viewCount": "3656234",
+                "likeCount": "76669",
                 "favoriteCount": "0",
                 "commentCount": "4858"
             },
@@ -11838,7 +11698,7 @@
         },
         "Dmhr-JRf8l8": {
             "statistics": {
-                "viewCount": "843681",
+                "viewCount": "843683",
                 "likeCount": "22432",
                 "favoriteCount": "0",
                 "commentCount": "1543"
@@ -11873,7 +11733,7 @@
         },
         "7gJ8mGFjeqA": {
             "statistics": {
-                "viewCount": "2386912",
+                "viewCount": "2386918",
                 "likeCount": "50133",
                 "favoriteCount": "0",
                 "commentCount": "6822"
@@ -11908,7 +11768,7 @@
         },
         "GZmWhaxeYiA": {
             "statistics": {
-                "viewCount": "1325348",
+                "viewCount": "1325351",
                 "likeCount": "27409",
                 "favoriteCount": "0",
                 "commentCount": "2913"
@@ -11943,7 +11803,7 @@
         },
         "bsytUzKrP58": {
             "statistics": {
-                "viewCount": "828027",
+                "viewCount": "828028",
                 "likeCount": "19233",
                 "favoriteCount": "0",
                 "commentCount": "1793"
@@ -11978,8 +11838,8 @@
         },
         "EdwDvz47lNw": {
             "statistics": {
-                "viewCount": "7452836",
-                "likeCount": "223056",
+                "viewCount": "7452897",
+                "likeCount": "223057",
                 "favoriteCount": "0",
                 "commentCount": "18662"
             },
@@ -12013,8 +11873,8 @@
         },
         "LwEInwvFbwk": {
             "statistics": {
-                "viewCount": "4569236",
-                "likeCount": "186061",
+                "viewCount": "4569250",
+                "likeCount": "186060",
                 "favoriteCount": "0",
                 "commentCount": "17383"
             },
@@ -12048,7 +11908,7 @@
         },
         "WXt2gD4fS_k": {
             "statistics": {
-                "viewCount": "5551082",
+                "viewCount": "5551107",
                 "likeCount": "154626",
                 "favoriteCount": "0",
                 "commentCount": "18459"
@@ -12083,8 +11943,8 @@
         },
         "BtDRs434LYQ": {
             "statistics": {
-                "viewCount": "1263196",
-                "likeCount": "33444",
+                "viewCount": "1263198",
+                "likeCount": "33443",
                 "favoriteCount": "0",
                 "commentCount": "3338"
             },
@@ -12153,7 +12013,7 @@
         },
         "0il7xdpUPB8": {
             "statistics": {
-                "viewCount": "1419355",
+                "viewCount": "1419356",
                 "likeCount": "29094",
                 "favoriteCount": "0",
                 "commentCount": "2499"
@@ -12186,44 +12046,9 @@
                 "publishTime": "2018-06-25T19:41:39Z"
             }
         },
-        "CF_JgzODRGI": {
-            "statistics": {
-                "viewCount": "1102049",
-                "likeCount": "29985",
-                "favoriteCount": "0",
-                "commentCount": "3973"
-            },
-            "duration": "PT14M1S",
-            "snippet": {
-                "publishedAt": "2018-06-15T22:06:22Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "All-screen Phone with Pop-Up Selfie Camera!! - Classic Unboxing",
-                "description": "The Vivo NEX is a full-screen Android Phone with a pop-up selfie camera. These are my first impressions Buy Vivo NEX On ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CF_JgzODRGI/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CF_JgzODRGI/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CF_JgzODRGI/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2018-06-15T22:06:22Z"
-            }
-        },
         "X5UrtwW-zJs": {
             "statistics": {
-                "viewCount": "1612938",
+                "viewCount": "1612942",
                 "likeCount": "45707",
                 "favoriteCount": "0",
                 "commentCount": "3496"
@@ -12258,7 +12083,7 @@
         },
         "R3RwoQt3m7M": {
             "statistics": {
-                "viewCount": "1532576",
+                "viewCount": "1532596",
                 "likeCount": "43027",
                 "favoriteCount": "0",
                 "commentCount": "7580"
@@ -12291,9 +12116,44 @@
                 "publishTime": "2018-06-09T07:01:09Z"
             }
         },
+        "jBBBYNZeuk4": {
+            "statistics": {
+                "viewCount": "1008214",
+                "likeCount": "31232",
+                "favoriteCount": "0",
+                "commentCount": "3927"
+            },
+            "duration": "PT4M9S",
+            "snippet": {
+                "publishedAt": "2018-06-05T19:02:54Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "ASUS&#39; Gaming Phone Looks AWESOME! - RoG Phone First Look",
+                "description": "Thanks to CORSAIR for sponsoring this video! Learn more about CORSAIR's HS70 Wireless Gaming Headset: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jBBBYNZeuk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jBBBYNZeuk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jBBBYNZeuk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-05T19:02:54Z"
+            }
+        },
         "W8zTvBaqvlM": {
             "statistics": {
-                "viewCount": "2184325",
+                "viewCount": "2184326",
                 "likeCount": "55792",
                 "favoriteCount": "0",
                 "commentCount": "5957"
@@ -12328,7 +12188,7 @@
         },
         "lYJFwXw1ZIc": {
             "statistics": {
-                "viewCount": "3187595",
+                "viewCount": "3187598",
                 "likeCount": "82293",
                 "favoriteCount": "0",
                 "commentCount": "8002"
@@ -12363,7 +12223,7 @@
         },
         "cwy4ujt0qHM": {
             "statistics": {
-                "viewCount": "1156292",
+                "viewCount": "1156293",
                 "likeCount": "30333",
                 "favoriteCount": "0",
                 "commentCount": "1965"
@@ -12398,8 +12258,8 @@
         },
         "z-PnNfgIpgg": {
             "statistics": {
-                "viewCount": "2502655",
-                "likeCount": "69067",
+                "viewCount": "2502666",
+                "likeCount": "69069",
                 "favoriteCount": "0",
                 "commentCount": "4659"
             },
@@ -12433,7 +12293,7 @@
         },
         "3KZx37lcSfE": {
             "statistics": {
-                "viewCount": "1220989",
+                "viewCount": "1220992",
                 "likeCount": "41354",
                 "favoriteCount": "0",
                 "commentCount": "2339"
@@ -12503,8 +12363,8 @@
         },
         "sZs4NDC4yrI": {
             "statistics": {
-                "viewCount": "14531566",
-                "likeCount": "254491",
+                "viewCount": "14531665",
+                "likeCount": "254494",
                 "favoriteCount": "0",
                 "commentCount": "19200"
             },
@@ -12538,7 +12398,7 @@
         },
         "XvTBghEDXHc": {
             "statistics": {
-                "viewCount": "1790231",
+                "viewCount": "1790235",
                 "likeCount": "43088",
                 "favoriteCount": "0",
                 "commentCount": "3276"
@@ -12573,8 +12433,8 @@
         },
         "9-NU7yOSElE": {
             "statistics": {
-                "viewCount": "11266833",
-                "likeCount": "321377",
+                "viewCount": "11266862",
+                "likeCount": "321378",
                 "favoriteCount": "0",
                 "commentCount": "36254"
             },
@@ -12608,7 +12468,7 @@
         },
         "Gx5DV5zFKlU": {
             "statistics": {
-                "viewCount": "3501777",
+                "viewCount": "3501783",
                 "likeCount": "64578",
                 "favoriteCount": "0",
                 "commentCount": "5744"
@@ -12678,7 +12538,7 @@
         },
         "D9u1vX-pvLs": {
             "statistics": {
-                "viewCount": "2532389",
+                "viewCount": "2532399",
                 "likeCount": "73344",
                 "favoriteCount": "0",
                 "commentCount": "5111"
@@ -12783,8 +12643,8 @@
         },
         "hdTsra-uLBI": {
             "statistics": {
-                "viewCount": "2178105",
-                "likeCount": "55219",
+                "viewCount": "2178106",
+                "likeCount": "55220",
                 "favoriteCount": "0",
                 "commentCount": "3609"
             },
@@ -12816,10 +12676,45 @@
                 "publishTime": "2018-02-20T19:59:22Z"
             }
         },
+        "CB9i_1SorWw": {
+            "statistics": {
+                "viewCount": "859163",
+                "likeCount": "27378",
+                "favoriteCount": "0",
+                "commentCount": "2847"
+            },
+            "duration": "PT7M56S",
+            "snippet": {
+                "publishedAt": "2018-02-11T20:00:02Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "SUPERCHARGE Your Super Nintendo!",
+                "description": "Here's a modern-retro fusion product for people with giant retro game collections! But can it be used for MORE than JUST the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CB9i_1SorWw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CB9i_1SorWw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CB9i_1SorWw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-02-11T20:00:02Z"
+            }
+        },
         "3frnBoqqI_Q": {
             "statistics": {
-                "viewCount": "5285514",
-                "likeCount": "106070",
+                "viewCount": "5285533",
+                "likeCount": "106071",
                 "favoriteCount": "0",
                 "commentCount": "6764"
             },
@@ -12853,7 +12748,7 @@
         },
         "SONKIJd8xRM": {
             "statistics": {
-                "viewCount": "2197549",
+                "viewCount": "2197550",
                 "likeCount": "39238",
                 "favoriteCount": "0",
                 "commentCount": "3624"
@@ -12923,7 +12818,7 @@
         },
         "p7PMCbczmSA": {
             "statistics": {
-                "viewCount": "266768",
+                "viewCount": "266769",
                 "likeCount": "9277",
                 "favoriteCount": "0",
                 "commentCount": "1026"
@@ -12993,7 +12888,7 @@
         },
         "VuPJoixToBM": {
             "statistics": {
-                "viewCount": "885686",
+                "viewCount": "885699",
                 "likeCount": "27919",
                 "favoriteCount": "0",
                 "commentCount": "1883"
@@ -13133,7 +13028,7 @@
         },
         "LALQsqZP1nA": {
             "statistics": {
-                "viewCount": "976447",
+                "viewCount": "976454",
                 "likeCount": "23988",
                 "favoriteCount": "0",
                 "commentCount": "1328"
@@ -13203,7 +13098,7 @@
         },
         "dRh1Ohcot4k": {
             "statistics": {
-                "viewCount": "2202818",
+                "viewCount": "2202828",
                 "likeCount": "53571",
                 "favoriteCount": "0",
                 "commentCount": "3380"
@@ -13343,7 +13238,7 @@
         },
         "wvQGoAg7rcA": {
             "statistics": {
-                "viewCount": "2212174",
+                "viewCount": "2212180",
                 "likeCount": "44231",
                 "favoriteCount": "0",
                 "commentCount": "2673"
@@ -13378,7 +13273,7 @@
         },
         "Nw_MiWx1Wcc": {
             "statistics": {
-                "viewCount": "935554",
+                "viewCount": "935556",
                 "likeCount": "31571",
                 "favoriteCount": "0",
                 "commentCount": "3342"
@@ -13413,7 +13308,7 @@
         },
         "Gci-KI-RRbg": {
             "statistics": {
-                "viewCount": "3934186",
+                "viewCount": "3934187",
                 "likeCount": "81742",
                 "favoriteCount": "0",
                 "commentCount": "21067"
@@ -13448,7 +13343,7 @@
         },
         "CWT-euEJcSg": {
             "statistics": {
-                "viewCount": "4643493",
+                "viewCount": "4643497",
                 "likeCount": "89216",
                 "favoriteCount": "0",
                 "commentCount": "10916"
@@ -13483,7 +13378,7 @@
         },
         "kjHj3rOwd8E": {
             "statistics": {
-                "viewCount": "903812",
+                "viewCount": "903814",
                 "likeCount": "17751",
                 "favoriteCount": "0",
                 "commentCount": "1167"
@@ -13518,7 +13413,7 @@
         },
         "1s6VmMr5DFU": {
             "statistics": {
-                "viewCount": "807385",
+                "viewCount": "807388",
                 "likeCount": "30071",
                 "favoriteCount": "0",
                 "commentCount": "3352"
@@ -13553,7 +13448,7 @@
         },
         "2_AoYWoMarc": {
             "statistics": {
-                "viewCount": "1539089",
+                "viewCount": "1539095",
                 "likeCount": "40103",
                 "favoriteCount": "0",
                 "commentCount": "3248"
@@ -13588,7 +13483,7 @@
         },
         "W7Qln3DSdKI": {
             "statistics": {
-                "viewCount": "1970492",
+                "viewCount": "1970501",
                 "likeCount": "39510",
                 "favoriteCount": "0",
                 "commentCount": "3173"
@@ -13623,7 +13518,7 @@
         },
         "8dtyRxmQ3mo": {
             "statistics": {
-                "viewCount": "1643146",
+                "viewCount": "1643147",
                 "likeCount": "36907",
                 "favoriteCount": "0",
                 "commentCount": "2559"
@@ -13693,7 +13588,7 @@
         },
         "J14wlWW57A4": {
             "statistics": {
-                "viewCount": "3598580",
+                "viewCount": "3598601",
                 "likeCount": "94439",
                 "favoriteCount": "0",
                 "commentCount": "7037"
@@ -13798,7 +13693,7 @@
         },
         "LnxSTShwDdQ": {
             "statistics": {
-                "viewCount": "7911654",
+                "viewCount": "7911663",
                 "likeCount": "135842",
                 "favoriteCount": "0",
                 "commentCount": "10862"
@@ -13829,6 +13724,41 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2017-09-17T19:01:04Z"
+            }
+        },
+        "ukZqSoDyjcU": {
+            "statistics": {
+                "viewCount": "1582011",
+                "likeCount": "36777",
+                "favoriteCount": "0",
+                "commentCount": "4196"
+            },
+            "duration": "PT7M22S",
+            "snippet": {
+                "publishedAt": "2017-09-16T19:00:04Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Should YOU Upgrade to Ryzen?",
+                "description": "The Ryzen family is all here, and AMD thinks they've finally got CPUs for everyone. But should YOU upgrade to Ryzen? Check out ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ukZqSoDyjcU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ukZqSoDyjcU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ukZqSoDyjcU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-09-16T19:00:04Z"
             }
         },
         "R6qfUKdFeUw": {
@@ -13903,7 +13833,7 @@
         },
         "5HJVWqyOW-M": {
             "statistics": {
-                "viewCount": "2351455",
+                "viewCount": "2351457",
                 "likeCount": "57878",
                 "favoriteCount": "0",
                 "commentCount": "5048"
@@ -13938,7 +13868,7 @@
         },
         "xo2B67vz4HA": {
             "statistics": {
-                "viewCount": "1158379",
+                "viewCount": "1158380",
                 "likeCount": "26174",
                 "favoriteCount": "0",
                 "commentCount": "2221"
@@ -13973,7 +13903,7 @@
         },
         "q5xvwPa3r7M": {
             "statistics": {
-                "viewCount": "2666783",
+                "viewCount": "2666785",
                 "likeCount": "73619",
                 "favoriteCount": "0",
                 "commentCount": "5531"
@@ -14043,7 +13973,7 @@
         },
         "SzcCi72UupM": {
             "statistics": {
-                "viewCount": "1506525",
+                "viewCount": "1506529",
                 "likeCount": "36868",
                 "favoriteCount": "0",
                 "commentCount": "2580"
@@ -14078,7 +14008,7 @@
         },
         "decz1N9YpOw": {
             "statistics": {
-                "viewCount": "2509913",
+                "viewCount": "2509914",
                 "likeCount": "56558",
                 "favoriteCount": "0",
                 "commentCount": "3784"
@@ -14148,7 +14078,7 @@
         },
         "6ZifJ3DvumA": {
             "statistics": {
-                "viewCount": "1505774",
+                "viewCount": "1505777",
                 "likeCount": "42012",
                 "favoriteCount": "0",
                 "commentCount": "4395"
@@ -14183,7 +14113,7 @@
         },
         "LtNdKoXbZMw": {
             "statistics": {
-                "viewCount": "1298697",
+                "viewCount": "1298701",
                 "likeCount": "67790",
                 "favoriteCount": "0",
                 "commentCount": "3131"
@@ -14218,7 +14148,7 @@
         },
         "PRCPokomp5U": {
             "statistics": {
-                "viewCount": "911525",
+                "viewCount": "911528",
                 "likeCount": "21347",
                 "favoriteCount": "0",
                 "commentCount": "2238"
@@ -14393,7 +14323,7 @@
         },
         "vL72lQ6dRZU": {
             "statistics": {
-                "viewCount": "2607201",
+                "viewCount": "2607202",
                 "likeCount": "66601",
                 "favoriteCount": "0",
                 "commentCount": "7292"
@@ -14463,7 +14393,7 @@
         },
         "DzRGBAUz5mA": {
             "statistics": {
-                "viewCount": "1372124",
+                "viewCount": "1372125",
                 "likeCount": "138964",
                 "favoriteCount": "0",
                 "commentCount": "18211"
@@ -14498,7 +14428,7 @@
         },
         "Z4nxxThIDVk": {
             "statistics": {
-                "viewCount": "1609794",
+                "viewCount": "1609795",
                 "likeCount": "34732",
                 "favoriteCount": "0",
                 "commentCount": "2315"
@@ -14603,7 +14533,7 @@
         },
         "0Pqp8Tz_eEQ": {
             "statistics": {
-                "viewCount": "1026809",
+                "viewCount": "1026810",
                 "likeCount": "20002",
                 "favoriteCount": "0",
                 "commentCount": "2361"
@@ -14638,8 +14568,8 @@
         },
         "w-XLNayo3AU": {
             "statistics": {
-                "viewCount": "5514003",
-                "likeCount": "89051",
+                "viewCount": "5514014",
+                "likeCount": "89052",
                 "favoriteCount": "0",
                 "commentCount": "9537"
             },
@@ -14776,45 +14706,10 @@
                 "publishTime": "2017-03-13T22:18:48Z"
             }
         },
-        "5WueXBCE8vo": {
-            "statistics": {
-                "viewCount": "2310710",
-                "likeCount": "60587",
-                "favoriteCount": "0",
-                "commentCount": "4734"
-            },
-            "duration": "PT15M43S",
-            "snippet": {
-                "publishedAt": "2017-03-11T21:59:57Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "SERVER ROOM VLOG FINALE - RGB SERVERS! Pt 3",
-                "description": "RGB SERVER ROOM? Yes. Visit http://linus.ting.com to receive a $25 credit! ModMic 5 Giveaway Closed! Buy the ModMic 5: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/5WueXBCE8vo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/5WueXBCE8vo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/5WueXBCE8vo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2017-03-11T21:59:57Z"
-            }
-        },
         "L34ZkAF9q9w": {
             "statistics": {
-                "viewCount": "3021491",
-                "likeCount": "60359",
+                "viewCount": "3021497",
+                "likeCount": "60360",
                 "favoriteCount": "0",
                 "commentCount": "7597"
             },
@@ -14848,7 +14743,7 @@
         },
         "XzSSidHU54g": {
             "statistics": {
-                "viewCount": "3758514",
+                "viewCount": "3758522",
                 "likeCount": "87652",
                 "favoriteCount": "0",
                 "commentCount": "7800"
@@ -14883,8 +14778,8 @@
         },
         "Zy3ttWaZahs": {
             "statistics": {
-                "viewCount": "1522117",
-                "likeCount": "31235",
+                "viewCount": "1522122",
+                "likeCount": "31236",
                 "favoriteCount": "0",
                 "commentCount": "2248"
             },
@@ -14918,7 +14813,7 @@
         },
         "8GsXbuR23WU": {
             "statistics": {
-                "viewCount": "3482087",
+                "viewCount": "3482094",
                 "likeCount": "90329",
                 "favoriteCount": "0",
                 "commentCount": "12981"
@@ -14988,7 +14883,7 @@
         },
         "qaoTARN3sv4": {
             "statistics": {
-                "viewCount": "2722259",
+                "viewCount": "2722266",
                 "likeCount": "62374",
                 "favoriteCount": "0",
                 "commentCount": "5557"
@@ -15023,7 +14918,7 @@
         },
         "3rUndzpdo1I": {
             "statistics": {
-                "viewCount": "2086729",
+                "viewCount": "2086730",
                 "likeCount": "99891",
                 "favoriteCount": "0",
                 "commentCount": "11641"
@@ -15093,7 +14988,7 @@
         },
         "AgiJx0rSTPE": {
             "statistics": {
-                "viewCount": "853348",
+                "viewCount": "853349",
                 "likeCount": "23035",
                 "favoriteCount": "0",
                 "commentCount": "1582"
@@ -15128,7 +15023,7 @@
         },
         "zbC7zC8FIxg": {
             "statistics": {
-                "viewCount": "877653",
+                "viewCount": "877654",
                 "likeCount": "21879",
                 "favoriteCount": "0",
                 "commentCount": "1507"
@@ -15163,7 +15058,7 @@
         },
         "yf5c5F9qKF8": {
             "statistics": {
-                "viewCount": "855560",
+                "viewCount": "855561",
                 "likeCount": "25668",
                 "favoriteCount": "0",
                 "commentCount": "2059"
@@ -15198,7 +15093,7 @@
         },
         "9RjbBO6Qr6c": {
             "statistics": {
-                "viewCount": "993076",
+                "viewCount": "993077",
                 "likeCount": "20062",
                 "favoriteCount": "0",
                 "commentCount": "1581"
@@ -15233,7 +15128,7 @@
         },
         "qthiuEt_moU": {
             "statistics": {
-                "viewCount": "1970314",
+                "viewCount": "1970315",
                 "likeCount": "38536",
                 "favoriteCount": "0",
                 "commentCount": "3025"
@@ -15303,7 +15198,7 @@
         },
         "D9XDjjweKd0": {
             "statistics": {
-                "viewCount": "948314",
+                "viewCount": "948318",
                 "likeCount": "17072",
                 "favoriteCount": "0",
                 "commentCount": "1274"
@@ -15338,7 +15233,7 @@
         },
         "79_6b6lqSps": {
             "statistics": {
-                "viewCount": "1778845",
+                "viewCount": "1778846",
                 "likeCount": "40616",
                 "favoriteCount": "0",
                 "commentCount": "3808"
@@ -15548,7 +15443,7 @@
         },
         "O8stmOTI9uc": {
             "statistics": {
-                "viewCount": "1114019",
+                "viewCount": "1114021",
                 "likeCount": "19437",
                 "favoriteCount": "0",
                 "commentCount": "2405"
@@ -15583,7 +15478,7 @@
         },
         "XEygGlFhXPU": {
             "statistics": {
-                "viewCount": "936144",
+                "viewCount": "936145",
                 "likeCount": "17436",
                 "favoriteCount": "0",
                 "commentCount": "1767"
@@ -15723,8 +15618,8 @@
         },
         "zQd88ZfTXWk": {
             "statistics": {
-                "viewCount": "522647",
-                "likeCount": "15859",
+                "viewCount": "522649",
+                "likeCount": "15860",
                 "favoriteCount": "0",
                 "commentCount": "956"
             },
@@ -15863,8 +15758,8 @@
         },
         "rtdlB_b63IE": {
             "statistics": {
-                "viewCount": "1039923",
-                "likeCount": "31543",
+                "viewCount": "1039924",
+                "likeCount": "31544",
                 "favoriteCount": "0",
                 "commentCount": "1298"
             },
@@ -15898,7 +15793,7 @@
         },
         "t3ycZZEc9I0": {
             "statistics": {
-                "viewCount": "453730",
+                "viewCount": "453731",
                 "likeCount": "25883",
                 "favoriteCount": "0",
                 "commentCount": "1875"
@@ -15964,6 +15859,41 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2016-09-26T07:06:39Z"
+            }
+        },
+        "i7nLTZ7K_TM": {
+            "statistics": {
+                "viewCount": "1979330",
+                "likeCount": "28569",
+                "favoriteCount": "0",
+                "commentCount": "2713"
+            },
+            "duration": "PT10M40S",
+            "snippet": {
+                "publishedAt": "2016-09-11T08:14:07Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Smallest Custom Gaming Rig Yet! - Dr Zaber Sentry Case",
+                "description": "The concept of the original STEAM Machine is alive through a community backed project. Meet the Dr. Zaber Sentry case.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i7nLTZ7K_TM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i7nLTZ7K_TM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i7nLTZ7K_TM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-11T08:14:07Z"
             }
         },
         "y_iDiHc8s40": {
@@ -16038,7 +15968,7 @@
         },
         "VXb8Tv_6aFQ": {
             "statistics": {
-                "viewCount": "780681",
+                "viewCount": "780682",
                 "likeCount": "20784",
                 "favoriteCount": "0",
                 "commentCount": "2617"
@@ -16108,8 +16038,8 @@
         },
         "-D3iR-e9npM": {
             "statistics": {
-                "viewCount": "1081125",
-                "likeCount": "34276",
+                "viewCount": "1081130",
+                "likeCount": "34277",
                 "favoriteCount": "0",
                 "commentCount": "3893"
             },
@@ -16139,6 +16069,41 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2016-08-15T07:44:42Z"
+            }
+        },
+        "gsQrPagxaNc": {
+            "statistics": {
+                "viewCount": "919905",
+                "likeCount": "20076",
+                "favoriteCount": "0",
+                "commentCount": "1551"
+            },
+            "duration": "PT9M50S",
+            "snippet": {
+                "publishedAt": "2016-08-03T07:13:40Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "Handy Tech Under $100 Ep. 11 - All charged up!!",
+                "description": "This video was sponsored by Full Sail University. For information on their tech programs, visit http://Fullsail.edu/linustechtips This ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gsQrPagxaNc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gsQrPagxaNc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gsQrPagxaNc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-08-03T07:13:40Z"
             }
         },
         "KSryWWCC518": {
@@ -16178,7 +16143,7 @@
         },
         "MZKJuX9v64k": {
             "statistics": {
-                "viewCount": "1400265",
+                "viewCount": "1400268",
                 "likeCount": "44383",
                 "favoriteCount": "0",
                 "commentCount": "6432"
@@ -16213,7 +16178,7 @@
         },
         "mF4S5ZaXdgE": {
             "statistics": {
-                "viewCount": "1205076",
+                "viewCount": "1205078",
                 "likeCount": "25257",
                 "favoriteCount": "0",
                 "commentCount": "5104"
@@ -16283,7 +16248,7 @@
         },
         "44JqNJq-PC0": {
             "statistics": {
-                "viewCount": "1885062",
+                "viewCount": "1885063",
                 "likeCount": "48527",
                 "favoriteCount": "0",
                 "commentCount": "5298"
@@ -16318,7 +16283,7 @@
         },
         "W-mr-O7_uN0": {
             "statistics": {
-                "viewCount": "3865018",
+                "viewCount": "3865023",
                 "likeCount": "79819",
                 "favoriteCount": "0",
                 "commentCount": "9010"
@@ -16353,7 +16318,7 @@
         },
         "eP4IF7LbGgo": {
             "statistics": {
-                "viewCount": "697308",
+                "viewCount": "697311",
                 "likeCount": "19273",
                 "favoriteCount": "0",
                 "commentCount": "2128"
@@ -16388,7 +16353,7 @@
         },
         "Aub6RCHmpHg": {
             "statistics": {
-                "viewCount": "818933",
+                "viewCount": "818934",
                 "likeCount": "17254",
                 "favoriteCount": "0",
                 "commentCount": "2288"
@@ -16419,41 +16384,6 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2016-06-24T07:34:41Z"
-            }
-        },
-        "JxRl02_ulKA": {
-            "statistics": {
-                "viewCount": "1220408",
-                "likeCount": "21131",
-                "favoriteCount": "0",
-                "commentCount": "2637"
-            },
-            "duration": "PT10M36S",
-            "snippet": {
-                "publishedAt": "2016-06-21T07:06:31Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "The &quot;New&quot; Razer Blade - Better than Ever",
-                "description": "The Razer Blade - they lowered the price and (mostly) upped the specs... But does it still feel like the best choice for a ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JxRl02_ulKA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JxRl02_ulKA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JxRl02_ulKA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-06-21T07:06:31Z"
             }
         },
         "Bi5m6FR38yo": {
@@ -16598,7 +16528,7 @@
         },
         "7nkvbPos0dE": {
             "statistics": {
-                "viewCount": "1046653",
+                "viewCount": "1046655",
                 "likeCount": "26732",
                 "favoriteCount": "0",
                 "commentCount": "2912"
@@ -16668,7 +16598,7 @@
         },
         "XOILpU4GXXw": {
             "statistics": {
-                "viewCount": "1202281",
+                "viewCount": "1202282",
                 "likeCount": "33581",
                 "favoriteCount": "0",
                 "commentCount": "2000"
@@ -16808,7 +16738,7 @@
         },
         "vgPuXrvV3tA": {
             "statistics": {
-                "viewCount": "1578892",
+                "viewCount": "1578895",
                 "likeCount": "45052",
                 "favoriteCount": "0",
                 "commentCount": "5958"
@@ -16839,6 +16769,41 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2016-04-24T06:52:26Z"
+            }
+        },
+        "D-OijIv4ClM": {
+            "statistics": {
+                "viewCount": "217129",
+                "likeCount": "5652",
+                "favoriteCount": "0",
+                "commentCount": "411"
+            },
+            "duration": "PT2M50S",
+            "snippet": {
+                "publishedAt": "2016-04-22T07:40:23Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "10,000 watt-equivalent light you can use in your home!? - Hive Lighting Booth",
+                "description": "We use the Hive Wasp in our studio, but after seeing THIS crazy setup, we may have to upgrade... Sennheiser link: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D-OijIv4ClM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D-OijIv4ClM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D-OijIv4ClM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-22T07:40:23Z"
             }
         },
         "g7cQK8jFPzo": {
@@ -16878,7 +16843,7 @@
         },
         "qPyfre5chxY": {
             "statistics": {
-                "viewCount": "522515",
+                "viewCount": "522518",
                 "likeCount": "17067",
                 "favoriteCount": "0",
                 "commentCount": "3312"
@@ -16983,7 +16948,7 @@
         },
         "KBtngHz22AU": {
             "statistics": {
-                "viewCount": "806567",
+                "viewCount": "806568",
                 "likeCount": "26038",
                 "favoriteCount": "0",
                 "commentCount": "1912"
@@ -17014,41 +16979,6 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2016-02-26T07:51:32Z"
-            }
-        },
-        "KxAT8cKxdOc": {
-            "statistics": {
-                "viewCount": "1581078",
-                "likeCount": "31610",
-                "favoriteCount": "0",
-                "commentCount": "4317"
-            },
-            "duration": "PT15M12S",
-            "snippet": {
-                "publishedAt": "2016-02-19T08:36:04Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "HOLY $H!T - A $17,000 (CAD) Man-sized Battery!",
-                "description": "Our new UPS is freaking huge!!! Massdrop link: http://dro.ps/ltt-k7xx TunnelBear message: TunnelBear is the easy-to-use VPN app ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/KxAT8cKxdOc/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/KxAT8cKxdOc/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/KxAT8cKxdOc/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2016-02-19T08:36:04Z"
             }
         },
         "c34LmSDSWVI": {
@@ -17263,7 +17193,7 @@
         },
         "EDnAf2w2v-Y": {
             "statistics": {
-                "viewCount": "1153713",
+                "viewCount": "1153714",
                 "likeCount": "20555",
                 "favoriteCount": "0",
                 "commentCount": "1487"
@@ -17333,8 +17263,8 @@
         },
         "8OmkmluAYAQ": {
             "statistics": {
-                "viewCount": "5196417",
-                "likeCount": "98695",
+                "viewCount": "5196473",
+                "likeCount": "98697",
                 "favoriteCount": "0",
                 "commentCount": "7100"
             },
@@ -17438,7 +17368,7 @@
         },
         "sohekAXc8UY": {
             "statistics": {
-                "viewCount": "501969",
+                "viewCount": "501972",
                 "likeCount": "21433",
                 "favoriteCount": "0",
                 "commentCount": "1443"
@@ -17471,9 +17401,44 @@
                 "publishTime": "2015-10-01T06:58:43Z"
             }
         },
+        "3NFmpJNvd4k": {
+            "statistics": {
+                "viewCount": "961918",
+                "likeCount": "51543",
+                "favoriteCount": "0",
+                "commentCount": "2677"
+            },
+            "duration": "PT9M9S",
+            "snippet": {
+                "publishedAt": "2015-08-16T07:54:46Z",
+                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+                "title": "4K Video - is it worth it?",
+                "description": "Should you upload videos in 4K? Should you watch videos in 4K? We answer these burning questions once and for all! (for now) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3NFmpJNvd4k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3NFmpJNvd4k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3NFmpJNvd4k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Linus Tech Tips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-08-16T07:54:46Z"
+            }
+        },
         "ZbONfPkwa_s": {
             "statistics": {
-                "viewCount": "995275",
+                "viewCount": "995279",
                 "likeCount": "25003",
                 "favoriteCount": "0",
                 "commentCount": "2016"
@@ -17508,7 +17473,7 @@
         },
         "iYSG7gWfRTA": {
             "statistics": {
-                "viewCount": "2646034",
+                "viewCount": "2646037",
                 "likeCount": "81576",
                 "favoriteCount": "0",
                 "commentCount": "4154"
@@ -17543,7 +17508,7 @@
         },
         "9fNiJKh6q-E": {
             "statistics": {
-                "viewCount": "758884",
+                "viewCount": "758886",
                 "likeCount": "21469",
                 "favoriteCount": "0",
                 "commentCount": "1302"
@@ -17648,10 +17613,10 @@
         },
         "XUBdUJjgmQY": {
             "statistics": {
-                "viewCount": "5333483",
-                "likeCount": "97546",
+                "viewCount": "5333503",
+                "likeCount": "97547",
                 "favoriteCount": "0",
-                "commentCount": "10847"
+                "commentCount": "10846"
             },
             "duration": "PT18M47S",
             "snippet": {
@@ -17714,41 +17679,6 @@
                 "channelTitle": "Linus Tech Tips",
                 "liveBroadcastContent": "none",
                 "publishTime": "2015-04-30T06:48:05Z"
-            }
-        },
-        "Mg0adTE0PQo": {
-            "statistics": {
-                "viewCount": "125011",
-                "likeCount": "3974",
-                "favoriteCount": "0",
-                "commentCount": "330"
-            },
-            "duration": "PT3M41S",
-            "snippet": {
-                "publishedAt": "2015-04-15T04:33:30Z",
-                "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
-                "title": "Blackmagic URSA Mini - 4.6K Sensor, Ergonomic Design - NAB Show 2015",
-                "description": "Is the URSA Mini one of the most interesting cameras announced at NAB this year? Sponsor links: Sennheiser: ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Mg0adTE0PQo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Mg0adTE0PQo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Mg0adTE0PQo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Linus Tech Tips",
-                "liveBroadcastContent": "none",
-                "publishTime": "2015-04-15T04:33:30Z"
             }
         }
     }

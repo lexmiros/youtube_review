@@ -152,17 +152,19 @@ class YoutubeStats:
         
         if limit is not None and isinstance(limit, int):
             url += f"&maxResults={str(limit)}"
-      
+        
         vid, npt = self._get_channel_videos_per_page(url)
 
         i = 0
-        while(npt is not None and i < 20):
-            print(i)
+        while(npt is not None and i < 40):
+         
             nextUrl = url + f"&pageToken={npt}"
+            print(nextUrl)
             next_vid, npt = self._get_channel_videos_per_page(nextUrl)
             vid.update(next_vid)
-
+            
             i +=1
+
         return vid
 
 

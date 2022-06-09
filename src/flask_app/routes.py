@@ -21,7 +21,7 @@ def landing():
         user = user.upper()
 
         if user == "":
-            user = "TYLER1LOL"
+            user = "MRBEAST6000"
             test = "True"
 
         return redirect(url_for("loading", user = user, test = test))

@@ -54,13 +54,19 @@ def get_video_stats(channel_name):
 
 
     for key in contents["Videos"]:
+       
         video_view_list.append(contents["Videos"][key]["statistics"]["viewCount"])
         video_like_list.append(contents["Videos"][key]["statistics"]["likeCount"])
-        video_comment_list.append(contents["Videos"][key]["statistics"]["commentCount"])
+        
+        try:
+            video_comment_list.append(contents["Videos"][key]["statistics"]["commentCount"])
+        except:
+            video_comment_list.append(0)
         video_duration_list.append(contents["Videos"][key]["duration"])
         video_published_list.append(contents["Videos"][key]["snippet"]["publishedAt"])
         video_title_list.append(contents["Videos"][key]["snippet"]["title"])
         video_description_list.append(contents["Videos"][key]["snippet"]["description"])
+       
 
     return (video_view_list, video_like_list, video_comment_list, 
     video_duration_list, video_published_list, video_title_list, video_description_list)
