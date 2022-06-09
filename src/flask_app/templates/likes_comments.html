@@ -24,18 +24,19 @@
         scaleFontColor : "white",
         data: {
             labels: {{like_dates | safe }},
-            datasets: [{
-                
-                label: "",
-                data: {{ like_data | safe }},
-                backgroundColor: [                  
-                    "WHITE",
-          
-                    
-                ],
-                fill: false,
-                borderColor: "rgb(75, 192, 192)",
-            }]
+            datasets: [
+                {
+                    label: "Likes",
+                    data: {{ like_data | safe }},
+                    backgroundColor: [                  
+                        "WHITE",
+            
+                        
+                    ],
+                    fill: false,
+                    borderColor: "rgb(75, 192, 192)",
+                },
+            ]
         },
         options: {
             elements:{

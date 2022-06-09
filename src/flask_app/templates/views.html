@@ -1,16 +1,12 @@
 {%extends "layout.html"%}
 {%block content%}
 
-<div class="float-child-half">
-    <h2>Mean Views timeline</h2>  
-    <canvas class="chart" id="viewChart" width="550" height="450"></canvas>
+<div class="float-child-full">
+    <h2>Video Views</h2>  
+    <canvas class="chart" id="viewChart" width="550" height="250"></canvas>
     <h3> </h3>  
 </div>
-<div class="float-child-half">
-    <h2>Mean Views by post time</h2>  
-    <canvas class="chart" id="timeChart" width="550" height="450"></canvas>
-    <h3> </h3>  
-</div>
+
 
 <div class="float-child-half">
     <h2>Mean Views by title length</h2>
@@ -23,6 +19,12 @@
     <h2>Mean Views by video duration</h2> 
     <h3>{{dur_rank}} : {{dur_corr}}</h3>  
     <canvas class="chart" id="durChart" width="550" height="450"></canvas>
+    <h3> </h3>  
+</div>
+
+<div class="float-child-full-graph">
+    <h2>Mean Views by post time</h2>  
+    <canvas class="chart" id="timeChart" width="550" height="450"></canvas>
     <h3> </h3>  
 </div>
 
@@ -49,10 +51,17 @@
             }]
         },
         options: {
+            elements:{
+                point:{
+                    borderWidth: 0,
+                    radius: 0,
+                    backgroundColor: 'rgba(0,0,0,0)'
+                }
+            },
             responsive: true,
             scales: {
                 x: {
-                    max:54,
+                  
                     grid:{
                         color:'rgba(255,255,255,0.0)',
                     },
@@ -74,7 +83,7 @@
                     },
                 },
                 y: {
-                    max:{{highest_view}} + 5,
+                    
                     min:0,
                     grid:{
                         color:'rgba(255,255,255,0.3)',
@@ -89,7 +98,7 @@
                     title:{
                         color: 'white',
                         display: true,
-                        text: "Mean views per video",
+                        text: "Views per video",
                         font: {   
                             weight : 'bold',
                             size : 20,   

@@ -58,7 +58,7 @@ def get_post_timeline(df):
 
     return (labels, total_posts)
 
-def get_views_timeline(df):
+def get_mean_views_timeline(df):
     """"""
     
     total_years = df["Year"].sort_values().unique()
@@ -100,6 +100,27 @@ def get_views_timeline(df):
             total_views.append(values[1])
 
     return (labels, total_views)
+
+def get_views_timeline(df):
+    
+    df = df.sort_values("Published")
+    data = df["Views"].to_list()
+    date_list = []
+    days = df["Day"].to_list()
+    months = df["Month"].to_list()
+    years = df["Year"].to_list()
+    
+    z = zip(days, months, years)
+    
+    for value in z:
+        date = f"{value[2]}-{value[1]}"
+        date_list.append(date)
+        
+    
+    
+        
+    return (date_list, data)
+
 
 def get_views_post_time(df):
     

@@ -1,3 +1,4 @@
+from audioop import reverse
 from src.CleanData import build_df_clean, get_stats
 from src.analysis import *
 from src.flask_app import app
@@ -75,6 +76,7 @@ def overview(user, test):
     average_post = get_avg_post_hours(df)
     
     freq_labels, freq_posts = get_post_timeline(df)
+    
     highest_post = max(freq_posts)
 
 
@@ -102,7 +104,6 @@ def views(user, test):
     
     #Views over time
     views_labels, view_avg = get_views_timeline(df)
-    highest_view = max(view_avg)
     
     #Views by post time
     post_labels, view_post = get_views_post_time(df)
@@ -123,7 +124,7 @@ def views(user, test):
 
     return render_template("views.html", 
     user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
-    view_labels = views_labels, view_avg = view_avg, highest_view = highest_view, post_labels = post_labels, view_post = view_post,
+    view_labels = views_labels, view_avg = view_avg, post_labels = post_labels, view_post = view_post,
     title_labels = title_labels, title_views = title_views, title_corr = title_corr, title_rank = title_rank,
     dur_labels = dur_labels, dur_views = dur_views, dur_corr = dur_corr, dur_rank = dur_rank
     )
