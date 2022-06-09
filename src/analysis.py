@@ -148,7 +148,7 @@ def get_views_title_len(df):
     labels = []
     values = []
     for i in range(bin_incremenet, max_num, bin_incremenet):
-        label = f"Bin {j} - {i}"
+        label = f"{j} - {i}"
         labels.append(label)
         
         df_i = df[(df["Title length"] >= j) & (df["Title length"] < i)]
@@ -175,7 +175,7 @@ def get_views_duration(df):
     values = []
     for i in range(bin_incremenet, max_num, bin_incremenet):
         
-        label = f"Bin {j} - {i}"
+        label = f"{j} - {i}"
         labels.append(label)
         
         df_i = df[(df["Duration"] >= j) & (df["Duration"] < i)]
