@@ -153,10 +153,17 @@ def likes_comments(user, test):
     comment_data.reverse()
     comment_dates.reverse()
     
+    #Top words in title
+    title_words, title_counts = get_top_title_values(df)
+    
+    #Top words in description
+    desc_words, desc_counts = get_top_desc_values(df)
+    
     
     
     return render_template("likes_comments.html", 
     user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
-    like_dates = like_dates, like_data = like_data, comment_dates = comment_dates, comment_data = comment_data 
+    like_dates = like_dates, like_data = like_data, comment_dates = comment_dates, comment_data = comment_data,
+    title_counts = title_counts, title_words = title_words, desc_words = desc_words, desc_counts = desc_counts 
     
     )

@@ -2,7 +2,8 @@ from cmath import nan
 import pandas as pd
 from datetime import datetime, timedelta
 import math
-
+import spacy
+from collections import Counter
 
 def get_avg_post_hours(df):
 
@@ -266,6 +267,99 @@ def get_comment_ratio_date(df):
     return (date_list, data)
   
     
+def get_title_count(df):
+    x = df["Title"].to_list()
+    words_str = ""
+    for words in x:
+        words_str = words_str + words
+    
+    #Remove word formatting
+    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S"]
+    for format in words_formatting:
+        words_str = words_str.replace(format, ' ')
+
+    en = spacy.load('en_core_web_sm')
+    sw_spacy = en.Defaults.stop_words
+    
+    words = [word for word in words_str.split() if word.lower() not in sw_spacy]
+    new_text = " ".join(words)
+
+    words = new_text.split()
+    wordCount = Counter(words)
+    
+    return wordCount
+    
+def get_description_count(df):
+    
+    x = df['Description'].to_list()
+    words_str = ""
+    for words in x:
+        words_str = words_str + words
+        
+    #Remove word formatting
+    words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S"]
+    for format in words_formatting:
+        words_str = words_str.replace(format, ' ')
+    en = spacy.load('en_core_web_sm')
+    sw_spacy = en.Defaults.stop_words
+    
+    words = [word for word in words_str.split() if word.lower() not in sw_spacy]
+    new_text = " ".join(words)
+    
+
+    words = new_text.split()
+    wordCount = Counter(words)
+    
+    return wordCount
+
+
+def get_top_desc_values(df):
+    
+    dict = get_description_count(df)
+    dict = {k: v for k, v in sorted(dict.items(), key=lambda item: item[1])}
+    
+    
+    words = []
+    counts = []
+    for word in dict:
+        words.append(word)
+        counts.append(dict[word])
+        
+    top_words = []
+    top_counts = []
+    
+    for i in range(len(words), (len(words)-21), -1):
+        try:
+            top_words.append(words[i])
+            top_counts.append(counts[i])   
+        except:
+            pass
+    
+    return (top_words, top_counts)
+
+def get_top_title_values(df):
+    
+    dict = get_title_count(df)
+    dict = {k: v for k, v in sorted(dict.items(), key=lambda item: item[1])}
+    
+    
+    words = []
+    counts = []
+    for word in dict:
+        words.append(word)
+        counts.append(dict[word])
+        
+    top_words = []
+    top_counts = []
+    
+    for i in range(len(words), (len(words)-21), -1):
+        try:
+            top_words.append(words[i])
+            top_counts.append(counts[i])   
+        except:
+            pass
+    
+    return (top_words, top_counts)
     
     
 
