@@ -370,3 +370,24 @@ margin-bottom: 2%;
 .container-dropdown div{
   left: 0;
 }
+
+.float-container p{
+  color: #fff;
+  margin: auto;
+  text-align: center;
+}
+
+li{
+  
+  margin-top: auto;
+  margin-bottom: 3.5%;
+  color: #ffffff;
+}
+
+ul{
+  
+  color: #ffffff;
+  display: table;
+  margin: 0 auto;
+}
+

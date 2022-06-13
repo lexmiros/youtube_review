@@ -49,7 +49,7 @@ def loading(user, test):
 
 @app.route("/overview/<user>/<test>", methods = ["POST", "GET"])
 def overview(user, test):
-
+    title = "Overview"
     #Get data
     df = build_df_clean(user)
     view_count, subscriber_count, video_count = get_stats(user)
@@ -83,7 +83,7 @@ def overview(user, test):
     
     
     return render_template("overview.html", 
-    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    user = user, test = test,title = title,  total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
     avg_likes = avg_likes, avg_comments = avg_comments, avg_views = avg_views, avg_duration = avg_duration, average_post = average_post,
     freq_labels = freq_labels, freq_posts = freq_posts, highest_post = highest_post
     )
@@ -91,6 +91,7 @@ def overview(user, test):
     
 @app.route("/views/<user>/<test>")
 def views(user, test):
+    title = "Views"
     
     #Get data
     df = build_df_clean(user)
@@ -116,14 +117,9 @@ def views(user, test):
     dur_labels, dur_views = get_views_duration(df)
     dur_corr, dur_rank = corr_duration(df)
     
-    
-    
-    
-    
-
 
     return render_template("views.html", 
-    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    user = user, test = test,title = title, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
     view_labels = views_labels, view_avg = view_avg, post_labels = post_labels, view_post = view_post,
     title_labels = title_labels, title_views = title_views, title_corr = title_corr, title_rank = title_rank,
     dur_labels = dur_labels, dur_views = dur_views, dur_corr = dur_corr, dur_rank = dur_rank
@@ -131,6 +127,7 @@ def views(user, test):
     
 @app.route("/likes_comments/<user>/<test>")
 def likes_comments(user, test):
+    title = "Likes-Comments"
     """"""
     #Get data
     df = build_df_clean(user)
@@ -162,8 +159,16 @@ def likes_comments(user, test):
     
     
     return render_template("likes_comments.html", 
-    user = user, test = test, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
+    user = user, test = test, title = title, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
     like_dates = like_dates, like_data = like_data, comment_dates = comment_dates, comment_data = comment_data,
     title_counts = title_counts, title_words = title_words, desc_words = desc_words, desc_counts = desc_counts 
     
     )
+
+
+@app.route("/about/<user>/<test>")
+def about(user, test):
+    title = "About"
+
+    
+    return render_template("about.html", user = user, test = test, title = title)

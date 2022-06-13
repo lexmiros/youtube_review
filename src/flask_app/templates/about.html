@@ -1,0 +1,38 @@
+{%extends "layout.html"%}
+{%block stats%}
+<h1 class="neonText pulsate">
+    Built by Aleksei Miros
+    <br>
+    <br>
+    About
+</h1>
+
+{%endblock stats%}
+{%block content%}
+<p >A simple project created to improve my programming and data engineering skills. Extracts the YouTube JSON data via the Google API. <br>
+    Calls the API through reqeusts instead of the Python wrapper created by Google. Uses webscraping to gather the YouTube user's <br>
+    channel ID via their username. Uses Pandas to transform the data, formatting, cleaning,  and creating new data from obtained data. <br>
+    The data is finally loaded into the Flask webapp to create graphs. <br> <br>
+</p>
+<h2 class="neonText pulsate">
+Tech Stack:
+<br>
+</h2>
+
+</p>
+<br>
+<ul>
+    <li>Python </li>
+        <ul>
+            <li>Pandas</li>
+            <li>Flask</li>
+            <li>BeautifulSoup</li>
+        </ul>
+    <li>JavaScript</li>
+    <ul>
+        <li>ChartJS</li>
+    </ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+{%endblock content%}
