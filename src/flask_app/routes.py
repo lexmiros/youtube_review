@@ -35,15 +35,42 @@ def loading(user, test):
     if test == "False":
         channel_name = user
         load_dotenv()
-        api_key = os.getenv("API_KEY")
-        api_search = os.getenv("API_SEARCH")
-        yt = YoutubeStats(api_key, api_search, channel_name)
-        yt.get_channel_id()
-        yt.get_channel_statistics()
-        yt.get_channel_video_data()
-        yt.dump()
-
+        try:
+            api_key = os.getenv("API_KEY")
+            api_search = os.getenv("API_SEARCH")
+            yt = YoutubeStats(api_key, api_search, channel_name)
+            yt.get_channel_id()
+            yt.get_channel_statistics()
+            yt.get_channel_video_data()
+            yt.dump()
+            
+        except:
+            error_msg = "Could not find channel with that name"
+            return redirect(url_for("landing_error", error_msg = error_msg))
     return redirect(url_for("overview", user = user, test = test))
+
+   
+
+@app.route("/error/<error_msg>",  methods = ["POST", "GET"])
+def landing_error(error_msg):
+    """
+    """
+    form = LandingForm()
+    test = "False"
+
+    if form.validate_on_submit():
+
+        user = form.user.data
+        user = user.upper()
+
+        if user == "":
+            user = "MRBEAST6000"
+            test = "True"
+
+        return redirect(url_for("loading", user = user, test = test))
+
+
+    return render_template("error.html", form = form, error_msg = error_msg)
 
 
 
@@ -59,6 +86,10 @@ def overview(user, test):
     view_count = (format(view_count, ',d'))
     subscriber_count = (format(subscriber_count, ',d'))
     video_count = (format(video_count, ',d'))
+    
+    if total_found < 50:
+        error_msg = "Channel does not have enough uploaded vidoes"
+        return redirect(url_for("landing_error", error_msg = error_msg))
 
     #Averages
     avg_likes = round(df["Likes"].mean())

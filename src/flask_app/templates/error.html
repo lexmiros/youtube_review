@@ -1,0 +1,104 @@
+{%extends "layout.html"%}
+{%block dropdown%} {%endblock dropdown%}
+{%block stats%} {%endblock stats%}
+{%block content%}
+
+
+
+<!-- The video -->
+<div class="video-container">
+    <video autoplay muted loop id="myVideo">
+        <source src="static/videoplayback.mp4" type="video/mp4">
+    </video>
+    </div>
+    
+    <div class="content-buttons">
+        <button class="myBtn" id="userBtn" onclick="myFunction()">Find channel's username</button>
+    </div>
+    
+    <div id="myModal" class="modal">
+    
+        <!-- Modal content -->
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>The search requires a channel's official username. This may be different to their display name. To find their username, navigate to the channel's homepage on Youtube.
+            In your browser, you should see a URL of the format <i>youtube.com/c/USERNAME</i> or  <i>youtube.com/user/USERNAME</i>. This username is what you should enter into the search bar for this site. 
+        </p>
+      </div>
+    
+    </div>
+    
+    
+    
+      <!-- Optional: some overlay text to describe the video -->
+      <div class="content-vid">
+        <h1>{{error_msg}}</h1>
+        <p>Submit an empty name for test data...</p>
+        <!-- Use a button to pause/play the video with JavaScript -->
+        <div class="userForm">
+            <form method="POST" action="">
+        
+                {{form.hidden_tag()}}
+        
+                    {% if form.user.errors %}
+                        {{form.user(class="form-control form-control-lg is-invalid") }}
+                            <div class="invalid-feedback">
+                                {% for error in form.user.errors %}
+                                    <span> {{ error }}</span>
+                                {% endfor %}
+                            </div>
+                    {% else %}
+                        {{form.user(class="form-control form-control-lg") }}
+                    {%endif%}
+        
+                {{form.submit(class="btn btn-outline-info")}}
+                
+            </form>
+        
+      </div>
+      
+    
+    <script>
+    
+    
+    // Modals Script - Find Username
+    var modal = document.getElementById("myModal");
+    var btn = document.getElementById("userBtn");
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close")[0];
+    // When the user clicks on the button, open the modal
+    btn.onclick = function() {
+      modal.style.display = "block";
+    }
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+      modal.style.display = "none";
+    }
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+      if (event.target == modal) {
+        modal.style.display = "none";
+      }
+    }
+    
+    // Video script
+    // Get the video
+    var video = document.getElementById("myVideo");
+    // Get the button
+    var btn = document.getElementById("pauseBtn");
+    
+    // Pause and play the video, and change the button text
+    function myFunction() {
+        if (video.paused) {
+        video.play();
+        btn.innerHTML = "Pause background";
+        } else {
+        video.pause();
+        btn.innerHTML = "Play background";
+        }
+    }
+    
+    </script>
+    
+    
+    {%endblock content%}
