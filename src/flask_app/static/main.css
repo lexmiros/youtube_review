@@ -16,6 +16,7 @@ body{
   padding: 20px;
   border-color: #ddd;
   
+  
 }
 
 h2{
@@ -48,9 +49,11 @@ h2{
 
 .float-child-full {
   width: 100%;
-  float: center;
+  float: left;
   padding: 20px;
   margin-bottom: 5%;
+
+
 }
 .float-child-half {
   width: 50%;

@@ -111,11 +111,11 @@ def views(user, test):
     
     #Views by title length
     title_labels, title_views = get_views_title_len(df)
-    title_corr, title_rank = corr_title(df)
+    title_corr, title_rank = get_corr_views(df, "Title length")
     
     #Views by vid duration
     dur_labels, dur_views = get_views_duration(df)
-    dur_corr, dur_rank = corr_duration(df)
+    dur_corr, dur_rank = get_corr_views(df,"Duration")
     
 
     return render_template("views.html", 
@@ -144,11 +144,13 @@ def likes_comments(user, test):
     like_dates, like_data = get_like_ratio_date(df)
     like_data.reverse()
     like_dates.reverse()
+    likes_corr, likes_rank = get_corr_views(df, "Likes")
     
     #Comment ratio
     comment_dates, comment_data = get_comment_ratio_date(df)
     comment_data.reverse()
     comment_dates.reverse()
+    comments_corr, comments_rank = get_corr_views(df, "Comments")
     
     #Top words in title
     title_words, title_counts = get_top_title_values(df)
@@ -160,7 +162,8 @@ def likes_comments(user, test):
     
     return render_template("likes_comments.html", 
     user = user, test = test, title = title, total_found = total_found, view_count = view_count, subscriber_count = subscriber_count, video_count = video_count,
-    like_dates = like_dates, like_data = like_data, comment_dates = comment_dates, comment_data = comment_data,
+    like_dates = like_dates, like_data = like_data, likes_corr = likes_corr, likes_rank = likes_rank,
+    comment_dates = comment_dates, comment_data = comment_data, comments_corr = comments_corr, comments_rank = comments_rank,
     title_counts = title_counts, title_words = title_words, desc_words = desc_words, desc_counts = desc_counts 
     
     )

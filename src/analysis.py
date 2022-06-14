@@ -213,18 +213,8 @@ def get_views_duration(df):
         
     return (labels, values)
 
-def corr_duration(df):
-    """"""
-    dur_corr = df["Views"].corr(df["Duration"])
-    dur_corr = round(dur_corr, 4)
-    dur_rating = _corr_rating(dur_corr)
-    
-    return (dur_corr, dur_rating)
-    
-    
-
-def corr_title(df):
-    title_corr = df["Views"].corr(df["Title length"])
+def get_corr_views(df, var):
+    title_corr = df["Views"].corr(df[var])
     title_corr = round(title_corr, 4)
     title_rating = _corr_rating(title_corr)
     
@@ -239,14 +229,16 @@ def _corr_rating(corr):
     corr = abs(corr)
     if corr <= 0.19:
         rating = "Very low"
-    elif corr < 0.2 and corr <= 0.39:
+    elif corr > 0.19 and corr <= 0.39:
         rating = "Low"
-    elif corr < 0.4 and corr <= 0.59:
+    elif corr > 0.39 and corr <= 0.59:
         rating = "Moderate"
-    elif corr < 0.6 and corr <= 0.79:
+    elif corr > 0.59 and corr <= 0.79:
         rating = "High"
-    elif corr < 0.8 and corr <= 1:
+    elif corr > 0.79 and corr <= 1:
         rating = "Very high"
+    else:
+        rating = "ERROR"
     
     return f"{rating} {suffix}"
    
@@ -299,7 +291,7 @@ def get_title_count(df):
     
     #Remove word formatting
     words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S",
-                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/" ]
+                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/", "amp;"]
     for format in words_formatting:
         words_str = words_str.replace(format, ' ')
 
@@ -323,7 +315,7 @@ def get_description_count(df):
         
     #Remove word formatting
     words_formatting = [",", "...", "(", ")", ":", "-", ".", "+", "=", "&", "?", "!", "#39;S",
-                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/" ]
+                        "000", "#39;s", "https", "com", "\\", "http", "www", "//", "/", "amp;" ]
     for format in words_formatting:
         words_str = words_str.replace(format, ' ')
     en = spacy.load('en_core_web_sm')

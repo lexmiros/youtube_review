@@ -16,13 +16,15 @@
 </div>
 
 <div class="float-child-half">
-    <h2>Ratio Likes : Views</h2>  
+    <h2>Likes</h2>  
+    <h3>{{likes_rank}} between views and likes : {{likes_corr}}</h3>  
     <canvas class="chart" id="likesChart" width="550" height="450"></canvas>
     <h3> </h3>  
 </div>
 
 <div class="float-child-half">
-    <h2>Ratio Comments : Views</h2>  
+    <h2>Comments</h2>  
+    <h3>{{comments_rank}} between views and comments: {{comments_corr}} </h3>  
     <canvas class="chart" id="commentsChart" width="550" height="450"></canvas>
     <h3> </h3>  
 </div>
@@ -211,7 +213,7 @@
                     title:{
                         color: 'white',
                         display: true,
-                        text: "Likes per view",
+                        text: "Comments per view",
                         font: {   
                             weight : 'bold',
                             size : 20,   

@@ -24,17 +24,17 @@
     <h3> Duration: {{avg_duration}} mins</h3>  
 </div>
 
-<h2>Publish Frequency</h2>
+<h2>Upload Frequency</h2>
 <div class="float-child-full">
     <img src="/static/freq.png" alt="Italian Trulli" style="width: 200px;height: 200px;">
-    <h3> On average {{user}} posts every {{average_post}}  hours</h3>  
+    <h3> On average {{user}} uploads a video every {{average_post}}  hours</h3>  
 </div>
 
-<div class="float-child-full-graph">
-    <h2>Posts per month</h2>  
-    <canvas class="chart" id="freqChart" width="550" height="450"></canvas>
-    <h3> </h3>  
+<div class="float-child-full">
+    <h2>Video uploads per month</h2>  
+    <canvas class="chart" id="freqChart" width="550" height="250"></canvas> 
 </div>
+
 
 
 <script>
@@ -75,7 +75,7 @@
                     title:{
                         color: 'white',
                         display: true,
-                        text: "Year-Month",
+                        text: "Year-Month (Months with 0 uploads removed)",
                         font: {   
                             weight : 'bold',
                             size : 20, 
